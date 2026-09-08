@@ -74,6 +74,36 @@ SELECT
             0
         ),
         2
+
+
+# Calculate the statistics by channel
+SELECT
+    channel,
+    COUNT(amount) FILTER (
+        WHERE status = 'Approved'
+    ) AS approved_count,
+
+    SUM(amount) FILTER (
+        WHERE status = 'Approved'
+    ) AS approved_total,
+
+    ROUND(
+        AVG(amount) FILTER (
+            WHERE status = 'Approved'
+        ),
+        2
+    ) AS mean_approved_amount,
+
+    PERCENTILE_CONT(0.5)
+        WITHIN GROUP (ORDER BY amount)
+        FILTER (
+            WHERE status = 'Approved'
+              AND amount IS NOT NULL
+        ) AS median_approved_amount
+
+FROM nina_school.loan_applications
+GROUP BY channel
+ORDER BY channel;
     ) AS disbursement_contribution_pct
 
 FROM loan_applications
