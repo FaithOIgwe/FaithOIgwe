@@ -1,0 +1,40 @@
+{
+  "name": "Lumen Retail Console",
+  "dataColors": ["#2EC4B6", "#6B8AFD", "#F4A259", "#FF6B6B", "#4ADE80", "#FBBF24", "#A78BFA", "#38BDF8"],
+  "foreground": "#E7F2F3",
+  "foregroundNeutralSecondary": "#8BA5A9",
+  "foregroundNeutralTertiary": "#5F7A7E",
+  "background": "#0F1F22",
+  "backgroundLight": "#132629",
+  "backgroundNeutral": "#1F363A",
+  "tableAccent": "#2EC4B6",
+  "good": "#4ADE80",
+  "neutral": "#FBBF24",
+  "bad": "#FF6B6B",
+  "maximum": "#2EC4B6",
+  "center": "#FBBF24",
+  "minimum": "#FF6B6B",
+  "textClasses": {
+    "callout": {"fontSize": 24, "fontFace": "Segoe UI Semibold", "color": "#E7F2F3"},
+    "title": {"fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#E7F2F3"},
+    "header": {"fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#E7F2F3"},
+    "label": {"fontSize": 10, "fontFace": "Segoe UI", "color": "#8BA5A9"}
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"show": true, "color": {"solid": {"color": "#0F1F22"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#1F363A"}}, "radius": 10}],
+        "visualHeader": [{"show": false}],
+        "title": [{"fontColor": {"solid": {"color": "#E7F2F3"}}, "fontSize": 12}],
+        "dropShadow": [{"show": false}]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#0A1517"}}, "transparency": 0}],
+        "outspace": [{"color": {"solid": {"color": "#0A1517"}}, "transparency": 0}]
+      }
+    }
+  }
+}

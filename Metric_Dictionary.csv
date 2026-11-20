@@ -1,0 +1,23 @@
+metric_id,department,metric,question,calculation,better_when,unit,target,breakdown,linked_metric_id,sort_order
+sales_rev_vs_target,Sales,Revenue vs target,Are we hitting our sales goal?,Actual revenue ÷ target revenue,Higher,pct,1.0,Region,ops_stockout,1
+sales_aov,Sales,Average order value,How much does a customer spend per order?,Revenue ÷ number of orders,Higher,naira,25000,Region,,2
+sales_conversion,Sales,Conversion rate,How many visitors actually buy?,Orders ÷ site and store visits,Higher,pct,0.031,Region,ops_stockout,3
+sales_rev_by_cat,Sales,Revenue,Which products drive sales?,"Sum of order revenue, net of discounts",Higher,naira,,Category,ops_stockout,4
+mkt_cac,Marketing,Customer acquisition cost,How much does it cost to win a new customer?,Marketing spend ÷ new customers,Lower,naira,5300,Channel,sales_conversion,5
+mkt_roas,Marketing,Return on ad spend,Which channels pay back what we spend?,Attributed revenue ÷ ad spend,Higher,x,4.0,Channel,sales_conversion,6
+mkt_new_share,Marketing,New customer share,Are we growing new customers or relying on repeat buyers?,Orders from first-time customers ÷ all orders,Higher,pct,0.33,Region,,7
+ops_ontime,Operations,On-time delivery,Are orders arriving when promised?,Orders delivered by promised date ÷ orders delivered,Higher,pct,0.93,Region,ops_stockout,8
+ops_stockout,Operations,Stock-out rate,How often are products unavailable?,Product-days out of stock ÷ total product-days,Lower,pct,0.04,Region,,9
+ops_inventory_days,Operations,Inventory days,How long does stock sit before it sells?,Average inventory ÷ average daily cost of goods sold,Lower,days,45,Category,,10
+ops_returns,Operations,Return rate,How many orders come back?,Orders returned ÷ orders delivered,Lower,pct,0.06,Region,ops_ontime,11
+cs_frt,Customer Service,First response time,How quickly do we reply to customers?,Average hours from ticket opened to first reply,Lower,hours,3,Region,ops_ontime,12
+cs_resolution,Customer Service,Resolution time,How long does it take to fix an issue?,Average hours from ticket opened to resolved,Lower,hours,24,Region,ops_ontime,13
+cs_csat,Customer Service,Customer satisfaction,Are customers happy with the help they get?,Satisfied survey responses ÷ all responses,Higher,pct,0.85,Region,cs_resolution,14
+cs_ticket_drivers,Customer Service,Tickets about late delivery,Why are customers contacting us?,Tickets tagged 'late delivery' ÷ all tickets,Lower,pct,0.2,Reason,ops_ontime,15
+fin_gross_margin,Finance,Gross margin,How much do we keep after the cost of goods?,(Revenue − cost of goods sold) ÷ revenue,Higher,pct,0.3,Category,ops_returns,16
+fin_opex_vs_budget,Finance,Operating expenses vs budget,Are we spending within budget?,Actual operating expenses ÷ budget,Lower,pct,1.0,Cost centre,ops_ontime,17
+fin_cash,Finance,Cash collected,How much money actually came in?,Payments received in the month,Higher,naira,,Region,ops_returns,18
+hr_headcount,People,Headcount,How many people work here?,Active employees at month end,Neither,people,,Team,,19
+hr_attrition,People,Monthly attrition,How many people are leaving?,Leavers ÷ headcount,Lower,pct,0.018,Team,hr_absenteeism,20
+hr_time_to_hire,People,Time to hire,How long does it take to fill a role?,Days from job opened to offer accepted,Lower,days,30,Team,,21
+hr_absenteeism,People,Absenteeism,How often are people absent?,Absent days ÷ scheduled working days,Lower,pct,0.035,Team,ops_ontime,22

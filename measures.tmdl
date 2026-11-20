@@ -1,0 +1,208 @@
+createOrReplace
+
+	ref table Metric_Values
+
+		measure 'Sel Month' = MAX ( Metric_Values[month] )
+			formatString: mmm yyyy
+			displayFolder: _base
+
+		measure 'Metric Value' = ```
+				VAR m = [Sel Month]
+				RETURN CALCULATE ( SUM ( Metric_Values[value] ), Metric_Values[member] = "All", Metric_Values[month] = m )
+				```
+			displayFolder: _base
+
+		measure 'Prior Value' = ```
+				VAR m = [Sel Month]
+				RETURN CALCULATE ( SUM ( Metric_Values[value] ), Metric_Values[member] = "All", REMOVEFILTERS ( Metric_Values[month] ), Metric_Values[month] = EDATE ( m, -1 ) )
+				```
+			displayFolder: _base
+
+		measure 'Unit' = SELECTEDVALUE ( Metric_Dictionary[unit] )
+			displayFolder: _base
+
+		measure 'Better' = SELECTEDVALUE ( Metric_Dictionary[better_when] )
+			displayFolder: _base
+
+		measure 'Target' = SELECTEDVALUE ( Metric_Dictionary[target] )
+			displayFolder: _base
+
+		measure 'Change' = ```
+				VAR v = [Metric Value]
+				VAR p = [Prior Value]
+				RETURN IF ( ISBLANK ( p ) || ISBLANK ( v ), BLANK (), IF ( [Unit] = "pct", v - p, DIVIDE ( v - p, p ) ) )
+				```
+			displayFolder: _base
+
+		measure 'Status' = ```
+				VAR v = [Metric Value]
+				VAR t = [Target]
+				VAR b = [Better]
+				RETURN
+				    IF ( ISBLANK ( t ) || ISBLANK ( v ), "none",
+				        SWITCH ( b,
+				            "Higher", IF ( v >= t, "ok", IF ( v >= t * 0.97, "warn", "bad" ) ),
+				            "Lower", IF ( v <= t, "ok", IF ( v <= t * 1.05, "warn", "bad" ) ),
+				            "none" ) )
+				```
+			displayFolder: _base
+
+		measure 'Value Display' = ```
+				VAR v = [Metric Value]
+				VAR u = [Unit]
+				RETURN
+				    IF ( ISBLANK ( v ), BLANK (),
+				        SWITCH ( u,
+				            "pct", FORMAT ( v, "0.0%" ),
+				            "naira", IF ( v >= 1e9, "₦" & FORMAT ( v / 1e9, "0.00" ) & "bn", IF ( v >= 1e6, "₦" & FORMAT ( v / 1e6, "0.0" ) & "m", IF ( v >= 1e4, "₦" & FORMAT ( v / 1e3, "0.0" ) & "k", "₦" & FORMAT ( v, "#,0" ) ) ) ),
+				            "x", FORMAT ( v, "0.00" ) & "x",
+				            "hours", FORMAT ( v, "0.0" ) & " h",
+				            "days", FORMAT ( v, "0.0" ) & " days",
+				            "people", FORMAT ( v, "#,0" ),
+				            FORMAT ( v, "0.00" ) ) )
+				```
+			displayFolder: Display
+
+		measure 'Target Display' = ```
+				VAR t = [Target]
+				VAR u = [Unit]
+				RETURN
+				    IF ( ISBLANK ( t ), "No target",
+				        "Target " & SWITCH ( u,
+				            "pct", FORMAT ( t, "0.0%" ),
+				            "naira", "₦" & FORMAT ( t, "#,0" ),
+				            "x", FORMAT ( t, "0.00" ) & "x",
+				            "hours", FORMAT ( t, "0.0" ) & " h",
+				            "days", FORMAT ( t, "0" ) & " days",
+				            FORMAT ( t, "0.00" ) ) )
+				```
+			displayFolder: Display
+
+		measure 'Change Display' = ```
+				VAR c = [Change]
+				RETURN
+				    IF ( ISBLANK ( c ), "No prior month",
+				        IF ( c >= 0, "+", "−" )
+				            & IF ( [Unit] = "pct", FORMAT ( ABS ( c ) * 100, "0.0" ) & " pt", FORMAT ( ABS ( c ), "0.0%" ) )
+				            & " vs last month" )
+				```
+			displayFolder: Display
+
+		measure 'Status Color' = SWITCH ( [Status], "ok", "#4ADE80", "warn", "#FBBF24", "bad", "#FF6B6B", "#2EC4B6" )
+			displayFolder: Display
+
+		measure 'Change Color' = ```
+				VAR c = [Change]
+				VAR b = [Better]
+				RETURN IF ( ISBLANK ( c ) || b = "Neither", "#8BA5A9", IF ( ( c > 0 ) = ( b = "Higher" ), "#4ADE80", "#FF6B6B" ) )
+				```
+			displayFolder: Display
+
+		measure 'Member Value' = ```
+				VAR m = [Sel Month]
+				RETURN CALCULATE ( SUM ( Metric_Values[value] ), Metric_Values[month] = m, Metric_Values[member] <> "All" )
+				```
+			displayFolder: Breakdown
+
+		measure 'Member Value Display' = ```
+				VAR v = [Member Value]
+				VAR u = [Unit]
+				RETURN
+				    IF ( ISBLANK ( v ), BLANK (),
+				        SWITCH ( u,
+				            "pct", FORMAT ( v, "0.0%" ),
+				            "naira", IF ( v >= 1e9, "₦" & FORMAT ( v / 1e9, "0.00" ) & "bn", IF ( v >= 1e6, "₦" & FORMAT ( v / 1e6, "0.0" ) & "m", IF ( v >= 1e4, "₦" & FORMAT ( v / 1e3, "0.0" ) & "k", "₦" & FORMAT ( v, "#,0" ) ) ) ),
+				            "x", FORMAT ( v, "0.00" ) & "x",
+				            "hours", FORMAT ( v, "0.0" ) & " h",
+				            "days", FORMAT ( v, "0.0" ) & " days",
+				            "people", FORMAT ( v, "#,0" ),
+				            FORMAT ( v, "0.00" ) ) )
+				```
+			displayFolder: Breakdown
+
+		measure 'Member Color' = ```
+				VAR v = [Member Value]
+				VAR t = [Target]
+				VAR b = [Better]
+				RETURN
+				    IF ( ISBLANK ( t ), "#2EC4B6",
+				        SWITCH ( b,
+				            "Higher", IF ( v >= t * 0.97, "#2EC4B6", "#FF6B6B" ),
+				            "Lower", IF ( v <= t * 1.05, "#2EC4B6", "#FF6B6B" ),
+				            "#2EC4B6" ) )
+				```
+			displayFolder: Breakdown
+
+		measure 'Severity' = ```
+				VAR s = [Status]
+				VAR c = [Change]
+				VAR b = [Better]
+				VAR adv = IF ( ISBLANK ( c ) || b = "Neither", 0, MAX ( 0, IF ( b = "Higher", -1, 1 ) * c * IF ( [Unit] = "pct", 20, 4 ) ) )
+				VAR base = SWITCH ( s, "bad", 2, "warn", 1, 0 )
+				RETURN IF ( s = "bad" || adv > 0.04, base + adv, 0 )
+				```
+			displayFolder: Insights
+
+		measure 'Improvement' = ```
+				VAR c = [Change]
+				VAR b = [Better]
+				RETURN IF ( ISBLANK ( c ) || b = "Neither", 0, IF ( b = "Higher", 1, -1 ) * c * IF ( [Unit] = "pct", 20, 4 ) )
+				```
+			displayFolder: Insights
+
+		measure 'Metric Insight' = ```
+				VAR nm = SELECTEDVALUE ( Metric_Dictionary[metric] )
+				VAR c = [Change]
+				VAR t = [Target]
+				VAR b = [Better]
+				VAR m = [Sel Month]
+				VAR dim = SELECTEDVALUE ( Metric_Dictionary[breakdown] )
+				VAR members =
+				    CALCULATETABLE (
+				        ADDCOLUMNS ( VALUES ( Metric_Values[member] ), "@v", CALCULATE ( SUM ( Metric_Values[value] ) ) ),
+				        Metric_Values[month] = m, Metric_Values[member] <> "All" )
+				VAR worst = IF ( b = "Lower", TOPN ( 1, members, [@v], DESC ), TOPN ( 1, members, [@v], ASC ) )
+				VAR wName = MAXX ( worst, Metric_Values[member] )
+				VAR wDisp = CALCULATE ( [Member Value Display], Metric_Values[member] = wName )
+				VAR lid = SELECTEDVALUE ( Metric_Dictionary[linked_metric_id] )
+				VAR lName = CALCULATE ( SELECTEDVALUE ( Metric_Dictionary[metric] ), REMOVEFILTERS ( Metric_Dictionary ), Metric_Dictionary[metric_id] = lid )
+				VAR lDept = CALCULATE ( SELECTEDVALUE ( Metric_Dictionary[department] ), REMOVEFILTERS ( Metric_Dictionary ), Metric_Dictionary[metric_id] = lid )
+				VAR lAdv = CALCULATE ( [Improvement], REMOVEFILTERS ( Metric_Dictionary ), Metric_Dictionary[metric_id] = lid )
+				VAR lChg = CALCULATE ( [Change Display], REMOVEFILTERS ( Metric_Dictionary ), Metric_Dictionary[metric_id] = lid )
+				RETURN
+				    "● " & nm & IF ( c > 0, " rose to ", " fell to " ) & [Value Display]
+				        & " (" & SUBSTITUTE ( [Change Display], " vs last month", "" ) & " vs last month)"
+				        & IF ( ISBLANK ( t ), ".", ", against a " & LOWER ( [Target Display] ) & "." )
+				        & IF ( dim = "Reason", " Late delivery is now the top reason customers get in touch.",
+				            IF ( NOT ISBLANK ( wName ), " " & wName & " is the weakest at " & wDisp & "." ) )
+				        & IF ( NOT ISBLANK ( lid ) && lAdv < -0.04,
+				            UNICHAR ( 10 ) & "   Likely linked: " & lName & " (" & lDept & ") moved " & SUBSTITUTE ( lChg, " vs last month", "" ) & "." )
+				```
+			displayFolder: Insights
+
+		measure 'What Changed' = ```
+				VAR ranked = TOPN ( 3, FILTER ( VALUES ( Metric_Dictionary[metric_id] ), [Severity] > 0 ), [Severity], DESC )
+				VAR bad = CONCATENATEX ( ranked, [Metric Insight], UNICHAR ( 10 ) & UNICHAR ( 10 ), [Severity], DESC )
+				VAR bestId = MAXX ( TOPN ( 1, FILTER ( EXCEPT ( VALUES ( Metric_Dictionary[metric_id] ), ranked ), [Improvement] > 0.04 ), [Improvement], DESC ), Metric_Dictionary[metric_id] )
+				VAR good =
+				    IF ( NOT ISBLANK ( bestId ),
+				        "★ Bright spot: " & CALCULATE ( SELECTEDVALUE ( Metric_Dictionary[metric] ), Metric_Dictionary[metric_id] = bestId )
+				            & " improved to " & CALCULATE ( [Value Display], Metric_Dictionary[metric_id] = bestId )
+				            & " (" & SUBSTITUTE ( CALCULATE ( [Change Display], Metric_Dictionary[metric_id] = bestId ), " vs last month", "" ) & ")." )
+				RETURN
+				    IF ( ISBLANK ( bad ) && ISBLANK ( good ), "Nothing moved much this month.",
+				        bad & IF ( NOT ISBLANK ( bad ) && NOT ISBLANK ( good ), UNICHAR ( 10 ) & UNICHAR ( 10 ) ) & good )
+				```
+			displayFolder: Insights
+
+		measure 'Targets Met' = COUNTROWS ( FILTER ( VALUES ( Metric_Dictionary[metric_id] ), [Status] = "ok" ) ) + 0
+			displayFolder: Insights
+
+		measure 'Targets Tracked' = COUNTROWS ( FILTER ( VALUES ( Metric_Dictionary[metric_id] ), NOT ISBLANK ( [Target] ) ) ) + 0
+			displayFolder: Insights
+
+		measure 'Headline' = ```
+				VAR dept = IF ( ISFILTERED ( Metric_Dictionary[department] ) && HASONEVALUE ( Metric_Dictionary[department] ), VALUES ( Metric_Dictionary[department] ), "the whole business" )
+				RETURN "In " & FORMAT ( [Sel Month], "mmmm yyyy" ) & ", " & dept & " met " & [Targets Met] & " of " & [Targets Tracked] & " targets."
+				```
+			displayFolder: Insights

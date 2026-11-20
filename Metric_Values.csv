@@ -1,0 +1,2993 @@
+metric_id,month,member,value
+sales_rev_vs_target,2025-01-01,Lagos,0.956955
+sales_rev_vs_target,2025-01-01,Abuja,0.956711
+sales_rev_vs_target,2025-01-01,Port Harcourt,0.989224
+sales_rev_vs_target,2025-01-01,Ibadan,1.051774
+sales_rev_vs_target,2025-01-01,Kano,0.989472
+sales_rev_vs_target,2025-01-01,All,0.979248
+sales_rev_vs_target,2025-02-01,Lagos,0.966842
+sales_rev_vs_target,2025-02-01,Abuja,0.951647
+sales_rev_vs_target,2025-02-01,Port Harcourt,0.97981
+sales_rev_vs_target,2025-02-01,Ibadan,0.978379
+sales_rev_vs_target,2025-02-01,Kano,0.956937
+sales_rev_vs_target,2025-02-01,All,0.966076
+sales_rev_vs_target,2025-03-01,Lagos,0.995254
+sales_rev_vs_target,2025-03-01,Abuja,0.976531
+sales_rev_vs_target,2025-03-01,Port Harcourt,0.98617
+sales_rev_vs_target,2025-03-01,Ibadan,1.043395
+sales_rev_vs_target,2025-03-01,Kano,1.012501
+sales_rev_vs_target,2025-03-01,All,0.999129
+sales_rev_vs_target,2025-04-01,Lagos,1.027194
+sales_rev_vs_target,2025-04-01,Abuja,1.045981
+sales_rev_vs_target,2025-04-01,Port Harcourt,0.951291
+sales_rev_vs_target,2025-04-01,Ibadan,1.042233
+sales_rev_vs_target,2025-04-01,Kano,0.967597
+sales_rev_vs_target,2025-04-01,All,1.013924
+sales_rev_vs_target,2025-05-01,Lagos,1.046296
+sales_rev_vs_target,2025-05-01,Abuja,1.025419
+sales_rev_vs_target,2025-05-01,Port Harcourt,0.971675
+sales_rev_vs_target,2025-05-01,Ibadan,0.945097
+sales_rev_vs_target,2025-05-01,Kano,0.949192
+sales_rev_vs_target,2025-05-01,All,1.004136
+sales_rev_vs_target,2025-06-01,Lagos,1.003847
+sales_rev_vs_target,2025-06-01,Abuja,1.059281
+sales_rev_vs_target,2025-06-01,Port Harcourt,1.016075
+sales_rev_vs_target,2025-06-01,Ibadan,0.975445
+sales_rev_vs_target,2025-06-01,Kano,1.04
+sales_rev_vs_target,2025-06-01,All,1.017492
+sales_rev_vs_target,2025-07-01,Lagos,0.996464
+sales_rev_vs_target,2025-07-01,Abuja,0.968993
+sales_rev_vs_target,2025-07-01,Port Harcourt,1.019795
+sales_rev_vs_target,2025-07-01,Ibadan,0.964902
+sales_rev_vs_target,2025-07-01,Kano,0.939404
+sales_rev_vs_target,2025-07-01,All,0.982633
+sales_rev_vs_target,2025-08-01,Lagos,0.998167
+sales_rev_vs_target,2025-08-01,Abuja,1.027036
+sales_rev_vs_target,2025-08-01,Port Harcourt,1.024562
+sales_rev_vs_target,2025-08-01,Ibadan,1.001393
+sales_rev_vs_target,2025-08-01,Kano,0.962824
+sales_rev_vs_target,2025-08-01,All,1.003757
+sales_rev_vs_target,2025-09-01,Lagos,1.005992
+sales_rev_vs_target,2025-09-01,Abuja,1.041736
+sales_rev_vs_target,2025-09-01,Port Harcourt,1.017267
+sales_rev_vs_target,2025-09-01,Ibadan,0.989834
+sales_rev_vs_target,2025-09-01,Kano,1.055514
+sales_rev_vs_target,2025-09-01,All,1.019008
+sales_rev_vs_target,2025-10-01,Lagos,0.999606
+sales_rev_vs_target,2025-10-01,Abuja,0.987152
+sales_rev_vs_target,2025-10-01,Port Harcourt,0.984922
+sales_rev_vs_target,2025-10-01,Ibadan,0.985537
+sales_rev_vs_target,2025-10-01,Kano,1.007491
+sales_rev_vs_target,2025-10-01,All,0.993968
+sales_rev_vs_target,2025-11-01,Lagos,0.989232
+sales_rev_vs_target,2025-11-01,Abuja,1.03551
+sales_rev_vs_target,2025-11-01,Port Harcourt,1.019863
+sales_rev_vs_target,2025-11-01,Ibadan,0.99506
+sales_rev_vs_target,2025-11-01,Kano,0.978224
+sales_rev_vs_target,2025-11-01,All,1.002467
+sales_rev_vs_target,2025-12-01,Lagos,1.006716
+sales_rev_vs_target,2025-12-01,Abuja,1.00902
+sales_rev_vs_target,2025-12-01,Port Harcourt,1.005291
+sales_rev_vs_target,2025-12-01,Ibadan,0.991659
+sales_rev_vs_target,2025-12-01,Kano,0.991202
+sales_rev_vs_target,2025-12-01,All,1.002838
+sales_rev_vs_target,2026-01-01,Lagos,0.999623
+sales_rev_vs_target,2026-01-01,Abuja,1.036399
+sales_rev_vs_target,2026-01-01,Port Harcourt,1.018485
+sales_rev_vs_target,2026-01-01,Ibadan,1.014619
+sales_rev_vs_target,2026-01-01,Kano,1.063166
+sales_rev_vs_target,2026-01-01,All,1.020167
+sales_rev_vs_target,2026-02-01,Lagos,1.041494
+sales_rev_vs_target,2026-02-01,Abuja,1.017603
+sales_rev_vs_target,2026-02-01,Port Harcourt,1.039512
+sales_rev_vs_target,2026-02-01,Ibadan,1.012074
+sales_rev_vs_target,2026-02-01,Kano,1.016712
+sales_rev_vs_target,2026-02-01,All,1.029078
+sales_rev_vs_target,2026-03-01,Lagos,0.972606
+sales_rev_vs_target,2026-03-01,Abuja,1.042957
+sales_rev_vs_target,2026-03-01,Port Harcourt,1.013393
+sales_rev_vs_target,2026-03-01,Ibadan,1.036284
+sales_rev_vs_target,2026-03-01,Kano,1.033824
+sales_rev_vs_target,2026-03-01,All,1.009667
+sales_rev_vs_target,2026-04-01,Lagos,1.033737
+sales_rev_vs_target,2026-04-01,Abuja,0.960633
+sales_rev_vs_target,2026-04-01,Port Harcourt,1.040804
+sales_rev_vs_target,2026-04-01,Ibadan,0.993852
+sales_rev_vs_target,2026-04-01,Kano,1.018728
+sales_rev_vs_target,2026-04-01,All,1.012641
+sales_rev_vs_target,2026-05-01,Lagos,0.966706
+sales_rev_vs_target,2026-05-01,Abuja,0.975899
+sales_rev_vs_target,2026-05-01,Port Harcourt,0.985721
+sales_rev_vs_target,2026-05-01,Ibadan,1.00245
+sales_rev_vs_target,2026-05-01,Kano,1.021047
+sales_rev_vs_target,2026-05-01,All,0.983465
+sales_rev_vs_target,2026-06-01,Lagos,0.979962
+sales_rev_vs_target,2026-06-01,Abuja,0.977966
+sales_rev_vs_target,2026-06-01,Port Harcourt,0.96616
+sales_rev_vs_target,2026-06-01,Ibadan,0.959947
+sales_rev_vs_target,2026-06-01,Kano,1.037894
+sales_rev_vs_target,2026-06-01,All,0.982221
+sales_rev_vs_target,2026-07-01,Lagos,0.952713
+sales_rev_vs_target,2026-07-01,Abuja,1.065
+sales_rev_vs_target,2026-07-01,Port Harcourt,1.02288
+sales_rev_vs_target,2026-07-01,Ibadan,1.000853
+sales_rev_vs_target,2026-07-01,Kano,1.017979
+sales_rev_vs_target,2026-07-01,All,1.00092
+sales_rev_vs_target,2026-08-01,Lagos,1.011039
+sales_rev_vs_target,2026-08-01,Abuja,0.965627
+sales_rev_vs_target,2026-08-01,Port Harcourt,0.956323
+sales_rev_vs_target,2026-08-01,Ibadan,1.055639
+sales_rev_vs_target,2026-08-01,Kano,1.04438
+sales_rev_vs_target,2026-08-01,All,1.004328
+sales_rev_vs_target,2026-09-01,Lagos,1.022271
+sales_rev_vs_target,2026-09-01,Abuja,1.072916
+sales_rev_vs_target,2026-09-01,Port Harcourt,1.050611
+sales_rev_vs_target,2026-09-01,Ibadan,1.056506
+sales_rev_vs_target,2026-09-01,Kano,1.08934
+sales_rev_vs_target,2026-09-01,All,1.050163
+sales_rev_vs_target,2026-10-01,Lagos,0.890804
+sales_rev_vs_target,2026-10-01,Abuja,0.89901
+sales_rev_vs_target,2026-10-01,Port Harcourt,0.888747
+sales_rev_vs_target,2026-10-01,Ibadan,0.912361
+sales_rev_vs_target,2026-10-01,Kano,0.894682
+sales_rev_vs_target,2026-10-01,All,0.895659
+sales_aov,2025-01-01,Lagos,24169.293098
+sales_aov,2025-01-01,Abuja,24720.330124
+sales_aov,2025-01-01,Port Harcourt,23901.33639
+sales_aov,2025-01-01,Ibadan,25031.709143
+sales_aov,2025-01-01,Kano,24309.166022
+sales_aov,2025-01-01,All,24378.786248
+sales_aov,2025-02-01,Lagos,24027.618264
+sales_aov,2025-02-01,Abuja,24241.509404
+sales_aov,2025-02-01,Port Harcourt,24883.085183
+sales_aov,2025-02-01,Ibadan,24223.222948
+sales_aov,2025-02-01,Kano,24692.721347
+sales_aov,2025-02-01,All,24309.164774
+sales_aov,2025-03-01,Lagos,23849.032951
+sales_aov,2025-03-01,Abuja,25073.722352
+sales_aov,2025-03-01,Port Harcourt,24752.384628
+sales_aov,2025-03-01,Ibadan,25059.870335
+sales_aov,2025-03-01,Kano,24740.181411
+sales_aov,2025-03-01,All,24504.795811
+sales_aov,2025-04-01,Lagos,25027.132079
+sales_aov,2025-04-01,Abuja,24175.313739
+sales_aov,2025-04-01,Port Harcourt,24403.808725
+sales_aov,2025-04-01,Ibadan,24822.562099
+sales_aov,2025-04-01,Kano,24365.337576
+sales_aov,2025-04-01,All,24647.072138
+sales_aov,2025-05-01,Lagos,24822.332723
+sales_aov,2025-05-01,Abuja,24686.320202
+sales_aov,2025-05-01,Port Harcourt,24364.171073
+sales_aov,2025-05-01,Ibadan,24282.08544
+sales_aov,2025-05-01,Kano,24259.110429
+sales_aov,2025-05-01,All,24585.341131
+sales_aov,2025-06-01,Lagos,25211.251197
+sales_aov,2025-06-01,Abuja,24983.199747
+sales_aov,2025-06-01,Port Harcourt,25017.018345
+sales_aov,2025-06-01,Ibadan,24937.813565
+sales_aov,2025-06-01,Kano,24714.477263
+sales_aov,2025-06-01,All,25030.875935
+sales_aov,2025-07-01,Lagos,24533.181627
+sales_aov,2025-07-01,Abuja,24735.829362
+sales_aov,2025-07-01,Port Harcourt,24775.455833
+sales_aov,2025-07-01,Ibadan,24008.9065
+sales_aov,2025-07-01,Kano,23823.595353
+sales_aov,2025-07-01,All,24446.016024
+sales_aov,2025-08-01,Lagos,23937.675239
+sales_aov,2025-08-01,Abuja,24512.114111
+sales_aov,2025-08-01,Port Harcourt,25233.38643
+sales_aov,2025-08-01,Ibadan,24108.336796
+sales_aov,2025-08-01,Kano,24503.367991
+sales_aov,2025-08-01,All,24339.897902
+sales_aov,2025-09-01,Lagos,24704.239892
+sales_aov,2025-09-01,Abuja,25202.578392
+sales_aov,2025-09-01,Port Harcourt,24657.385547
+sales_aov,2025-09-01,Ibadan,24413.01009
+sales_aov,2025-09-01,Kano,24985.794751
+sales_aov,2025-09-01,All,24794.826252
+sales_aov,2025-10-01,Lagos,24772.94999
+sales_aov,2025-10-01,Abuja,23796.395458
+sales_aov,2025-10-01,Port Harcourt,25088.780622
+sales_aov,2025-10-01,Ibadan,24240.944049
+sales_aov,2025-10-01,Kano,23828.746604
+sales_aov,2025-10-01,All,24417.722295
+sales_aov,2025-11-01,Lagos,24690.833722
+sales_aov,2025-11-01,Abuja,24670.232142
+sales_aov,2025-11-01,Port Harcourt,24315.186341
+sales_aov,2025-11-01,Ibadan,23851.66303
+sales_aov,2025-11-01,Kano,24357.937884
+sales_aov,2025-11-01,All,24466.887643
+sales_aov,2025-12-01,Lagos,23986.964162
+sales_aov,2025-12-01,Abuja,23948.528328
+sales_aov,2025-12-01,Port Harcourt,24995.390834
+sales_aov,2025-12-01,Ibadan,24425.031992
+sales_aov,2025-12-01,Kano,24494.186108
+sales_aov,2025-12-01,All,24250.990291
+sales_aov,2026-01-01,Lagos,24759.253496
+sales_aov,2026-01-01,Abuja,25157.28135
+sales_aov,2026-01-01,Port Harcourt,25049.951909
+sales_aov,2026-01-01,Ibadan,24091.39587
+sales_aov,2026-01-01,Kano,24720.442206
+sales_aov,2026-01-01,All,24781.057189
+sales_aov,2026-02-01,Lagos,24957.901592
+sales_aov,2026-02-01,Abuja,24137.371235
+sales_aov,2026-02-01,Port Harcourt,24333.367809
+sales_aov,2026-02-01,Ibadan,24237.180799
+sales_aov,2026-02-01,Kano,24168.596379
+sales_aov,2026-02-01,All,24494.928951
+sales_aov,2026-03-01,Lagos,23803.637519
+sales_aov,2026-03-01,Abuja,24975.308917
+sales_aov,2026-03-01,Port Harcourt,24400.948881
+sales_aov,2026-03-01,Ibadan,24133.389804
+sales_aov,2026-03-01,Kano,24654.554195
+sales_aov,2026-03-01,All,24287.81144
+sales_aov,2026-04-01,Lagos,24456.762674
+sales_aov,2026-04-01,Abuja,23873.091672
+sales_aov,2026-04-01,Port Harcourt,24874.798803
+sales_aov,2026-04-01,Ibadan,24666.210138
+sales_aov,2026-04-01,Kano,24755.495397
+sales_aov,2026-04-01,All,24473.825959
+sales_aov,2026-05-01,Lagos,24759.634701
+sales_aov,2026-05-01,Abuja,24469.246517
+sales_aov,2026-05-01,Port Harcourt,23842.161927
+sales_aov,2026-05-01,Ibadan,24058.200283
+sales_aov,2026-05-01,Kano,25061.900111
+sales_aov,2026-05-01,All,24498.155438
+sales_aov,2026-06-01,Lagos,24087.119043
+sales_aov,2026-06-01,Abuja,24874.467138
+sales_aov,2026-06-01,Port Harcourt,24247.332927
+sales_aov,2026-06-01,Ibadan,24444.696109
+sales_aov,2026-06-01,Kano,23866.458145
+sales_aov,2026-06-01,All,24281.602015
+sales_aov,2026-07-01,Lagos,23975.592838
+sales_aov,2026-07-01,Abuja,25149.132022
+sales_aov,2026-07-01,Port Harcourt,24949.490955
+sales_aov,2026-07-01,Ibadan,24830.139527
+sales_aov,2026-07-01,Kano,24254.457537
+sales_aov,2026-07-01,All,24521.235217
+sales_aov,2026-08-01,Lagos,24804.539259
+sales_aov,2026-08-01,Abuja,24543.243941
+sales_aov,2026-08-01,Port Harcourt,24538.890299
+sales_aov,2026-08-01,Ibadan,25026.582164
+sales_aov,2026-08-01,Kano,25026.201661
+sales_aov,2026-08-01,All,24777.519178
+sales_aov,2026-09-01,Lagos,21554.156312
+sales_aov,2026-09-01,Abuja,21575.302201
+sales_aov,2026-09-01,Port Harcourt,21544.820034
+sales_aov,2026-09-01,Ibadan,21290.801949
+sales_aov,2026-09-01,Kano,21570.376223
+sales_aov,2026-09-01,All,21521.754511
+sales_aov,2026-10-01,Lagos,23791.803736
+sales_aov,2026-10-01,Abuja,24423.377764
+sales_aov,2026-10-01,Port Harcourt,23480.196556
+sales_aov,2026-10-01,Ibadan,24418.721852
+sales_aov,2026-10-01,Kano,23345.478089
+sales_aov,2026-10-01,All,23896.820871
+sales_conversion,2025-01-01,Lagos,0.029822
+sales_conversion,2025-01-01,Abuja,0.030253
+sales_conversion,2025-01-01,Port Harcourt,0.030595
+sales_conversion,2025-01-01,Ibadan,0.031294
+sales_conversion,2025-01-01,Kano,0.030665
+sales_conversion,2025-01-01,All,0.030343
+sales_conversion,2025-02-01,Lagos,0.031001
+sales_conversion,2025-02-01,Abuja,0.029761
+sales_conversion,2025-02-01,Port Harcourt,0.029932
+sales_conversion,2025-02-01,Ibadan,0.030259
+sales_conversion,2025-02-01,Kano,0.029936
+sales_conversion,2025-02-01,All,0.030348
+sales_conversion,2025-03-01,Lagos,0.031615
+sales_conversion,2025-03-01,Abuja,0.030057
+sales_conversion,2025-03-01,Port Harcourt,0.030742
+sales_conversion,2025-03-01,Ibadan,0.032074
+sales_conversion,2025-03-01,Kano,0.030502
+sales_conversion,2025-03-01,All,0.031093
+sales_conversion,2025-04-01,Lagos,0.031923
+sales_conversion,2025-04-01,Abuja,0.032158
+sales_conversion,2025-04-01,Port Harcourt,0.030029
+sales_conversion,2025-04-01,Ibadan,0.031095
+sales_conversion,2025-04-01,Kano,0.030527
+sales_conversion,2025-04-01,All,0.03139
+sales_conversion,2025-05-01,Lagos,0.031279
+sales_conversion,2025-05-01,Abuja,0.031053
+sales_conversion,2025-05-01,Port Harcourt,0.029919
+sales_conversion,2025-05-01,Ibadan,0.029775
+sales_conversion,2025-05-01,Kano,0.029832
+sales_conversion,2025-05-01,All,0.030638
+sales_conversion,2025-06-01,Lagos,0.03006
+sales_conversion,2025-06-01,Abuja,0.031336
+sales_conversion,2025-06-01,Port Harcourt,0.030426
+sales_conversion,2025-06-01,Ibadan,0.030286
+sales_conversion,2025-06-01,Kano,0.031473
+sales_conversion,2025-06-01,All,0.030591
+sales_conversion,2025-07-01,Lagos,0.03032
+sales_conversion,2025-07-01,Abuja,0.030283
+sales_conversion,2025-07-01,Port Harcourt,0.030886
+sales_conversion,2025-07-01,Ibadan,0.029937
+sales_conversion,2025-07-01,Kano,0.029959
+sales_conversion,2025-07-01,All,0.030297
+sales_conversion,2025-08-01,Lagos,0.030904
+sales_conversion,2025-08-01,Abuja,0.032046
+sales_conversion,2025-08-01,Port Harcourt,0.031216
+sales_conversion,2025-08-01,Ibadan,0.031178
+sales_conversion,2025-08-01,Kano,0.029852
+sales_conversion,2025-08-01,All,0.031078
+sales_conversion,2025-09-01,Lagos,0.031217
+sales_conversion,2025-09-01,Abuja,0.030492
+sales_conversion,2025-09-01,Port Harcourt,0.031741
+sales_conversion,2025-09-01,Ibadan,0.030526
+sales_conversion,2025-09-01,Kano,0.032025
+sales_conversion,2025-09-01,All,0.031153
+sales_conversion,2025-10-01,Lagos,0.030006
+sales_conversion,2025-10-01,Abuja,0.031241
+sales_conversion,2025-10-01,Port Harcourt,0.030126
+sales_conversion,2025-10-01,Ibadan,0.03035
+sales_conversion,2025-10-01,Kano,0.032105
+sales_conversion,2025-10-01,All,0.030589
+sales_conversion,2025-11-01,Lagos,0.030288
+sales_conversion,2025-11-01,Abuja,0.031282
+sales_conversion,2025-11-01,Port Harcourt,0.031164
+sales_conversion,2025-11-01,Ibadan,0.031168
+sales_conversion,2025-11-01,Kano,0.030042
+sales_conversion,2025-11-01,All,0.030712
+sales_conversion,2025-12-01,Lagos,0.031386
+sales_conversion,2025-12-01,Abuja,0.031315
+sales_conversion,2025-12-01,Port Harcourt,0.02995
+sales_conversion,2025-12-01,Ibadan,0.030557
+sales_conversion,2025-12-01,Kano,0.03085
+sales_conversion,2025-12-01,All,0.030971
+sales_conversion,2026-01-01,Lagos,0.030779
+sales_conversion,2026-01-01,Abuja,0.030672
+sales_conversion,2026-01-01,Port Harcourt,0.03135
+sales_conversion,2026-01-01,Ibadan,0.032107
+sales_conversion,2026-01-01,Kano,0.031841
+sales_conversion,2026-01-01,All,0.031167
+sales_conversion,2026-02-01,Lagos,0.031327
+sales_conversion,2026-02-01,Abuja,0.031107
+sales_conversion,2026-02-01,Port Harcourt,0.031979
+sales_conversion,2026-02-01,Ibadan,0.031113
+sales_conversion,2026-02-01,Kano,0.032235
+sales_conversion,2026-02-01,All,0.031465
+sales_conversion,2026-03-01,Lagos,0.03172
+sales_conversion,2026-03-01,Abuja,0.031668
+sales_conversion,2026-03-01,Port Harcourt,0.032156
+sales_conversion,2026-03-01,Ibadan,0.031858
+sales_conversion,2026-03-01,Kano,0.031547
+sales_conversion,2026-03-01,All,0.031771
+sales_conversion,2026-04-01,Lagos,0.031383
+sales_conversion,2026-04-01,Abuja,0.031132
+sales_conversion,2026-04-01,Port Harcourt,0.032089
+sales_conversion,2026-04-01,Ibadan,0.030573
+sales_conversion,2026-04-01,Kano,0.030674
+sales_conversion,2026-04-01,All,0.031232
+sales_conversion,2026-05-01,Lagos,0.030062
+sales_conversion,2026-05-01,Abuja,0.030396
+sales_conversion,2026-05-01,Port Harcourt,0.031342
+sales_conversion,2026-05-01,Ibadan,0.030944
+sales_conversion,2026-05-01,Kano,0.030194
+sales_conversion,2026-05-01,All,0.030465
+sales_conversion,2026-06-01,Lagos,0.031284
+sales_conversion,2026-06-01,Abuja,0.030374
+sales_conversion,2026-06-01,Port Harcourt,0.030132
+sales_conversion,2026-06-01,Ibadan,0.029903
+sales_conversion,2026-06-01,Kano,0.032078
+sales_conversion,2026-06-01,All,0.030843
+sales_conversion,2026-07-01,Lagos,0.030508
+sales_conversion,2026-07-01,Abuja,0.032171
+sales_conversion,2026-07-01,Port Harcourt,0.031515
+sales_conversion,2026-07-01,Ibadan,0.029989
+sales_conversion,2026-07-01,Kano,0.031916
+sales_conversion,2026-07-01,All,0.031101
+sales_conversion,2026-08-01,Lagos,0.030334
+sales_conversion,2026-08-01,Abuja,0.029789
+sales_conversion,2026-08-01,Port Harcourt,0.030236
+sales_conversion,2026-08-01,Ibadan,0.031381
+sales_conversion,2026-08-01,Kano,0.031163
+sales_conversion,2026-08-01,All,0.030468
+sales_conversion,2026-09-01,Lagos,0.033941
+sales_conversion,2026-09-01,Abuja,0.035617
+sales_conversion,2026-09-01,Port Harcourt,0.034319
+sales_conversion,2026-09-01,Ibadan,0.034479
+sales_conversion,2026-09-01,Kano,0.034311
+sales_conversion,2026-09-01,All,0.034455
+sales_conversion,2026-10-01,Lagos,0.028855
+sales_conversion,2026-10-01,Abuja,0.028636
+sales_conversion,2026-10-01,Port Harcourt,0.028412
+sales_conversion,2026-10-01,Ibadan,0.028968
+sales_conversion,2026-10-01,Kano,0.029302
+sales_conversion,2026-10-01,All,0.028818
+sales_rev_by_cat,2025-01-01,Electronics,102710717.690533
+sales_rev_by_cat,2025-01-01,Home & Kitchen,73422055.68881
+sales_rev_by_cat,2025-01-01,Beauty,54310733.245224
+sales_rev_by_cat,2025-01-01,Fashion,65438601.700244
+sales_rev_by_cat,2025-01-01,Groceries,39470076.823662
+sales_rev_by_cat,2025-01-01,All,335352185.148474
+sales_rev_by_cat,2025-02-01,Electronics,102370287.455827
+sales_rev_by_cat,2025-02-01,Home & Kitchen,76029471.185585
+sales_rev_by_cat,2025-02-01,Beauty,53355882.19409
+sales_rev_by_cat,2025-02-01,Fashion,67676050.932675
+sales_rev_by_cat,2025-02-01,Groceries,40693638.205037
+sales_rev_by_cat,2025-02-01,All,340125329.973213
+sales_rev_by_cat,2025-03-01,Electronics,116102708.177696
+sales_rev_by_cat,2025-03-01,Home & Kitchen,84403590.79887
+sales_rev_by_cat,2025-03-01,Beauty,62702297.167651
+sales_rev_by_cat,2025-03-01,Fashion,76431284.284925
+sales_rev_by_cat,2025-03-01,Groceries,44697722.846573
+sales_rev_by_cat,2025-03-01,All,384337603.275714
+sales_rev_by_cat,2025-04-01,Electronics,119872023.155724
+sales_rev_by_cat,2025-04-01,Home & Kitchen,86533364.523797
+sales_rev_by_cat,2025-04-01,Beauty,64054324.535995
+sales_rev_by_cat,2025-04-01,Fashion,79518092.101286
+sales_rev_by_cat,2025-04-01,Groceries,46989994.484477
+sales_rev_by_cat,2025-04-01,All,396967798.801278
+sales_rev_by_cat,2025-05-01,Electronics,117608285.664871
+sales_rev_by_cat,2025-05-01,Home & Kitchen,86824453.141286
+sales_rev_by_cat,2025-05-01,Beauty,62814213.703161
+sales_rev_by_cat,2025-05-01,Fashion,79299101.149706
+sales_rev_by_cat,2025-05-01,Groceries,49175973.988701
+sales_rev_by_cat,2025-05-01,All,395722027.647724
+sales_rev_by_cat,2025-06-01,Electronics,124843604.015528
+sales_rev_by_cat,2025-06-01,Home & Kitchen,91029373.283833
+sales_rev_by_cat,2025-06-01,Beauty,65962906.774337
+sales_rev_by_cat,2025-06-01,Fashion,81699901.754284
+sales_rev_by_cat,2025-06-01,Groceries,49016626.941908
+sales_rev_by_cat,2025-06-01,All,412552412.76989
+sales_rev_by_cat,2025-07-01,Electronics,125091625.777386
+sales_rev_by_cat,2025-07-01,Home & Kitchen,88290628.571807
+sales_rev_by_cat,2025-07-01,Beauty,65916082.916867
+sales_rev_by_cat,2025-07-01,Fashion,84601786.257979
+sales_rev_by_cat,2025-07-01,Groceries,49778274.033365
+sales_rev_by_cat,2025-07-01,All,413678397.557403
+sales_rev_by_cat,2025-08-01,Electronics,126602835.812284
+sales_rev_by_cat,2025-08-01,Home & Kitchen,97477306.285166
+sales_rev_by_cat,2025-08-01,Beauty,69748685.836063
+sales_rev_by_cat,2025-08-01,Fashion,88008417.207282
+sales_rev_by_cat,2025-08-01,Groceries,52828560.019898
+sales_rev_by_cat,2025-08-01,All,434665805.160692
+sales_rev_by_cat,2025-09-01,Electronics,136540918.203763
+sales_rev_by_cat,2025-09-01,Home & Kitchen,98714048.477957
+sales_rev_by_cat,2025-09-01,Beauty,72825093.841189
+sales_rev_by_cat,2025-09-01,Fashion,87835669.392319
+sales_rev_by_cat,2025-09-01,Groceries,51579769.061529
+sales_rev_by_cat,2025-09-01,All,447495498.976757
+sales_rev_by_cat,2025-10-01,Electronics,133658267.246182
+sales_rev_by_cat,2025-10-01,Home & Kitchen,95563573.588203
+sales_rev_by_cat,2025-10-01,Beauty,71789519.927006
+sales_rev_by_cat,2025-10-01,Fashion,87954026.238643
+sales_rev_by_cat,2025-10-01,Groceries,53649749.002876
+sales_rev_by_cat,2025-10-01,All,442615136.002909
+sales_rev_by_cat,2025-11-01,Electronics,173584599.010367
+sales_rev_by_cat,2025-11-01,Home & Kitchen,127639576.819276
+sales_rev_by_cat,2025-11-01,Beauty,91428116.593764
+sales_rev_by_cat,2025-11-01,Fashion,115471953.080134
+sales_rev_by_cat,2025-11-01,Groceries,71521519.34668
+sales_rev_by_cat,2025-11-01,All,579645764.850222
+sales_rev_by_cat,2025-12-01,Electronics,191663734.931348
+sales_rev_by_cat,2025-12-01,Home & Kitchen,142192567.362668
+sales_rev_by_cat,2025-12-01,Beauty,105753857.281185
+sales_rev_by_cat,2025-12-01,Fashion,133895213.00759
+sales_rev_by_cat,2025-12-01,Groceries,78967337.048779
+sales_rev_by_cat,2025-12-01,All,652472709.631571
+sales_rev_by_cat,2026-01-01,Electronics,116918513.488908
+sales_rev_by_cat,2026-01-01,Home & Kitchen,89728765.404921
+sales_rev_by_cat,2026-01-01,Beauty,64843790.79707
+sales_rev_by_cat,2026-01-01,Fashion,78099020.801166
+sales_rev_by_cat,2026-01-01,Groceries,47406266.958843
+sales_rev_by_cat,2026-01-01,All,396996357.450909
+sales_rev_by_cat,2026-02-01,Electronics,126102616.075952
+sales_rev_by_cat,2026-02-01,Home & Kitchen,89317587.689292
+sales_rev_by_cat,2026-02-01,Beauty,67940106.25586
+sales_rev_by_cat,2026-02-01,Fashion,82942176.218732
+sales_rev_by_cat,2026-02-01,Groceries,50433594.726315
+sales_rev_by_cat,2026-02-01,All,416736080.966151
+sales_rev_by_cat,2026-03-01,Electronics,133629552.054632
+sales_rev_by_cat,2026-03-01,Home & Kitchen,98476322.830897
+sales_rev_by_cat,2026-03-01,Beauty,70723657.058366
+sales_rev_by_cat,2026-03-01,Fashion,89442847.921532
+sales_rev_by_cat,2026-03-01,Groceries,54316951.758557
+sales_rev_by_cat,2026-03-01,All,446589331.623983
+sales_rev_by_cat,2026-04-01,Electronics,140030938.165894
+sales_rev_by_cat,2026-04-01,Home & Kitchen,102357446.353538
+sales_rev_by_cat,2026-04-01,Beauty,72013491.361509
+sales_rev_by_cat,2026-04-01,Fashion,92492059.791653
+sales_rev_by_cat,2026-04-01,Groceries,53934952.963798
+sales_rev_by_cat,2026-04-01,All,460828888.636392
+sales_rev_by_cat,2026-05-01,Electronics,132767544.768665
+sales_rev_by_cat,2026-05-01,Home & Kitchen,97952929.45202
+sales_rev_by_cat,2026-05-01,Beauty,72014445.314601
+sales_rev_by_cat,2026-05-01,Fashion,91433827.326859
+sales_rev_by_cat,2026-05-01,Groceries,56157969.907748
+sales_rev_by_cat,2026-05-01,All,450326716.769893
+sales_rev_by_cat,2026-06-01,Electronics,138702221.355542
+sales_rev_by_cat,2026-06-01,Home & Kitchen,104937358.334353
+sales_rev_by_cat,2026-06-01,Beauty,75316635.834027
+sales_rev_by_cat,2026-06-01,Fashion,93344380.96029
+sales_rev_by_cat,2026-06-01,Groceries,55364524.427523
+sales_rev_by_cat,2026-06-01,All,467665120.911734
+sales_rev_by_cat,2026-07-01,Electronics,142944454.669775
+sales_rev_by_cat,2026-07-01,Home & Kitchen,107051426.423727
+sales_rev_by_cat,2026-07-01,Beauty,77057328.417728
+sales_rev_by_cat,2026-07-01,Fashion,96197078.818403
+sales_rev_by_cat,2026-07-01,Groceries,58254558.53217
+sales_rev_by_cat,2026-07-01,All,481504846.861803
+sales_rev_by_cat,2026-08-01,Electronics,153076324.490433
+sales_rev_by_cat,2026-08-01,Home & Kitchen,109877988.801732
+sales_rev_by_cat,2026-08-01,Beauty,81655902.99352
+sales_rev_by_cat,2026-08-01,Fashion,102265134.032974
+sales_rev_by_cat,2026-08-01,Groceries,60609598.810181
+sales_rev_by_cat,2026-08-01,All,507484949.12884
+sales_rev_by_cat,2026-09-01,Electronics,218178820.615834
+sales_rev_by_cat,2026-09-01,Home & Kitchen,135733858.237301
+sales_rev_by_cat,2026-09-01,Beauty,115450545.004137
+sales_rev_by_cat,2026-09-01,Fashion,121764958.158667
+sales_rev_by_cat,2026-09-01,Groceries,73449079.769585
+sales_rev_by_cat,2026-09-01,All,664577261.785525
+sales_rev_by_cat,2026-10-01,Electronics,113664303.247292
+sales_rev_by_cat,2026-10-01,Home & Kitchen,102824642.011921
+sales_rev_by_cat,2026-10-01,Beauty,74657853.946491
+sales_rev_by_cat,2026-10-01,Fashion,91857326.280083
+sales_rev_by_cat,2026-10-01,Groceries,56013595.427477
+sales_rev_by_cat,2026-10-01,All,439017720.913264
+mkt_cac,2025-01-01,Instagram,4897.168683
+mkt_cac,2025-01-01,Google Ads,5166.29182
+mkt_cac,2025-01-01,TikTok,5290.036932
+mkt_cac,2025-01-01,Email,5301.987143
+mkt_cac,2025-01-01,Influencers,5103.200949
+mkt_cac,2025-01-01,All,5140.78182
+mkt_cac,2025-02-01,Instagram,5491.357138
+mkt_cac,2025-02-01,Google Ads,5531.358883
+mkt_cac,2025-02-01,TikTok,5358.775211
+mkt_cac,2025-02-01,Email,5376.127913
+mkt_cac,2025-02-01,Influencers,5471.12383
+mkt_cac,2025-02-01,All,5325.730998
+mkt_cac,2025-03-01,Instagram,5144.192834
+mkt_cac,2025-03-01,Google Ads,4667.415528
+mkt_cac,2025-03-01,TikTok,4656.292391
+mkt_cac,2025-03-01,Email,4855.4263
+mkt_cac,2025-03-01,Influencers,4693.537425
+mkt_cac,2025-03-01,All,4881.989535
+mkt_cac,2025-04-01,Instagram,5188.572048
+mkt_cac,2025-04-01,Google Ads,4898.769554
+mkt_cac,2025-04-01,TikTok,4937.166246
+mkt_cac,2025-04-01,Email,4982.638139
+mkt_cac,2025-04-01,Influencers,5259.754225
+mkt_cac,2025-04-01,All,5085.955534
+mkt_cac,2025-05-01,Instagram,4745.538644
+mkt_cac,2025-05-01,Google Ads,5122.446895
+mkt_cac,2025-05-01,TikTok,4941.191586
+mkt_cac,2025-05-01,Email,4866.000843
+mkt_cac,2025-05-01,Influencers,4940.253695
+mkt_cac,2025-05-01,All,5030.218474
+mkt_cac,2025-06-01,Instagram,5302.448809
+mkt_cac,2025-06-01,Google Ads,5460.312485
+mkt_cac,2025-06-01,TikTok,5585.895424
+mkt_cac,2025-06-01,Email,5520.769873
+mkt_cac,2025-06-01,Influencers,5497.918129
+mkt_cac,2025-06-01,All,5318.125098
+mkt_cac,2025-07-01,Instagram,5251.923948
+mkt_cac,2025-07-01,Google Ads,5027.810421
+mkt_cac,2025-07-01,TikTok,5278.816079
+mkt_cac,2025-07-01,Email,4883.755021
+mkt_cac,2025-07-01,Influencers,4958.098026
+mkt_cac,2025-07-01,All,5144.660963
+mkt_cac,2025-08-01,Instagram,4753.027121
+mkt_cac,2025-08-01,Google Ads,4595.70084
+mkt_cac,2025-08-01,TikTok,4555.890387
+mkt_cac,2025-08-01,Email,4688.986447
+mkt_cac,2025-08-01,Influencers,4866.395053
+mkt_cac,2025-08-01,All,4827.836545
+mkt_cac,2025-09-01,Instagram,5377.260997
+mkt_cac,2025-09-01,Google Ads,5293.623567
+mkt_cac,2025-09-01,TikTok,5434.275604
+mkt_cac,2025-09-01,Email,4898.669239
+mkt_cac,2025-09-01,Influencers,5087.052063
+mkt_cac,2025-09-01,All,5124.537969
+mkt_cac,2025-10-01,Instagram,4930.550893
+mkt_cac,2025-10-01,Google Ads,5047.869483
+mkt_cac,2025-10-01,TikTok,4978.599474
+mkt_cac,2025-10-01,Email,5006.607348
+mkt_cac,2025-10-01,Influencers,5321.258717
+mkt_cac,2025-10-01,All,5139.286398
+mkt_cac,2025-11-01,Instagram,4593.62562
+mkt_cac,2025-11-01,Google Ads,4624.821811
+mkt_cac,2025-11-01,TikTok,4782.308683
+mkt_cac,2025-11-01,Email,4783.650912
+mkt_cac,2025-11-01,Influencers,4707.440655
+mkt_cac,2025-11-01,All,4825.785126
+mkt_cac,2025-12-01,Instagram,5326.279542
+mkt_cac,2025-12-01,Google Ads,5282.749815
+mkt_cac,2025-12-01,TikTok,5028.575818
+mkt_cac,2025-12-01,Email,5016.058738
+mkt_cac,2025-12-01,Influencers,5100.452653
+mkt_cac,2025-12-01,All,5204.573131
+mkt_cac,2026-01-01,Instagram,5484.942505
+mkt_cac,2026-01-01,Google Ads,5157.1482
+mkt_cac,2026-01-01,TikTok,5331.774924
+mkt_cac,2026-01-01,Email,5397.519714
+mkt_cac,2026-01-01,Influencers,5210.911171
+mkt_cac,2026-01-01,All,5166.66359
+mkt_cac,2026-02-01,Instagram,4749.235187
+mkt_cac,2026-02-01,Google Ads,4984.230262
+mkt_cac,2026-02-01,TikTok,5069.631869
+mkt_cac,2026-02-01,Email,4701.507818
+mkt_cac,2026-02-01,Influencers,4835.025778
+mkt_cac,2026-02-01,All,4834.471081
+mkt_cac,2026-03-01,Instagram,5059.659567
+mkt_cac,2026-03-01,Google Ads,4819.577301
+mkt_cac,2026-03-01,TikTok,4810.668433
+mkt_cac,2026-03-01,Email,4740.629882
+mkt_cac,2026-03-01,Influencers,4678.956721
+mkt_cac,2026-03-01,All,4945.867317
+mkt_cac,2026-04-01,Instagram,4701.518488
+mkt_cac,2026-04-01,Google Ads,4861.276976
+mkt_cac,2026-04-01,TikTok,4655.383176
+mkt_cac,2026-04-01,Email,4577.979017
+mkt_cac,2026-04-01,Influencers,4603.062942
+mkt_cac,2026-04-01,All,4808.995348
+mkt_cac,2026-05-01,Instagram,5175.982583
+mkt_cac,2026-05-01,Google Ads,4843.546822
+mkt_cac,2026-05-01,TikTok,4813.134731
+mkt_cac,2026-05-01,Email,4940.887279
+mkt_cac,2026-05-01,Influencers,4831.895598
+mkt_cac,2026-05-01,All,4981.075204
+mkt_cac,2026-06-01,Instagram,5001.342279
+mkt_cac,2026-06-01,Google Ads,4780.791595
+mkt_cac,2026-06-01,TikTok,4854.436744
+mkt_cac,2026-06-01,Email,4861.697409
+mkt_cac,2026-06-01,Influencers,4698.028796
+mkt_cac,2026-06-01,All,4880.327594
+mkt_cac,2026-07-01,Instagram,5006.069629
+mkt_cac,2026-07-01,Google Ads,4917.46943
+mkt_cac,2026-07-01,TikTok,5125.808514
+mkt_cac,2026-07-01,Email,5174.213625
+mkt_cac,2026-07-01,Influencers,5100.794083
+mkt_cac,2026-07-01,All,4954.365042
+mkt_cac,2026-08-01,Instagram,4941.066821
+mkt_cac,2026-08-01,Google Ads,5282.851613
+mkt_cac,2026-08-01,TikTok,5022.133594
+mkt_cac,2026-08-01,Email,5409.918617
+mkt_cac,2026-08-01,Influencers,4889.564709
+mkt_cac,2026-08-01,All,5176.178059
+mkt_cac,2026-09-01,Instagram,4477.242986
+mkt_cac,2026-09-01,Google Ads,4489.336969
+mkt_cac,2026-09-01,TikTok,3759.884736
+mkt_cac,2026-09-01,Email,4649.002071
+mkt_cac,2026-09-01,Influencers,6354.729689
+mkt_cac,2026-09-01,All,4648.613348
+mkt_cac,2026-10-01,Instagram,5585.031467
+mkt_cac,2026-10-01,Google Ads,5670.26292
+mkt_cac,2026-10-01,TikTok,5330.854561
+mkt_cac,2026-10-01,Email,5447.520166
+mkt_cac,2026-10-01,Influencers,7650.893615
+mkt_cac,2026-10-01,All,5454.59641
+mkt_roas,2025-01-01,Instagram,4.82883
+mkt_roas,2025-01-01,Google Ads,4.079755
+mkt_roas,2025-01-01,TikTok,5.247642
+mkt_roas,2025-01-01,Email,9.211155
+mkt_roas,2025-01-01,Influencers,2.921356
+mkt_roas,2025-01-01,All,4.554333
+mkt_roas,2025-02-01,Instagram,4.461258
+mkt_roas,2025-02-01,Google Ads,3.947583
+mkt_roas,2025-02-01,TikTok,5.366702
+mkt_roas,2025-02-01,Email,9.410945
+mkt_roas,2025-02-01,Influencers,2.822934
+mkt_roas,2025-02-01,All,4.437853
+mkt_roas,2025-03-01,Instagram,4.365535
+mkt_roas,2025-03-01,Google Ads,4.288488
+mkt_roas,2025-03-01,TikTok,5.661746
+mkt_roas,2025-03-01,Email,9.551973
+mkt_roas,2025-03-01,Influencers,3.016439
+mkt_roas,2025-03-01,All,4.606138
+mkt_roas,2025-04-01,Instagram,4.509024
+mkt_roas,2025-04-01,Google Ads,4.256664
+mkt_roas,2025-04-01,TikTok,5.562738
+mkt_roas,2025-04-01,Email,9.696987
+mkt_roas,2025-04-01,Influencers,2.804175
+mkt_roas,2025-04-01,All,4.575071
+mkt_roas,2025-05-01,Instagram,4.875949
+mkt_roas,2025-05-01,Google Ads,4.02618
+mkt_roas,2025-05-01,TikTok,5.497293
+mkt_roas,2025-05-01,Email,9.820606
+mkt_roas,2025-05-01,Influencers,2.952811
+mkt_roas,2025-05-01,All,4.649188
+mkt_roas,2025-06-01,Instagram,4.6136
+mkt_roas,2025-06-01,Google Ads,3.993235
+mkt_roas,2025-06-01,TikTok,5.141141
+mkt_roas,2025-06-01,Email,9.151294
+mkt_roas,2025-06-01,Influencers,2.805164
+mkt_roas,2025-06-01,All,4.425199
+mkt_roas,2025-07-01,Instagram,4.506052
+mkt_roas,2025-07-01,Google Ads,4.195287
+mkt_roas,2025-07-01,TikTok,5.262765
+mkt_roas,2025-07-01,Email,10.007521
+mkt_roas,2025-07-01,Influencers,3.009121
+mkt_roas,2025-07-01,All,4.578547
+mkt_roas,2025-08-01,Instagram,4.672401
+mkt_roas,2025-08-01,Google Ads,4.307097
+mkt_roas,2025-08-01,TikTok,5.722332
+mkt_roas,2025-08-01,Email,9.781314
+mkt_roas,2025-08-01,Influencers,2.877022
+mkt_roas,2025-08-01,All,4.682495
+mkt_roas,2025-09-01,Instagram,4.383807
+mkt_roas,2025-09-01,Google Ads,3.96904
+mkt_roas,2025-09-01,TikTok,5.092216
+mkt_roas,2025-09-01,Email,9.938028
+mkt_roas,2025-09-01,Influencers,2.92137
+mkt_roas,2025-09-01,All,4.434963
+mkt_roas,2025-10-01,Instagram,4.794742
+mkt_roas,2025-10-01,Google Ads,4.174251
+mkt_roas,2025-10-01,TikTok,5.574288
+mkt_roas,2025-10-01,Email,9.751758
+mkt_roas,2025-10-01,Influencers,2.800828
+mkt_roas,2025-10-01,All,4.634655
+mkt_roas,2025-11-01,Instagram,4.832482
+mkt_roas,2025-11-01,Google Ads,4.278158
+mkt_roas,2025-11-01,TikTok,5.449092
+mkt_roas,2025-11-01,Email,9.583676
+mkt_roas,2025-11-01,Influencers,2.972906
+mkt_roas,2025-11-01,All,4.678123
+mkt_roas,2025-12-01,Instagram,4.494889
+mkt_roas,2025-12-01,Google Ads,4.039326
+mkt_roas,2025-12-01,TikTok,5.588997
+mkt_roas,2025-12-01,Email,9.857031
+mkt_roas,2025-12-01,Influencers,2.959201
+mkt_roas,2025-12-01,All,4.573921
+mkt_roas,2026-01-01,Instagram,4.333072
+mkt_roas,2026-01-01,Google Ads,4.107565
+mkt_roas,2026-01-01,TikTok,5.232776
+mkt_roas,2026-01-01,Email,9.093678
+mkt_roas,2026-01-01,Influencers,2.875375
+mkt_roas,2026-01-01,All,4.409715
+mkt_roas,2026-02-01,Instagram,4.682558
+mkt_roas,2026-02-01,Google Ads,3.976809
+mkt_roas,2026-02-01,TikTok,5.149515
+mkt_roas,2026-02-01,Email,9.768669
+mkt_roas,2026-02-01,Influencers,2.899667
+mkt_roas,2026-02-01,All,4.507535
+mkt_roas,2026-03-01,Instagram,4.496546
+mkt_roas,2026-03-01,Google Ads,4.207435
+mkt_roas,2026-03-01,TikTok,5.551761
+mkt_roas,2026-03-01,Email,9.911286
+mkt_roas,2026-03-01,Influencers,3.06543
+mkt_roas,2026-03-01,All,4.638351
+mkt_roas,2026-04-01,Instagram,4.705156
+mkt_roas,2026-04-01,Google Ads,4.055906
+mkt_roas,2026-04-01,TikTok,5.578182
+mkt_roas,2026-04-01,Email,9.979394
+mkt_roas,2026-04-01,Influencers,3.029741
+mkt_roas,2026-04-01,All,4.656823
+mkt_roas,2026-05-01,Instagram,4.426782
+mkt_roas,2026-05-01,Google Ads,4.216416
+mkt_roas,2026-05-01,TikTok,5.588417
+mkt_roas,2026-05-01,Email,9.577271
+mkt_roas,2026-05-01,Influencers,2.989534
+mkt_roas,2026-05-01,All,4.586611
+mkt_roas,2026-06-01,Instagram,4.488696
+mkt_roas,2026-06-01,Google Ads,4.185362
+mkt_roas,2026-06-01,TikTok,5.428801
+mkt_roas,2026-06-01,Email,9.536404
+mkt_roas,2026-06-01,Influencers,3.012529
+mkt_roas,2026-06-01,All,4.569413
+mkt_roas,2026-07-01,Instagram,4.552489
+mkt_roas,2026-07-01,Google Ads,4.130762
+mkt_roas,2026-07-01,TikTok,5.219386
+mkt_roas,2026-07-01,Email,9.096352
+mkt_roas,2026-07-01,Influencers,2.816749
+mkt_roas,2026-07-01,All,4.455452
+mkt_roas,2026-08-01,Instagram,4.818882
+mkt_roas,2026-08-01,Google Ads,4.017211
+mkt_roas,2026-08-01,TikTok,5.565635
+mkt_roas,2026-08-01,Email,9.089544
+mkt_roas,2026-08-01,Influencers,3.06999
+mkt_roas,2026-08-01,All,4.62262
+mkt_roas,2026-09-01,Instagram,4.776069
+mkt_roas,2026-09-01,Google Ads,4.245463
+mkt_roas,2026-09-01,TikTok,6.676405
+mkt_roas,2026-09-01,Email,9.499206
+mkt_roas,2026-09-01,Influencers,2.121409
+mkt_roas,2026-09-01,All,4.657739
+mkt_roas,2026-10-01,Instagram,4.49257
+mkt_roas,2026-10-01,Google Ads,3.944058
+mkt_roas,2026-10-01,TikTok,5.525347
+mkt_roas,2026-10-01,Email,9.51234
+mkt_roas,2026-10-01,Influencers,2.067514
+mkt_roas,2026-10-01,All,4.291947
+mkt_new_share,2025-01-01,Lagos,0.33032
+mkt_new_share,2025-01-01,Abuja,0.343451
+mkt_new_share,2025-01-01,Port Harcourt,0.356231
+mkt_new_share,2025-01-01,Ibadan,0.369485
+mkt_new_share,2025-01-01,Kano,0.361403
+mkt_new_share,2025-01-01,All,0.337151
+mkt_new_share,2025-02-01,Lagos,0.329792
+mkt_new_share,2025-02-01,Abuja,0.357269
+mkt_new_share,2025-02-01,Port Harcourt,0.33768
+mkt_new_share,2025-02-01,Ibadan,0.390217
+mkt_new_share,2025-02-01,Kano,0.376259
+mkt_new_share,2025-02-01,All,0.341305
+mkt_new_share,2025-03-01,Lagos,0.343366
+mkt_new_share,2025-03-01,Abuja,0.325642
+mkt_new_share,2025-03-01,Port Harcourt,0.3248
+mkt_new_share,2025-03-01,Ibadan,0.365395
+mkt_new_share,2025-03-01,Kano,0.391906
+mkt_new_share,2025-03-01,All,0.338867
+mkt_new_share,2025-04-01,Lagos,0.327725
+mkt_new_share,2025-04-01,Abuja,0.320597
+mkt_new_share,2025-04-01,Port Harcourt,0.32959
+mkt_new_share,2025-04-01,Ibadan,0.372884
+mkt_new_share,2025-04-01,Kano,0.389696
+mkt_new_share,2025-04-01,All,0.339124
+mkt_new_share,2025-05-01,Lagos,0.350373
+mkt_new_share,2025-05-01,Abuja,0.358344
+mkt_new_share,2025-05-01,Port Harcourt,0.327734
+mkt_new_share,2025-05-01,Ibadan,0.352475
+mkt_new_share,2025-05-01,Kano,0.358399
+mkt_new_share,2025-05-01,All,0.3428
+mkt_new_share,2025-06-01,Lagos,0.326921
+mkt_new_share,2025-06-01,Abuja,0.320177
+mkt_new_share,2025-06-01,Port Harcourt,0.341393
+mkt_new_share,2025-06-01,Ibadan,0.363871
+mkt_new_share,2025-06-01,Kano,0.395286
+mkt_new_share,2025-06-01,All,0.337143
+mkt_new_share,2025-07-01,Lagos,0.342044
+mkt_new_share,2025-07-01,Abuja,0.338157
+mkt_new_share,2025-07-01,Port Harcourt,0.332432
+mkt_new_share,2025-07-01,Ibadan,0.366069
+mkt_new_share,2025-07-01,Kano,0.395102
+mkt_new_share,2025-07-01,All,0.349213
+mkt_new_share,2025-08-01,Lagos,0.323616
+mkt_new_share,2025-08-01,Abuja,0.345457
+mkt_new_share,2025-08-01,Port Harcourt,0.355201
+mkt_new_share,2025-08-01,Ibadan,0.371472
+mkt_new_share,2025-08-01,Kano,0.382707
+mkt_new_share,2025-08-01,All,0.34045
+mkt_new_share,2025-09-01,Lagos,0.356942
+mkt_new_share,2025-09-01,Abuja,0.328632
+mkt_new_share,2025-09-01,Port Harcourt,0.322179
+mkt_new_share,2025-09-01,Ibadan,0.388535
+mkt_new_share,2025-09-01,Kano,0.392373
+mkt_new_share,2025-09-01,All,0.345095
+mkt_new_share,2025-10-01,Lagos,0.338023
+mkt_new_share,2025-10-01,Abuja,0.328923
+mkt_new_share,2025-10-01,Port Harcourt,0.333428
+mkt_new_share,2025-10-01,Ibadan,0.371913
+mkt_new_share,2025-10-01,Kano,0.37023
+mkt_new_share,2025-10-01,All,0.341005
+mkt_new_share,2025-11-01,Lagos,0.336642
+mkt_new_share,2025-11-01,Abuja,0.324299
+mkt_new_share,2025-11-01,Port Harcourt,0.320451
+mkt_new_share,2025-11-01,Ibadan,0.366136
+mkt_new_share,2025-11-01,Kano,0.387523
+mkt_new_share,2025-11-01,All,0.341402
+mkt_new_share,2025-12-01,Lagos,0.353422
+mkt_new_share,2025-12-01,Abuja,0.349742
+mkt_new_share,2025-12-01,Port Harcourt,0.347565
+mkt_new_share,2025-12-01,Ibadan,0.375185
+mkt_new_share,2025-12-01,Kano,0.380554
+mkt_new_share,2025-12-01,All,0.337634
+mkt_new_share,2026-01-01,Lagos,0.344684
+mkt_new_share,2026-01-01,Abuja,0.329415
+mkt_new_share,2026-01-01,Port Harcourt,0.336596
+mkt_new_share,2026-01-01,Ibadan,0.381377
+mkt_new_share,2026-01-01,Kano,0.355402
+mkt_new_share,2026-01-01,All,0.332631
+mkt_new_share,2026-02-01,Lagos,0.335389
+mkt_new_share,2026-02-01,Abuja,0.342516
+mkt_new_share,2026-02-01,Port Harcourt,0.33028
+mkt_new_share,2026-02-01,Ibadan,0.363242
+mkt_new_share,2026-02-01,Kano,0.371589
+mkt_new_share,2026-02-01,All,0.342845
+mkt_new_share,2026-03-01,Lagos,0.324935
+mkt_new_share,2026-03-01,Abuja,0.334718
+mkt_new_share,2026-03-01,Port Harcourt,0.342515
+mkt_new_share,2026-03-01,Ibadan,0.365882
+mkt_new_share,2026-03-01,Kano,0.372495
+mkt_new_share,2026-03-01,All,0.344377
+mkt_new_share,2026-04-01,Lagos,0.349622
+mkt_new_share,2026-04-01,Abuja,0.322141
+mkt_new_share,2026-04-01,Port Harcourt,0.325234
+mkt_new_share,2026-04-01,Ibadan,0.360865
+mkt_new_share,2026-04-01,Kano,0.366148
+mkt_new_share,2026-04-01,All,0.342993
+mkt_new_share,2026-05-01,Lagos,0.32676
+mkt_new_share,2026-05-01,Abuja,0.354531
+mkt_new_share,2026-05-01,Port Harcourt,0.356199
+mkt_new_share,2026-05-01,Ibadan,0.388675
+mkt_new_share,2026-05-01,Kano,0.374686
+mkt_new_share,2026-05-01,All,0.344279
+mkt_new_share,2026-06-01,Lagos,0.329698
+mkt_new_share,2026-06-01,Abuja,0.333723
+mkt_new_share,2026-06-01,Port Harcourt,0.330847
+mkt_new_share,2026-06-01,Ibadan,0.393631
+mkt_new_share,2026-06-01,Kano,0.384099
+mkt_new_share,2026-06-01,All,0.342049
+mkt_new_share,2026-07-01,Lagos,0.357738
+mkt_new_share,2026-07-01,Abuja,0.343229
+mkt_new_share,2026-07-01,Port Harcourt,0.336637
+mkt_new_share,2026-07-01,Ibadan,0.3584
+mkt_new_share,2026-07-01,Kano,0.366364
+mkt_new_share,2026-07-01,All,0.34357
+mkt_new_share,2026-08-01,Lagos,0.349146
+mkt_new_share,2026-08-01,Abuja,0.340032
+mkt_new_share,2026-08-01,Port Harcourt,0.359352
+mkt_new_share,2026-08-01,Ibadan,0.35397
+mkt_new_share,2026-08-01,Kano,0.371177
+mkt_new_share,2026-08-01,All,0.331651
+mkt_new_share,2026-09-01,Lagos,0.401959
+mkt_new_share,2026-09-01,Abuja,0.422698
+mkt_new_share,2026-09-01,Port Harcourt,0.425514
+mkt_new_share,2026-09-01,Ibadan,0.472108
+mkt_new_share,2026-09-01,Kano,0.432953
+mkt_new_share,2026-09-01,All,0.4236
+mkt_new_share,2026-10-01,Lagos,0.325225
+mkt_new_share,2026-10-01,Abuja,0.335255
+mkt_new_share,2026-10-01,Port Harcourt,0.327179
+mkt_new_share,2026-10-01,Ibadan,0.380081
+mkt_new_share,2026-10-01,Kano,0.382681
+mkt_new_share,2026-10-01,All,0.33291
+ops_ontime,2025-01-01,Lagos,0.919879
+ops_ontime,2025-01-01,Abuja,0.950854
+ops_ontime,2025-01-01,Port Harcourt,0.927459
+ops_ontime,2025-01-01,Ibadan,0.941454
+ops_ontime,2025-01-01,Kano,0.914655
+ops_ontime,2025-01-01,All,0.929491
+ops_ontime,2025-02-01,Lagos,0.932634
+ops_ontime,2025-02-01,Abuja,0.94087
+ops_ontime,2025-02-01,Port Harcourt,0.939971
+ops_ontime,2025-02-01,Ibadan,0.949309
+ops_ontime,2025-02-01,Kano,0.915013
+ops_ontime,2025-02-01,All,0.93549
+ops_ontime,2025-03-01,Lagos,0.926557
+ops_ontime,2025-03-01,Abuja,0.945178
+ops_ontime,2025-03-01,Port Harcourt,0.93126
+ops_ontime,2025-03-01,Ibadan,0.94713
+ops_ontime,2025-03-01,Kano,0.928076
+ops_ontime,2025-03-01,All,0.933943
+ops_ontime,2025-04-01,Lagos,0.919865
+ops_ontime,2025-04-01,Abuja,0.952688
+ops_ontime,2025-04-01,Port Harcourt,0.939274
+ops_ontime,2025-04-01,Ibadan,0.944549
+ops_ontime,2025-04-01,Kano,0.918204
+ops_ontime,2025-04-01,All,0.932847
+ops_ontime,2025-05-01,Lagos,0.925088
+ops_ontime,2025-05-01,Abuja,0.945717
+ops_ontime,2025-05-01,Port Harcourt,0.935797
+ops_ontime,2025-05-01,Ibadan,0.944765
+ops_ontime,2025-05-01,Kano,0.923296
+ops_ontime,2025-05-01,All,0.933255
+ops_ontime,2025-06-01,Lagos,0.930229
+ops_ontime,2025-06-01,Abuja,0.953939
+ops_ontime,2025-06-01,Port Harcourt,0.941185
+ops_ontime,2025-06-01,Ibadan,0.936998
+ops_ontime,2025-06-01,Kano,0.919831
+ops_ontime,2025-06-01,All,0.93633
+ops_ontime,2025-07-01,Lagos,0.924085
+ops_ontime,2025-07-01,Abuja,0.943484
+ops_ontime,2025-07-01,Port Harcourt,0.942927
+ops_ontime,2025-07-01,Ibadan,0.936383
+ops_ontime,2025-07-01,Kano,0.918749
+ops_ontime,2025-07-01,All,0.931801
+ops_ontime,2025-08-01,Lagos,0.931145
+ops_ontime,2025-08-01,Abuja,0.957207
+ops_ontime,2025-08-01,Port Harcourt,0.934806
+ops_ontime,2025-08-01,Ibadan,0.94518
+ops_ontime,2025-08-01,Kano,0.921659
+ops_ontime,2025-08-01,All,0.937786
+ops_ontime,2025-09-01,Lagos,0.9236
+ops_ontime,2025-09-01,Abuja,0.953006
+ops_ontime,2025-09-01,Port Harcourt,0.932238
+ops_ontime,2025-09-01,Ibadan,0.941496
+ops_ontime,2025-09-01,Kano,0.915528
+ops_ontime,2025-09-01,All,0.932209
+ops_ontime,2025-10-01,Lagos,0.925823
+ops_ontime,2025-10-01,Abuja,0.955449
+ops_ontime,2025-10-01,Port Harcourt,0.925703
+ops_ontime,2025-10-01,Ibadan,0.933876
+ops_ontime,2025-10-01,Kano,0.925211
+ops_ontime,2025-10-01,All,0.932887
+ops_ontime,2025-11-01,Lagos,0.877399
+ops_ontime,2025-11-01,Abuja,0.920999
+ops_ontime,2025-11-01,Port Harcourt,0.910803
+ops_ontime,2025-11-01,Ibadan,0.911589
+ops_ontime,2025-11-01,Kano,0.901012
+ops_ontime,2025-11-01,All,0.899344
+ops_ontime,2025-12-01,Lagos,0.887548
+ops_ontime,2025-12-01,Abuja,0.921797
+ops_ontime,2025-12-01,Port Harcourt,0.924144
+ops_ontime,2025-12-01,Ibadan,0.913436
+ops_ontime,2025-12-01,Kano,0.898721
+ops_ontime,2025-12-01,All,0.904846
+ops_ontime,2026-01-01,Lagos,0.920144
+ops_ontime,2026-01-01,Abuja,0.959204
+ops_ontime,2026-01-01,Port Harcourt,0.93602
+ops_ontime,2026-01-01,Ibadan,0.939081
+ops_ontime,2026-01-01,Kano,0.925361
+ops_ontime,2026-01-01,All,0.933735
+ops_ontime,2026-02-01,Lagos,0.916917
+ops_ontime,2026-02-01,Abuja,0.954813
+ops_ontime,2026-02-01,Port Harcourt,0.943859
+ops_ontime,2026-02-01,Ibadan,0.932105
+ops_ontime,2026-02-01,Kano,0.928833
+ops_ontime,2026-02-01,All,0.932297
+ops_ontime,2026-03-01,Lagos,0.925999
+ops_ontime,2026-03-01,Abuja,0.941901
+ops_ontime,2026-03-01,Port Harcourt,0.94268
+ops_ontime,2026-03-01,Ibadan,0.942539
+ops_ontime,2026-03-01,Kano,0.926303
+ops_ontime,2026-03-01,All,0.934125
+ops_ontime,2026-04-01,Lagos,0.925679
+ops_ontime,2026-04-01,Abuja,0.950081
+ops_ontime,2026-04-01,Port Harcourt,0.929372
+ops_ontime,2026-04-01,Ibadan,0.933655
+ops_ontime,2026-04-01,Kano,0.92883
+ops_ontime,2026-04-01,All,0.93248
+ops_ontime,2026-05-01,Lagos,0.922774
+ops_ontime,2026-05-01,Abuja,0.944339
+ops_ontime,2026-05-01,Port Harcourt,0.933379
+ops_ontime,2026-05-01,Ibadan,0.948722
+ops_ontime,2026-05-01,Kano,0.914035
+ops_ontime,2026-05-01,All,0.931315
+ops_ontime,2026-06-01,Lagos,0.918221
+ops_ontime,2026-06-01,Abuja,0.95709
+ops_ontime,2026-06-01,Port Harcourt,0.93538
+ops_ontime,2026-06-01,Ibadan,0.94577
+ops_ontime,2026-06-01,Kano,0.927981
+ops_ontime,2026-06-01,All,0.93342
+ops_ontime,2026-07-01,Lagos,0.927964
+ops_ontime,2026-07-01,Abuja,0.953256
+ops_ontime,2026-07-01,Port Harcourt,0.942756
+ops_ontime,2026-07-01,Ibadan,0.934181
+ops_ontime,2026-07-01,Kano,0.928409
+ops_ontime,2026-07-01,All,0.936359
+ops_ontime,2026-08-01,Lagos,0.915919
+ops_ontime,2026-08-01,Abuja,0.94572
+ops_ontime,2026-08-01,Port Harcourt,0.940895
+ops_ontime,2026-08-01,Ibadan,0.94488
+ops_ontime,2026-08-01,Kano,0.912555
+ops_ontime,2026-08-01,All,0.929075
+ops_ontime,2026-09-01,Lagos,0.871408
+ops_ontime,2026-09-01,Abuja,0.92382
+ops_ontime,2026-09-01,Port Harcourt,0.913871
+ops_ontime,2026-09-01,Ibadan,0.912328
+ops_ontime,2026-09-01,Kano,0.91023
+ops_ontime,2026-09-01,All,0.899506
+ops_ontime,2026-10-01,Lagos,0.73099
+ops_ontime,2026-10-01,Abuja,0.850705
+ops_ontime,2026-10-01,Port Harcourt,0.8603
+ops_ontime,2026-10-01,Ibadan,0.842959
+ops_ontime,2026-10-01,Kano,0.855643
+ops_ontime,2026-10-01,All,0.806289
+ops_stockout,2025-01-01,Lagos,0.032905
+ops_stockout,2025-01-01,Abuja,0.032457
+ops_stockout,2025-01-01,Port Harcourt,0.032531
+ops_stockout,2025-01-01,Ibadan,0.029675
+ops_stockout,2025-01-01,Kano,0.034236
+ops_stockout,2025-01-01,All,0.03248
+ops_stockout,2025-02-01,Lagos,0.030968
+ops_stockout,2025-02-01,Abuja,0.033939
+ops_stockout,2025-02-01,Port Harcourt,0.031873
+ops_stockout,2025-02-01,Ibadan,0.031683
+ops_stockout,2025-02-01,Kano,0.033841
+ops_stockout,2025-02-01,All,0.032172
+ops_stockout,2025-03-01,Lagos,0.033806
+ops_stockout,2025-03-01,Abuja,0.032611
+ops_stockout,2025-03-01,Port Harcourt,0.03329
+ops_stockout,2025-03-01,Ibadan,0.030248
+ops_stockout,2025-03-01,Kano,0.030031
+ops_stockout,2025-03-01,All,0.032501
+ops_stockout,2025-04-01,Lagos,0.031797
+ops_stockout,2025-04-01,Abuja,0.034463
+ops_stockout,2025-04-01,Port Harcourt,0.032544
+ops_stockout,2025-04-01,Ibadan,0.031305
+ops_stockout,2025-04-01,Kano,0.030092
+ops_stockout,2025-04-01,All,0.032152
+ops_stockout,2025-05-01,Lagos,0.032245
+ops_stockout,2025-05-01,Abuja,0.030903
+ops_stockout,2025-05-01,Port Harcourt,0.030499
+ops_stockout,2025-05-01,Ibadan,0.034322
+ops_stockout,2025-05-01,Kano,0.030285
+ops_stockout,2025-05-01,All,0.031751
+ops_stockout,2025-06-01,Lagos,0.031633
+ops_stockout,2025-06-01,Abuja,0.033197
+ops_stockout,2025-06-01,Port Harcourt,0.033954
+ops_stockout,2025-06-01,Ibadan,0.03303
+ops_stockout,2025-06-01,Kano,0.029916
+ops_stockout,2025-06-01,All,0.032266
+ops_stockout,2025-07-01,Lagos,0.033844
+ops_stockout,2025-07-01,Abuja,0.029824
+ops_stockout,2025-07-01,Port Harcourt,0.03264
+ops_stockout,2025-07-01,Ibadan,0.032354
+ops_stockout,2025-07-01,Kano,0.030722
+ops_stockout,2025-07-01,All,0.032245
+ops_stockout,2025-08-01,Lagos,0.033109
+ops_stockout,2025-08-01,Abuja,0.030854
+ops_stockout,2025-08-01,Port Harcourt,0.032198
+ops_stockout,2025-08-01,Ibadan,0.033253
+ops_stockout,2025-08-01,Kano,0.033916
+ops_stockout,2025-08-01,All,0.032646
+ops_stockout,2025-09-01,Lagos,0.033768
+ops_stockout,2025-09-01,Abuja,0.032338
+ops_stockout,2025-09-01,Port Harcourt,0.032619
+ops_stockout,2025-09-01,Ibadan,0.029901
+ops_stockout,2025-09-01,Kano,0.031907
+ops_stockout,2025-09-01,All,0.032526
+ops_stockout,2025-10-01,Lagos,0.031276
+ops_stockout,2025-10-01,Abuja,0.030085
+ops_stockout,2025-10-01,Port Harcourt,0.030181
+ops_stockout,2025-10-01,Ibadan,0.033238
+ops_stockout,2025-10-01,Kano,0.03211
+ops_stockout,2025-10-01,All,0.031257
+ops_stockout,2025-11-01,Lagos,0.054018
+ops_stockout,2025-11-01,Abuja,0.046437
+ops_stockout,2025-11-01,Port Harcourt,0.042347
+ops_stockout,2025-11-01,Ibadan,0.045353
+ops_stockout,2025-11-01,Kano,0.044682
+ops_stockout,2025-11-01,All,0.048324
+ops_stockout,2025-12-01,Lagos,0.053553
+ops_stockout,2025-12-01,Abuja,0.04374
+ops_stockout,2025-12-01,Port Harcourt,0.044786
+ops_stockout,2025-12-01,Ibadan,0.04272
+ops_stockout,2025-12-01,Kano,0.043638
+ops_stockout,2025-12-01,All,0.04747
+ops_stockout,2026-01-01,Lagos,0.030899
+ops_stockout,2026-01-01,Abuja,0.030883
+ops_stockout,2026-01-01,Port Harcourt,0.033771
+ops_stockout,2026-01-01,Ibadan,0.029577
+ops_stockout,2026-01-01,Kano,0.030909
+ops_stockout,2026-01-01,All,0.031143
+ops_stockout,2026-02-01,Lagos,0.031783
+ops_stockout,2026-02-01,Abuja,0.031268
+ops_stockout,2026-02-01,Port Harcourt,0.031987
+ops_stockout,2026-02-01,Ibadan,0.031009
+ops_stockout,2026-02-01,Kano,0.029824
+ops_stockout,2026-02-01,All,0.031348
+ops_stockout,2026-03-01,Lagos,0.033555
+ops_stockout,2026-03-01,Abuja,0.032729
+ops_stockout,2026-03-01,Port Harcourt,0.030076
+ops_stockout,2026-03-01,Ibadan,0.030081
+ops_stockout,2026-03-01,Kano,0.033665
+ops_stockout,2026-03-01,All,0.032396
+ops_stockout,2026-04-01,Lagos,0.031646
+ops_stockout,2026-04-01,Abuja,0.030872
+ops_stockout,2026-04-01,Port Harcourt,0.032
+ops_stockout,2026-04-01,Ibadan,0.033225
+ops_stockout,2026-04-01,Kano,0.033519
+ops_stockout,2026-04-01,All,0.032009
+ops_stockout,2026-05-01,Lagos,0.03363
+ops_stockout,2026-05-01,Abuja,0.034217
+ops_stockout,2026-05-01,Port Harcourt,0.029955
+ops_stockout,2026-05-01,Ibadan,0.032747
+ops_stockout,2026-05-01,Kano,0.034546
+ops_stockout,2026-05-01,All,0.033192
+ops_stockout,2026-06-01,Lagos,0.033268
+ops_stockout,2026-06-01,Abuja,0.031727
+ops_stockout,2026-06-01,Port Harcourt,0.030492
+ops_stockout,2026-06-01,Ibadan,0.031467
+ops_stockout,2026-06-01,Kano,0.031533
+ops_stockout,2026-06-01,All,0.032066
+ops_stockout,2026-07-01,Lagos,0.030979
+ops_stockout,2026-07-01,Abuja,0.031072
+ops_stockout,2026-07-01,Port Harcourt,0.034395
+ops_stockout,2026-07-01,Ibadan,0.032889
+ops_stockout,2026-07-01,Kano,0.034238
+ops_stockout,2026-07-01,All,0.032201
+ops_stockout,2026-08-01,Lagos,0.031351
+ops_stockout,2026-08-01,Abuja,0.029528
+ops_stockout,2026-08-01,Port Harcourt,0.031472
+ops_stockout,2026-08-01,Ibadan,0.031382
+ops_stockout,2026-08-01,Kano,0.029658
+ops_stockout,2026-08-01,All,0.030789
+ops_stockout,2026-09-01,Lagos,0.077368
+ops_stockout,2026-09-01,Abuja,0.061176
+ops_stockout,2026-09-01,Port Harcourt,0.061416
+ops_stockout,2026-09-01,Ibadan,0.060891
+ops_stockout,2026-09-01,Kano,0.060799
+ops_stockout,2026-09-01,All,0.067276
+ops_stockout,2026-10-01,Lagos,0.146472
+ops_stockout,2026-10-01,Abuja,0.102415
+ops_stockout,2026-10-01,Port Harcourt,0.106038
+ops_stockout,2026-10-01,Ibadan,0.102634
+ops_stockout,2026-10-01,Kano,0.10201
+ops_stockout,2026-10-01,All,0.119678
+ops_inventory_days,2025-01-01,Electronics,50.797689
+ops_inventory_days,2025-01-01,Home & Kitchen,63.161399
+ops_inventory_days,2025-01-01,Beauty,39.144158
+ops_inventory_days,2025-01-01,Fashion,46.303189
+ops_inventory_days,2025-01-01,Groceries,14.174091
+ops_inventory_days,2025-01-01,All,46.359408
+ops_inventory_days,2025-02-01,Electronics,52.721197
+ops_inventory_days,2025-02-01,Home & Kitchen,63.362726
+ops_inventory_days,2025-02-01,Beauty,36.77919
+ops_inventory_days,2025-02-01,Fashion,46.633856
+ops_inventory_days,2025-02-01,Groceries,13.820019
+ops_inventory_days,2025-02-01,All,46.626003
+ops_inventory_days,2025-03-01,Electronics,52.570392
+ops_inventory_days,2025-03-01,Home & Kitchen,59.838342
+ops_inventory_days,2025-03-01,Beauty,38.733342
+ops_inventory_days,2025-03-01,Fashion,47.194318
+ops_inventory_days,2025-03-01,Groceries,13.919009
+ops_inventory_days,2025-03-01,All,46.242032
+ops_inventory_days,2025-04-01,Electronics,53.668912
+ops_inventory_days,2025-04-01,Home & Kitchen,62.444601
+ops_inventory_days,2025-04-01,Beauty,36.995862
+ops_inventory_days,2025-04-01,Fashion,45.438831
+ops_inventory_days,2025-04-01,Groceries,14.017306
+ops_inventory_days,2025-04-01,All,46.527667
+ops_inventory_days,2025-05-01,Electronics,53.048361
+ops_inventory_days,2025-05-01,Home & Kitchen,62.619791
+ops_inventory_days,2025-05-01,Beauty,37.246905
+ops_inventory_days,2025-05-01,Fashion,45.427967
+ops_inventory_days,2025-05-01,Groceries,13.461709
+ops_inventory_days,2025-05-01,All,46.351366
+ops_inventory_days,2025-06-01,Electronics,53.090709
+ops_inventory_days,2025-06-01,Home & Kitchen,59.463531
+ops_inventory_days,2025-06-01,Beauty,37.137809
+ops_inventory_days,2025-06-01,Fashion,46.940587
+ops_inventory_days,2025-06-01,Groceries,14.251535
+ops_inventory_days,2025-06-01,All,46.049541
+ops_inventory_days,2025-07-01,Electronics,51.965579
+ops_inventory_days,2025-07-01,Home & Kitchen,59.005263
+ops_inventory_days,2025-07-01,Beauty,37.537802
+ops_inventory_days,2025-07-01,Fashion,46.37324
+ops_inventory_days,2025-07-01,Groceries,14.19055
+ops_inventory_days,2025-07-01,All,45.554394
+ops_inventory_days,2025-08-01,Electronics,51.23731
+ops_inventory_days,2025-08-01,Home & Kitchen,62.067341
+ops_inventory_days,2025-08-01,Beauty,38.788582
+ops_inventory_days,2025-08-01,Fashion,48.40016
+ops_inventory_days,2025-08-01,Groceries,13.480207
+ops_inventory_days,2025-08-01,All,46.529838
+ops_inventory_days,2025-09-01,Electronics,51.81191
+ops_inventory_days,2025-09-01,Home & Kitchen,61.843403
+ops_inventory_days,2025-09-01,Beauty,38.523916
+ops_inventory_days,2025-09-01,Fashion,47.317946
+ops_inventory_days,2025-09-01,Groceries,14.361107
+ops_inventory_days,2025-09-01,All,46.49987
+ops_inventory_days,2025-10-01,Electronics,54.057651
+ops_inventory_days,2025-10-01,Home & Kitchen,61.149117
+ops_inventory_days,2025-10-01,Beauty,37.859295
+ops_inventory_days,2025-10-01,Fashion,47.396405
+ops_inventory_days,2025-10-01,Groceries,13.55108
+ops_inventory_days,2025-10-01,All,46.832999
+ops_inventory_days,2025-11-01,Electronics,43.777138
+ops_inventory_days,2025-11-01,Home & Kitchen,51.245291
+ops_inventory_days,2025-11-01,Beauty,30.09327
+ops_inventory_days,2025-11-01,Fashion,39.655392
+ops_inventory_days,2025-11-01,Groceries,11.05965
+ops_inventory_days,2025-11-01,All,38.480265
+ops_inventory_days,2025-12-01,Electronics,42.127709
+ops_inventory_days,2025-12-01,Home & Kitchen,51.891534
+ops_inventory_days,2025-12-01,Beauty,31.654771
+ops_inventory_days,2025-12-01,Fashion,38.206885
+ops_inventory_days,2025-12-01,Groceries,11.567286
+ops_inventory_days,2025-12-01,All,38.148665
+ops_inventory_days,2026-01-01,Electronics,51.666474
+ops_inventory_days,2026-01-01,Home & Kitchen,62.434228
+ops_inventory_days,2026-01-01,Beauty,37.869625
+ops_inventory_days,2026-01-01,Fashion,45.536826
+ops_inventory_days,2026-01-01,Groceries,14.453765
+ops_inventory_days,2026-01-01,All,46.136429
+ops_inventory_days,2026-02-01,Electronics,53.867106
+ops_inventory_days,2026-02-01,Home & Kitchen,60.375425
+ops_inventory_days,2026-02-01,Beauty,38.799777
+ops_inventory_days,2026-02-01,Fashion,47.277946
+ops_inventory_days,2026-02-01,Groceries,14.032995
+ops_inventory_days,2026-02-01,All,46.790238
+ops_inventory_days,2026-03-01,Electronics,50.223568
+ops_inventory_days,2026-03-01,Home & Kitchen,58.852376
+ops_inventory_days,2026-03-01,Beauty,37.816401
+ops_inventory_days,2026-03-01,Fashion,46.940784
+ops_inventory_days,2026-03-01,Groceries,13.668506
+ops_inventory_days,2026-03-01,All,45.093595
+ops_inventory_days,2026-04-01,Electronics,50.051333
+ops_inventory_days,2026-04-01,Home & Kitchen,63.187241
+ops_inventory_days,2026-04-01,Beauty,36.814082
+ops_inventory_days,2026-04-01,Fashion,45.191205
+ops_inventory_days,2026-04-01,Groceries,13.791336
+ops_inventory_days,2026-04-01,All,45.500047
+ops_inventory_days,2026-05-01,Electronics,51.866966
+ops_inventory_days,2026-05-01,Home & Kitchen,59.50092
+ops_inventory_days,2026-05-01,Beauty,36.822446
+ops_inventory_days,2026-05-01,Fashion,45.730978
+ops_inventory_days,2026-05-01,Groceries,13.953984
+ops_inventory_days,2026-05-01,All,45.362557
+ops_inventory_days,2026-06-01,Electronics,52.154995
+ops_inventory_days,2026-06-01,Home & Kitchen,61.140752
+ops_inventory_days,2026-06-01,Beauty,38.692689
+ops_inventory_days,2026-06-01,Fashion,45.957315
+ops_inventory_days,2026-06-01,Groceries,13.44389
+ops_inventory_days,2026-06-01,All,46.093024
+ops_inventory_days,2026-07-01,Electronics,50.33021
+ops_inventory_days,2026-07-01,Home & Kitchen,63.348834
+ops_inventory_days,2026-07-01,Beauty,37.907251
+ops_inventory_days,2026-07-01,Fashion,48.277389
+ops_inventory_days,2026-07-01,Groceries,14.46405
+ops_inventory_days,2026-07-01,All,46.492131
+ops_inventory_days,2026-08-01,Electronics,51.576911
+ops_inventory_days,2026-08-01,Home & Kitchen,58.935455
+ops_inventory_days,2026-08-01,Beauty,36.973849
+ops_inventory_days,2026-08-01,Fashion,46.024175
+ops_inventory_days,2026-08-01,Groceries,14.374809
+ops_inventory_days,2026-08-01,All,45.284501
+ops_inventory_days,2026-09-01,Electronics,37.719149
+ops_inventory_days,2026-09-01,Home & Kitchen,42.568902
+ops_inventory_days,2026-09-01,Beauty,27.043405
+ops_inventory_days,2026-09-01,Fashion,32.738013
+ops_inventory_days,2026-09-01,Groceries,9.636404
+ops_inventory_days,2026-09-01,All,32.711819
+ops_inventory_days,2026-10-01,Electronics,34.885562
+ops_inventory_days,2026-10-01,Home & Kitchen,51.009801
+ops_inventory_days,2026-10-01,Beauty,25.309702
+ops_inventory_days,2026-10-01,Fashion,38.622867
+ops_inventory_days,2026-10-01,Groceries,11.551518
+ops_inventory_days,2026-10-01,All,34.848133
+ops_returns,2025-01-01,Lagos,0.059372
+ops_returns,2025-01-01,Abuja,0.056379
+ops_returns,2025-01-01,Port Harcourt,0.060015
+ops_returns,2025-01-01,Ibadan,0.059187
+ops_returns,2025-01-01,Kano,0.056648
+ops_returns,2025-01-01,All,0.058509
+ops_returns,2025-02-01,Lagos,0.060149
+ops_returns,2025-02-01,Abuja,0.060489
+ops_returns,2025-02-01,Port Harcourt,0.055845
+ops_returns,2025-02-01,Ibadan,0.058869
+ops_returns,2025-02-01,Kano,0.060351
+ops_returns,2025-02-01,All,0.05942
+ops_returns,2025-03-01,Lagos,0.058017
+ops_returns,2025-03-01,Abuja,0.058548
+ops_returns,2025-03-01,Port Harcourt,0.056934
+ops_returns,2025-03-01,Ibadan,0.057243
+ops_returns,2025-03-01,Kano,0.055879
+ops_returns,2025-03-01,All,0.05757
+ops_returns,2025-04-01,Lagos,0.059836
+ops_returns,2025-04-01,Abuja,0.057418
+ops_returns,2025-04-01,Port Harcourt,0.056919
+ops_returns,2025-04-01,Ibadan,0.05899
+ops_returns,2025-04-01,Kano,0.056815
+ops_returns,2025-04-01,All,0.058413
+ops_returns,2025-05-01,Lagos,0.059917
+ops_returns,2025-05-01,Abuja,0.055549
+ops_returns,2025-05-01,Port Harcourt,0.057511
+ops_returns,2025-05-01,Ibadan,0.06005
+ops_returns,2025-05-01,Kano,0.057445
+ops_returns,2025-05-01,All,0.058386
+ops_returns,2025-06-01,Lagos,0.057114
+ops_returns,2025-06-01,Abuja,0.057626
+ops_returns,2025-06-01,Port Harcourt,0.055603
+ops_returns,2025-06-01,Ibadan,0.060206
+ops_returns,2025-06-01,Kano,0.059699
+ops_returns,2025-06-01,All,0.057759
+ops_returns,2025-07-01,Lagos,0.057668
+ops_returns,2025-07-01,Abuja,0.056108
+ops_returns,2025-07-01,Port Harcourt,0.059669
+ops_returns,2025-07-01,Ibadan,0.059444
+ops_returns,2025-07-01,Kano,0.056969
+ops_returns,2025-07-01,All,0.057831
+ops_returns,2025-08-01,Lagos,0.057991
+ops_returns,2025-08-01,Abuja,0.060111
+ops_returns,2025-08-01,Port Harcourt,0.055962
+ops_returns,2025-08-01,Ibadan,0.055353
+ops_returns,2025-08-01,Kano,0.060144
+ops_returns,2025-08-01,All,0.058017
+ops_returns,2025-09-01,Lagos,0.056551
+ops_returns,2025-09-01,Abuja,0.056692
+ops_returns,2025-09-01,Port Harcourt,0.058792
+ops_returns,2025-09-01,Ibadan,0.059348
+ops_returns,2025-09-01,Kano,0.059883
+ops_returns,2025-09-01,All,0.057748
+ops_returns,2025-10-01,Lagos,0.060771
+ops_returns,2025-10-01,Abuja,0.056513
+ops_returns,2025-10-01,Port Harcourt,0.060079
+ops_returns,2025-10-01,Ibadan,0.055404
+ops_returns,2025-10-01,Kano,0.060128
+ops_returns,2025-10-01,All,0.058966
+ops_returns,2025-11-01,Lagos,0.063228
+ops_returns,2025-11-01,Abuja,0.065889
+ops_returns,2025-11-01,Port Harcourt,0.064172
+ops_returns,2025-11-01,Ibadan,0.061413
+ops_returns,2025-11-01,Kano,0.064435
+ops_returns,2025-11-01,All,0.063813
+ops_returns,2025-12-01,Lagos,0.065466
+ops_returns,2025-12-01,Abuja,0.063065
+ops_returns,2025-12-01,Port Harcourt,0.064067
+ops_returns,2025-12-01,Ibadan,0.060859
+ops_returns,2025-12-01,Kano,0.062663
+ops_returns,2025-12-01,All,0.063783
+ops_returns,2026-01-01,Lagos,0.072676
+ops_returns,2026-01-01,Abuja,0.068578
+ops_returns,2026-01-01,Port Harcourt,0.066495
+ops_returns,2026-01-01,Ibadan,0.067928
+ops_returns,2026-01-01,Kano,0.066698
+ops_returns,2026-01-01,All,0.069448
+ops_returns,2026-02-01,Lagos,0.059602
+ops_returns,2026-02-01,Abuja,0.056208
+ops_returns,2026-02-01,Port Harcourt,0.057978
+ops_returns,2026-02-01,Ibadan,0.058933
+ops_returns,2026-02-01,Kano,0.060598
+ops_returns,2026-02-01,All,0.05871
+ops_returns,2026-03-01,Lagos,0.05724
+ops_returns,2026-03-01,Abuja,0.06074
+ops_returns,2026-03-01,Port Harcourt,0.055421
+ops_returns,2026-03-01,Ibadan,0.058295
+ops_returns,2026-03-01,Kano,0.058369
+ops_returns,2026-03-01,All,0.057971
+ops_returns,2026-04-01,Lagos,0.060014
+ops_returns,2026-04-01,Abuja,0.059534
+ops_returns,2026-04-01,Port Harcourt,0.058053
+ops_returns,2026-04-01,Ibadan,0.060846
+ops_returns,2026-04-01,Kano,0.058485
+ops_returns,2026-04-01,All,0.059539
+ops_returns,2026-05-01,Lagos,0.060785
+ops_returns,2026-05-01,Abuja,0.058224
+ops_returns,2026-05-01,Port Harcourt,0.059261
+ops_returns,2026-05-01,Ibadan,0.056963
+ops_returns,2026-05-01,Kano,0.060434
+ops_returns,2026-05-01,All,0.059439
+ops_returns,2026-06-01,Lagos,0.055988
+ops_returns,2026-06-01,Abuja,0.055575
+ops_returns,2026-06-01,Port Harcourt,0.055774
+ops_returns,2026-06-01,Ibadan,0.059295
+ops_returns,2026-06-01,Kano,0.055284
+ops_returns,2026-06-01,All,0.056227
+ops_returns,2026-07-01,Lagos,0.056382
+ops_returns,2026-07-01,Abuja,0.059658
+ops_returns,2026-07-01,Port Harcourt,0.058362
+ops_returns,2026-07-01,Ibadan,0.056657
+ops_returns,2026-07-01,Kano,0.055189
+ops_returns,2026-07-01,All,0.057239
+ops_returns,2026-08-01,Lagos,0.058033
+ops_returns,2026-08-01,Abuja,0.060769
+ops_returns,2026-08-01,Port Harcourt,0.05665
+ops_returns,2026-08-01,Ibadan,0.055642
+ops_returns,2026-08-01,Kano,0.058163
+ops_returns,2026-08-01,All,0.058034
+ops_returns,2026-09-01,Lagos,0.062915
+ops_returns,2026-09-01,Abuja,0.061293
+ops_returns,2026-09-01,Port Harcourt,0.059967
+ops_returns,2026-09-01,Ibadan,0.065103
+ops_returns,2026-09-01,Kano,0.060765
+ops_returns,2026-09-01,All,0.062165
+ops_returns,2026-10-01,Lagos,0.100936
+ops_returns,2026-10-01,Abuja,0.091156
+ops_returns,2026-10-01,Port Harcourt,0.086367
+ops_returns,2026-10-01,Ibadan,0.088049
+ops_returns,2026-10-01,Kano,0.090391
+ops_returns,2026-10-01,All,0.093608
+cs_frt,2025-01-01,Lagos,2.572349
+cs_frt,2025-01-01,Abuja,2.47169
+cs_frt,2025-01-01,Port Harcourt,2.65973
+cs_frt,2025-01-01,Ibadan,2.545241
+cs_frt,2025-01-01,Kano,2.738312
+cs_frt,2025-01-01,All,2.585803
+cs_frt,2025-02-01,Lagos,2.628332
+cs_frt,2025-02-01,Abuja,2.549954
+cs_frt,2025-02-01,Port Harcourt,2.538915
+cs_frt,2025-02-01,Ibadan,2.501461
+cs_frt,2025-02-01,Kano,2.531881
+cs_frt,2025-02-01,All,2.569119
+cs_frt,2025-03-01,Lagos,2.719803
+cs_frt,2025-03-01,Abuja,2.621755
+cs_frt,2025-03-01,Port Harcourt,2.589154
+cs_frt,2025-03-01,Ibadan,2.65292
+cs_frt,2025-03-01,Kano,2.613838
+cs_frt,2025-03-01,All,2.658888
+cs_frt,2025-04-01,Lagos,2.67679
+cs_frt,2025-04-01,Abuja,2.714202
+cs_frt,2025-04-01,Port Harcourt,2.570151
+cs_frt,2025-04-01,Ibadan,2.642702
+cs_frt,2025-04-01,Kano,2.714495
+cs_frt,2025-04-01,All,2.669895
+cs_frt,2025-05-01,Lagos,2.674914
+cs_frt,2025-05-01,Abuja,2.553124
+cs_frt,2025-05-01,Port Harcourt,2.705258
+cs_frt,2025-05-01,Ibadan,2.664354
+cs_frt,2025-05-01,Kano,2.503183
+cs_frt,2025-05-01,All,2.632553
+cs_frt,2025-06-01,Lagos,2.60155
+cs_frt,2025-06-01,Abuja,2.540221
+cs_frt,2025-06-01,Port Harcourt,2.590824
+cs_frt,2025-06-01,Ibadan,2.472639
+cs_frt,2025-06-01,Kano,2.649865
+cs_frt,2025-06-01,All,2.576254
+cs_frt,2025-07-01,Lagos,2.605235
+cs_frt,2025-07-01,Abuja,2.587131
+cs_frt,2025-07-01,Port Harcourt,2.712754
+cs_frt,2025-07-01,Ibadan,2.502332
+cs_frt,2025-07-01,Kano,2.720097
+cs_frt,2025-07-01,All,2.619058
+cs_frt,2025-08-01,Lagos,2.54109
+cs_frt,2025-08-01,Abuja,2.577885
+cs_frt,2025-08-01,Port Harcourt,2.613499
+cs_frt,2025-08-01,Ibadan,2.680966
+cs_frt,2025-08-01,Kano,2.606747
+cs_frt,2025-08-01,All,2.587326
+cs_frt,2025-09-01,Lagos,2.57002
+cs_frt,2025-09-01,Abuja,2.663614
+cs_frt,2025-09-01,Port Harcourt,2.657441
+cs_frt,2025-09-01,Ibadan,2.664345
+cs_frt,2025-09-01,Kano,2.780434
+cs_frt,2025-09-01,All,2.644551
+cs_frt,2025-10-01,Lagos,2.51935
+cs_frt,2025-10-01,Abuja,2.487839
+cs_frt,2025-10-01,Port Harcourt,2.53517
+cs_frt,2025-10-01,Ibadan,2.663873
+cs_frt,2025-10-01,Kano,2.720647
+cs_frt,2025-10-01,All,2.563008
+cs_frt,2025-11-01,Lagos,3.380726
+cs_frt,2025-11-01,Abuja,2.554607
+cs_frt,2025-11-01,Port Harcourt,2.763094
+cs_frt,2025-11-01,Ibadan,2.776958
+cs_frt,2025-11-01,Kano,2.838656
+cs_frt,2025-11-01,All,2.987439
+cs_frt,2025-12-01,Lagos,3.225881
+cs_frt,2025-12-01,Abuja,2.49327
+cs_frt,2025-12-01,Port Harcourt,2.641678
+cs_frt,2025-12-01,Ibadan,2.80135
+cs_frt,2025-12-01,Kano,2.891688
+cs_frt,2025-12-01,All,2.91483
+cs_frt,2026-01-01,Lagos,2.61947
+cs_frt,2026-01-01,Abuja,2.60714
+cs_frt,2026-01-01,Port Harcourt,2.544116
+cs_frt,2026-01-01,Ibadan,2.600522
+cs_frt,2026-01-01,Kano,2.650979
+cs_frt,2026-01-01,All,2.607683
+cs_frt,2026-02-01,Lagos,2.48139
+cs_frt,2026-02-01,Abuja,2.695108
+cs_frt,2026-02-01,Port Harcourt,2.605012
+cs_frt,2026-02-01,Ibadan,2.58079
+cs_frt,2026-02-01,Kano,2.564461
+cs_frt,2026-02-01,All,2.567035
+cs_frt,2026-03-01,Lagos,2.629107
+cs_frt,2026-03-01,Abuja,2.646828
+cs_frt,2026-03-01,Port Harcourt,2.512811
+cs_frt,2026-03-01,Ibadan,2.608704
+cs_frt,2026-03-01,Kano,2.48182
+cs_frt,2026-03-01,All,2.593898
+cs_frt,2026-04-01,Lagos,2.659152
+cs_frt,2026-04-01,Abuja,2.646904
+cs_frt,2026-04-01,Port Harcourt,2.505629
+cs_frt,2026-04-01,Ibadan,2.557457
+cs_frt,2026-04-01,Kano,2.648891
+cs_frt,2026-04-01,All,2.620024
+cs_frt,2026-05-01,Lagos,2.745832
+cs_frt,2026-05-01,Abuja,2.505691
+cs_frt,2026-05-01,Port Harcourt,2.471347
+cs_frt,2026-05-01,Ibadan,2.49326
+cs_frt,2026-05-01,Kano,2.663567
+cs_frt,2026-05-01,All,2.611044
+cs_frt,2026-06-01,Lagos,2.623266
+cs_frt,2026-06-01,Abuja,2.490307
+cs_frt,2026-06-01,Port Harcourt,2.493645
+cs_frt,2026-06-01,Ibadan,2.663909
+cs_frt,2026-06-01,Kano,2.669115
+cs_frt,2026-06-01,All,2.591257
+cs_frt,2026-07-01,Lagos,2.716615
+cs_frt,2026-07-01,Abuja,2.508797
+cs_frt,2026-07-01,Port Harcourt,2.504864
+cs_frt,2026-07-01,Ibadan,2.697141
+cs_frt,2026-07-01,Kano,2.500502
+cs_frt,2026-07-01,All,2.6083
+cs_frt,2026-08-01,Lagos,2.707556
+cs_frt,2026-08-01,Abuja,2.645249
+cs_frt,2026-08-01,Port Harcourt,2.575567
+cs_frt,2026-08-01,Ibadan,2.48459
+cs_frt,2026-08-01,Kano,2.704383
+cs_frt,2026-08-01,All,2.645771
+cs_frt,2026-09-01,Lagos,3.502733
+cs_frt,2026-09-01,Abuja,2.785198
+cs_frt,2026-09-01,Port Harcourt,2.878447
+cs_frt,2026-09-01,Ibadan,3.032131
+cs_frt,2026-09-01,Kano,3.187728
+cs_frt,2026-09-01,All,3.182004
+cs_frt,2026-10-01,Lagos,6.229076
+cs_frt,2026-10-01,Abuja,4.011091
+cs_frt,2026-10-01,Port Harcourt,4.07528
+cs_frt,2026-10-01,Ibadan,4.18142
+cs_frt,2026-10-01,Kano,4.057372
+cs_frt,2026-10-01,All,5.087159
+cs_resolution,2025-01-01,Lagos,19.48263
+cs_resolution,2025-01-01,Abuja,19.581057
+cs_resolution,2025-01-01,Port Harcourt,19.068833
+cs_resolution,2025-01-01,Ibadan,18.201605
+cs_resolution,2025-01-01,Kano,19.179435
+cs_resolution,2025-01-01,All,19.222563
+cs_resolution,2025-02-01,Lagos,18.340395
+cs_resolution,2025-02-01,Abuja,18.160058
+cs_resolution,2025-02-01,Port Harcourt,19.707623
+cs_resolution,2025-02-01,Ibadan,18.476925
+cs_resolution,2025-02-01,Kano,19.321058
+cs_resolution,2025-02-01,All,18.651824
+cs_resolution,2025-03-01,Lagos,18.202212
+cs_resolution,2025-03-01,Abuja,19.043287
+cs_resolution,2025-03-01,Port Harcourt,19.947063
+cs_resolution,2025-03-01,Ibadan,19.212188
+cs_resolution,2025-03-01,Kano,18.567462
+cs_resolution,2025-03-01,All,18.808865
+cs_resolution,2025-04-01,Lagos,18.482431
+cs_resolution,2025-04-01,Abuja,18.269149
+cs_resolution,2025-04-01,Port Harcourt,19.145517
+cs_resolution,2025-04-01,Ibadan,18.67738
+cs_resolution,2025-04-01,Kano,19.336904
+cs_resolution,2025-04-01,All,18.66766
+cs_resolution,2025-05-01,Lagos,19.037917
+cs_resolution,2025-05-01,Abuja,19.076289
+cs_resolution,2025-05-01,Port Harcourt,19.159751
+cs_resolution,2025-05-01,Ibadan,19.087651
+cs_resolution,2025-05-01,Kano,19.232288
+cs_resolution,2025-05-01,All,19.093587
+cs_resolution,2025-06-01,Lagos,18.698339
+cs_resolution,2025-06-01,Abuja,19.585579
+cs_resolution,2025-06-01,Port Harcourt,19.20963
+cs_resolution,2025-06-01,Ibadan,19.851319
+cs_resolution,2025-06-01,Kano,18.631791
+cs_resolution,2025-06-01,All,19.109144
+cs_resolution,2025-07-01,Lagos,19.670484
+cs_resolution,2025-07-01,Abuja,19.178241
+cs_resolution,2025-07-01,Port Harcourt,18.857764
+cs_resolution,2025-07-01,Ibadan,19.358488
+cs_resolution,2025-07-01,Kano,19.638321
+cs_resolution,2025-07-01,All,19.410602
+cs_resolution,2025-08-01,Lagos,19.635975
+cs_resolution,2025-08-01,Abuja,19.825072
+cs_resolution,2025-08-01,Port Harcourt,19.082517
+cs_resolution,2025-08-01,Ibadan,18.78355
+cs_resolution,2025-08-01,Kano,18.918163
+cs_resolution,2025-08-01,All,19.382209
+cs_resolution,2025-09-01,Lagos,18.968095
+cs_resolution,2025-09-01,Abuja,18.143184
+cs_resolution,2025-09-01,Port Harcourt,19.302445
+cs_resolution,2025-09-01,Ibadan,18.383716
+cs_resolution,2025-09-01,Kano,19.547753
+cs_resolution,2025-09-01,All,18.858571
+cs_resolution,2025-10-01,Lagos,18.282103
+cs_resolution,2025-10-01,Abuja,19.503799
+cs_resolution,2025-10-01,Port Harcourt,18.381545
+cs_resolution,2025-10-01,Ibadan,18.954867
+cs_resolution,2025-10-01,Kano,18.165568
+cs_resolution,2025-10-01,All,18.622032
+cs_resolution,2025-11-01,Lagos,24.513802
+cs_resolution,2025-11-01,Abuja,19.688783
+cs_resolution,2025-11-01,Port Harcourt,20.701558
+cs_resolution,2025-11-01,Ibadan,21.188147
+cs_resolution,2025-11-01,Kano,21.636029
+cs_resolution,2025-11-01,All,22.250628
+cs_resolution,2025-12-01,Lagos,24.949005
+cs_resolution,2025-12-01,Abuja,19.083271
+cs_resolution,2025-12-01,Port Harcourt,19.770004
+cs_resolution,2025-12-01,Ibadan,21.330161
+cs_resolution,2025-12-01,Kano,21.810204
+cs_resolution,2025-12-01,All,22.303752
+cs_resolution,2026-01-01,Lagos,19.317031
+cs_resolution,2026-01-01,Abuja,19.885909
+cs_resolution,2026-01-01,Port Harcourt,19.499922
+cs_resolution,2026-01-01,Ibadan,18.497978
+cs_resolution,2026-01-01,Kano,18.313706
+cs_resolution,2026-01-01,All,19.205483
+cs_resolution,2026-02-01,Lagos,18.428993
+cs_resolution,2026-02-01,Abuja,18.680657
+cs_resolution,2026-02-01,Port Harcourt,19.572181
+cs_resolution,2026-02-01,Ibadan,19.360553
+cs_resolution,2026-02-01,Kano,19.572082
+cs_resolution,2026-02-01,All,18.92728
+cs_resolution,2026-03-01,Lagos,18.213809
+cs_resolution,2026-03-01,Abuja,18.704578
+cs_resolution,2026-03-01,Port Harcourt,18.663055
+cs_resolution,2026-03-01,Ibadan,19.004889
+cs_resolution,2026-03-01,Kano,19.268762
+cs_resolution,2026-03-01,All,18.625557
+cs_resolution,2026-04-01,Lagos,19.501328
+cs_resolution,2026-04-01,Abuja,18.275741
+cs_resolution,2026-04-01,Port Harcourt,18.682777
+cs_resolution,2026-04-01,Ibadan,19.62375
+cs_resolution,2026-04-01,Kano,18.10063
+cs_resolution,2026-04-01,All,18.976924
+cs_resolution,2026-05-01,Lagos,19.085786
+cs_resolution,2026-05-01,Abuja,19.219786
+cs_resolution,2026-05-01,Port Harcourt,19.09567
+cs_resolution,2026-05-01,Ibadan,19.140853
+cs_resolution,2026-05-01,Kano,20.346501
+cs_resolution,2026-05-01,All,19.291488
+cs_resolution,2026-06-01,Lagos,19.443237
+cs_resolution,2026-06-01,Abuja,19.121921
+cs_resolution,2026-06-01,Port Harcourt,19.019713
+cs_resolution,2026-06-01,Ibadan,19.148791
+cs_resolution,2026-06-01,Kano,19.908833
+cs_resolution,2026-06-01,All,19.346687
+cs_resolution,2026-07-01,Lagos,19.721456
+cs_resolution,2026-07-01,Abuja,18.765274
+cs_resolution,2026-07-01,Port Harcourt,18.511431
+cs_resolution,2026-07-01,Ibadan,18.40751
+cs_resolution,2026-07-01,Kano,19.949187
+cs_resolution,2026-07-01,All,19.187655
+cs_resolution,2026-08-01,Lagos,19.709708
+cs_resolution,2026-08-01,Abuja,19.581719
+cs_resolution,2026-08-01,Port Harcourt,19.123504
+cs_resolution,2026-08-01,Ibadan,18.067955
+cs_resolution,2026-08-01,Kano,19.802738
+cs_resolution,2026-08-01,All,19.386574
+cs_resolution,2026-09-01,Lagos,26.228297
+cs_resolution,2026-09-01,Abuja,20.388636
+cs_resolution,2026-09-01,Port Harcourt,20.271662
+cs_resolution,2026-09-01,Ibadan,21.25672
+cs_resolution,2026-09-01,Kano,21.944891
+cs_resolution,2026-09-01,All,23.113261
+cs_resolution,2026-10-01,Lagos,46.460319
+cs_resolution,2026-10-01,Abuja,29.155002
+cs_resolution,2026-10-01,Port Harcourt,28.840993
+cs_resolution,2026-10-01,Ibadan,29.966192
+cs_resolution,2026-10-01,Kano,28.210772
+cs_resolution,2026-10-01,All,37.237803
+cs_csat,2025-01-01,Lagos,0.867078
+cs_csat,2025-01-01,Abuja,0.883487
+cs_csat,2025-01-01,Port Harcourt,0.888327
+cs_csat,2025-01-01,Ibadan,0.875297
+cs_csat,2025-01-01,Kano,0.87796
+cs_csat,2025-01-01,All,0.876022
+cs_csat,2025-02-01,Lagos,0.88462
+cs_csat,2025-02-01,Abuja,0.886653
+cs_csat,2025-02-01,Port Harcourt,0.878647
+cs_csat,2025-02-01,Ibadan,0.87715
+cs_csat,2025-02-01,Kano,0.874971
+cs_csat,2025-02-01,All,0.881848
+cs_csat,2025-03-01,Lagos,0.874471
+cs_csat,2025-03-01,Abuja,0.887651
+cs_csat,2025-03-01,Port Harcourt,0.888731
+cs_csat,2025-03-01,Ibadan,0.888575
+cs_csat,2025-03-01,Kano,0.881845
+cs_csat,2025-03-01,All,0.88206
+cs_csat,2025-04-01,Lagos,0.871616
+cs_csat,2025-04-01,Abuja,0.888279
+cs_csat,2025-04-01,Port Harcourt,0.875683
+cs_csat,2025-04-01,Ibadan,0.876725
+cs_csat,2025-04-01,Kano,0.887089
+cs_csat,2025-04-01,All,0.878365
+cs_csat,2025-05-01,Lagos,0.87513
+cs_csat,2025-05-01,Abuja,0.873635
+cs_csat,2025-05-01,Port Harcourt,0.883441
+cs_csat,2025-05-01,Ibadan,0.881817
+cs_csat,2025-05-01,Kano,0.871675
+cs_csat,2025-05-01,All,0.876463
+cs_csat,2025-06-01,Lagos,0.886153
+cs_csat,2025-06-01,Abuja,0.880672
+cs_csat,2025-06-01,Port Harcourt,0.87787
+cs_csat,2025-06-01,Ibadan,0.872707
+cs_csat,2025-06-01,Kano,0.881435
+cs_csat,2025-06-01,All,0.881321
+cs_csat,2025-07-01,Lagos,0.878747
+cs_csat,2025-07-01,Abuja,0.876326
+cs_csat,2025-07-01,Port Harcourt,0.880784
+cs_csat,2025-07-01,Ibadan,0.883515
+cs_csat,2025-07-01,Kano,0.881324
+cs_csat,2025-07-01,All,0.879587
+cs_csat,2025-08-01,Lagos,0.888452
+cs_csat,2025-08-01,Abuja,0.880136
+cs_csat,2025-08-01,Port Harcourt,0.879214
+cs_csat,2025-08-01,Ibadan,0.882881
+cs_csat,2025-08-01,Kano,0.883915
+cs_csat,2025-08-01,All,0.884046
+cs_csat,2025-09-01,Lagos,0.875375
+cs_csat,2025-09-01,Abuja,0.881873
+cs_csat,2025-09-01,Port Harcourt,0.885955
+cs_csat,2025-09-01,Ibadan,0.873526
+cs_csat,2025-09-01,Kano,0.866888
+cs_csat,2025-09-01,All,0.876804
+cs_csat,2025-10-01,Lagos,0.886125
+cs_csat,2025-10-01,Abuja,0.874846
+cs_csat,2025-10-01,Port Harcourt,0.882835
+cs_csat,2025-10-01,Ibadan,0.884893
+cs_csat,2025-10-01,Kano,0.87963
+cs_csat,2025-10-01,All,0.882309
+cs_csat,2025-11-01,Lagos,0.847001
+cs_csat,2025-11-01,Abuja,0.874461
+cs_csat,2025-11-01,Port Harcourt,0.863599
+cs_csat,2025-11-01,Ibadan,0.86628
+cs_csat,2025-11-01,Kano,0.860964
+cs_csat,2025-11-01,All,0.858873
+cs_csat,2025-12-01,Lagos,0.845565
+cs_csat,2025-12-01,Abuja,0.876156
+cs_csat,2025-12-01,Port Harcourt,0.885435
+cs_csat,2025-12-01,Ibadan,0.86638
+cs_csat,2025-12-01,Kano,0.866222
+cs_csat,2025-12-01,All,0.861867
+cs_csat,2026-01-01,Lagos,0.874806
+cs_csat,2026-01-01,Abuja,0.885577
+cs_csat,2026-01-01,Port Harcourt,0.876001
+cs_csat,2026-01-01,Ibadan,0.888704
+cs_csat,2026-01-01,Kano,0.883617
+cs_csat,2026-01-01,All,0.880136
+cs_csat,2026-02-01,Lagos,0.871938
+cs_csat,2026-02-01,Abuja,0.873391
+cs_csat,2026-02-01,Port Harcourt,0.883997
+cs_csat,2026-02-01,Ibadan,0.877387
+cs_csat,2026-02-01,Kano,0.883158
+cs_csat,2026-02-01,All,0.876252
+cs_csat,2026-03-01,Lagos,0.876644
+cs_csat,2026-03-01,Abuja,0.886652
+cs_csat,2026-03-01,Port Harcourt,0.883684
+cs_csat,2026-03-01,Ibadan,0.874168
+cs_csat,2026-03-01,Kano,0.881351
+cs_csat,2026-03-01,All,0.879928
+cs_csat,2026-04-01,Lagos,0.87764
+cs_csat,2026-04-01,Abuja,0.888361
+cs_csat,2026-04-01,Port Harcourt,0.879538
+cs_csat,2026-04-01,Ibadan,0.880569
+cs_csat,2026-04-01,Kano,0.879553
+cs_csat,2026-04-01,All,0.880657
+cs_csat,2026-05-01,Lagos,0.872649
+cs_csat,2026-05-01,Abuja,0.881528
+cs_csat,2026-05-01,Port Harcourt,0.887552
+cs_csat,2026-05-01,Ibadan,0.880619
+cs_csat,2026-05-01,Kano,0.884513
+cs_csat,2026-05-01,All,0.87934
+cs_csat,2026-06-01,Lagos,0.876941
+cs_csat,2026-06-01,Abuja,0.872287
+cs_csat,2026-06-01,Port Harcourt,0.885433
+cs_csat,2026-06-01,Ibadan,0.871997
+cs_csat,2026-06-01,Kano,0.882568
+cs_csat,2026-06-01,All,0.877386
+cs_csat,2026-07-01,Lagos,0.887244
+cs_csat,2026-07-01,Abuja,0.884478
+cs_csat,2026-07-01,Port Harcourt,0.874779
+cs_csat,2026-07-01,Ibadan,0.884606
+cs_csat,2026-07-01,Kano,0.879629
+cs_csat,2026-07-01,All,0.883328
+cs_csat,2026-08-01,Lagos,0.876176
+cs_csat,2026-08-01,Abuja,0.887212
+cs_csat,2026-08-01,Port Harcourt,0.888628
+cs_csat,2026-08-01,Ibadan,0.874216
+cs_csat,2026-08-01,Kano,0.879101
+cs_csat,2026-08-01,All,0.88011
+cs_csat,2026-09-01,Lagos,0.82761
+cs_csat,2026-09-01,Abuja,0.88407
+cs_csat,2026-09-01,Port Harcourt,0.859874
+cs_csat,2026-09-01,Ibadan,0.858032
+cs_csat,2026-09-01,Kano,0.858719
+cs_csat,2026-09-01,All,0.850425
+cs_csat,2026-10-01,Lagos,0.694494
+cs_csat,2026-10-01,Abuja,0.801435
+cs_csat,2026-10-01,Port Harcourt,0.811583
+cs_csat,2026-10-01,Ibadan,0.794038
+cs_csat,2026-10-01,Kano,0.804983
+cs_csat,2026-10-01,All,0.751993
+cs_ticket_drivers,2025-01-01,Late delivery,0.195667
+cs_ticket_drivers,2025-01-01,Out of stock / cancelled,0.10457
+cs_ticket_drivers,2025-01-01,Returns & refunds,0.209245
+cs_ticket_drivers,2025-01-01,Payment issue,0.192697
+cs_ticket_drivers,2025-01-01,Product question,0.297821
+cs_ticket_drivers,2025-01-01,All,0.195667
+cs_ticket_drivers,2025-02-01,Late delivery,0.18461
+cs_ticket_drivers,2025-02-01,Out of stock / cancelled,0.106441
+cs_ticket_drivers,2025-02-01,Returns & refunds,0.216219
+cs_ticket_drivers,2025-02-01,Payment issue,0.169709
+cs_ticket_drivers,2025-02-01,Product question,0.323022
+cs_ticket_drivers,2025-02-01,All,0.18461
+cs_ticket_drivers,2025-03-01,Late delivery,0.185236
+cs_ticket_drivers,2025-03-01,Out of stock / cancelled,0.105211
+cs_ticket_drivers,2025-03-01,Returns & refunds,0.209422
+cs_ticket_drivers,2025-03-01,Payment issue,0.188009
+cs_ticket_drivers,2025-03-01,Product question,0.312123
+cs_ticket_drivers,2025-03-01,All,0.185236
+cs_ticket_drivers,2025-04-01,Late delivery,0.194677
+cs_ticket_drivers,2025-04-01,Out of stock / cancelled,0.108109
+cs_ticket_drivers,2025-04-01,Returns & refunds,0.217621
+cs_ticket_drivers,2025-04-01,Payment issue,0.173103
+cs_ticket_drivers,2025-04-01,Product question,0.30649
+cs_ticket_drivers,2025-04-01,All,0.194677
+cs_ticket_drivers,2025-05-01,Late delivery,0.191855
+cs_ticket_drivers,2025-05-01,Out of stock / cancelled,0.106242
+cs_ticket_drivers,2025-05-01,Returns & refunds,0.215625
+cs_ticket_drivers,2025-05-01,Payment issue,0.173131
+cs_ticket_drivers,2025-05-01,Product question,0.313147
+cs_ticket_drivers,2025-05-01,All,0.191855
+cs_ticket_drivers,2025-06-01,Late delivery,0.182616
+cs_ticket_drivers,2025-06-01,Out of stock / cancelled,0.106783
+cs_ticket_drivers,2025-06-01,Returns & refunds,0.213594
+cs_ticket_drivers,2025-06-01,Payment issue,0.184644
+cs_ticket_drivers,2025-06-01,Product question,0.312363
+cs_ticket_drivers,2025-06-01,All,0.182616
+cs_ticket_drivers,2025-07-01,Late delivery,0.194424
+cs_ticket_drivers,2025-07-01,Out of stock / cancelled,0.106643
+cs_ticket_drivers,2025-07-01,Returns & refunds,0.21341
+cs_ticket_drivers,2025-07-01,Payment issue,0.180118
+cs_ticket_drivers,2025-07-01,Product question,0.305405
+cs_ticket_drivers,2025-07-01,All,0.194424
+cs_ticket_drivers,2025-08-01,Late delivery,0.181777
+cs_ticket_drivers,2025-08-01,Out of stock / cancelled,0.109446
+cs_ticket_drivers,2025-08-01,Returns & refunds,0.217226
+cs_ticket_drivers,2025-08-01,Payment issue,0.198181
+cs_ticket_drivers,2025-08-01,Product question,0.29337
+cs_ticket_drivers,2025-08-01,All,0.181777
+cs_ticket_drivers,2025-09-01,Late delivery,0.194772
+cs_ticket_drivers,2025-09-01,Out of stock / cancelled,0.108063
+cs_ticket_drivers,2025-09-01,Returns & refunds,0.214984
+cs_ticket_drivers,2025-09-01,Payment issue,0.17844
+cs_ticket_drivers,2025-09-01,Product question,0.303741
+cs_ticket_drivers,2025-09-01,All,0.194772
+cs_ticket_drivers,2025-10-01,Late delivery,0.194545
+cs_ticket_drivers,2025-10-01,Out of stock / cancelled,0.106064
+cs_ticket_drivers,2025-10-01,Returns & refunds,0.218736
+cs_ticket_drivers,2025-10-01,Payment issue,0.173743
+cs_ticket_drivers,2025-10-01,Product question,0.306911
+cs_ticket_drivers,2025-10-01,All,0.194545
+cs_ticket_drivers,2025-11-01,Late delivery,0.243341
+cs_ticket_drivers,2025-11-01,Out of stock / cancelled,0.123843
+cs_ticket_drivers,2025-11-01,Returns & refunds,0.19561
+cs_ticket_drivers,2025-11-01,Payment issue,0.161873
+cs_ticket_drivers,2025-11-01,Product question,0.275333
+cs_ticket_drivers,2025-11-01,All,0.243341
+cs_ticket_drivers,2025-12-01,Late delivery,0.238893
+cs_ticket_drivers,2025-12-01,Out of stock / cancelled,0.126514
+cs_ticket_drivers,2025-12-01,Returns & refunds,0.202487
+cs_ticket_drivers,2025-12-01,Payment issue,0.162485
+cs_ticket_drivers,2025-12-01,Product question,0.269622
+cs_ticket_drivers,2025-12-01,All,0.238893
+cs_ticket_drivers,2026-01-01,Late delivery,0.186326
+cs_ticket_drivers,2026-01-01,Out of stock / cancelled,0.102534
+cs_ticket_drivers,2026-01-01,Returns & refunds,0.232942
+cs_ticket_drivers,2026-01-01,Payment issue,0.193707
+cs_ticket_drivers,2026-01-01,Product question,0.284491
+cs_ticket_drivers,2026-01-01,All,0.186326
+cs_ticket_drivers,2026-02-01,Late delivery,0.191757
+cs_ticket_drivers,2026-02-01,Out of stock / cancelled,0.103901
+cs_ticket_drivers,2026-02-01,Returns & refunds,0.213342
+cs_ticket_drivers,2026-02-01,Payment issue,0.196062
+cs_ticket_drivers,2026-02-01,Product question,0.294938
+cs_ticket_drivers,2026-02-01,All,0.191757
+cs_ticket_drivers,2026-03-01,Late delivery,0.192039
+cs_ticket_drivers,2026-03-01,Out of stock / cancelled,0.109114
+cs_ticket_drivers,2026-03-01,Returns & refunds,0.217668
+cs_ticket_drivers,2026-03-01,Payment issue,0.179631
+cs_ticket_drivers,2026-03-01,Product question,0.301548
+cs_ticket_drivers,2026-03-01,All,0.192039
+cs_ticket_drivers,2026-04-01,Late delivery,0.190957
+cs_ticket_drivers,2026-04-01,Out of stock / cancelled,0.105195
+cs_ticket_drivers,2026-04-01,Returns & refunds,0.214658
+cs_ticket_drivers,2026-04-01,Payment issue,0.186042
+cs_ticket_drivers,2026-04-01,Product question,0.303149
+cs_ticket_drivers,2026-04-01,All,0.190957
+cs_ticket_drivers,2026-05-01,Late delivery,0.195183
+cs_ticket_drivers,2026-05-01,Out of stock / cancelled,0.108467
+cs_ticket_drivers,2026-05-01,Returns & refunds,0.215753
+cs_ticket_drivers,2026-05-01,Payment issue,0.170369
+cs_ticket_drivers,2026-05-01,Product question,0.310228
+cs_ticket_drivers,2026-05-01,All,0.195183
+cs_ticket_drivers,2026-06-01,Late delivery,0.190606
+cs_ticket_drivers,2026-06-01,Out of stock / cancelled,0.1065
+cs_ticket_drivers,2026-06-01,Returns & refunds,0.213927
+cs_ticket_drivers,2026-06-01,Payment issue,0.172007
+cs_ticket_drivers,2026-06-01,Product question,0.316959
+cs_ticket_drivers,2026-06-01,All,0.190606
+cs_ticket_drivers,2026-07-01,Late delivery,0.182598
+cs_ticket_drivers,2026-07-01,Out of stock / cancelled,0.106672
+cs_ticket_drivers,2026-07-01,Returns & refunds,0.213665
+cs_ticket_drivers,2026-07-01,Payment issue,0.17962
+cs_ticket_drivers,2026-07-01,Product question,0.317446
+cs_ticket_drivers,2026-07-01,All,0.182598
+cs_ticket_drivers,2026-08-01,Late delivery,0.199557
+cs_ticket_drivers,2026-08-01,Out of stock / cancelled,0.102326
+cs_ticket_drivers,2026-08-01,Returns & refunds,0.211289
+cs_ticket_drivers,2026-08-01,Payment issue,0.190856
+cs_ticket_drivers,2026-08-01,Product question,0.295971
+cs_ticket_drivers,2026-08-01,All,0.199557
+cs_ticket_drivers,2026-09-01,Late delivery,0.235487
+cs_ticket_drivers,2026-09-01,Out of stock / cancelled,0.155694
+cs_ticket_drivers,2026-09-01,Returns & refunds,0.186765
+cs_ticket_drivers,2026-09-01,Payment issue,0.166066
+cs_ticket_drivers,2026-09-01,Product question,0.255989
+cs_ticket_drivers,2026-09-01,All,0.235487
+cs_ticket_drivers,2026-10-01,Late delivery,0.323867
+cs_ticket_drivers,2026-10-01,Out of stock / cancelled,0.186001
+cs_ticket_drivers,2026-10-01,Returns & refunds,0.175943
+cs_ticket_drivers,2026-10-01,Payment issue,0.115234
+cs_ticket_drivers,2026-10-01,Product question,0.198955
+cs_ticket_drivers,2026-10-01,All,0.323867
+fin_gross_margin,2025-01-01,Electronics,0.243611
+fin_gross_margin,2025-01-01,Home & Kitchen,0.383377
+fin_gross_margin,2025-01-01,Beauty,0.464291
+fin_gross_margin,2025-01-01,Fashion,0.416852
+fin_gross_margin,2025-01-01,Groceries,0.179208
+fin_gross_margin,2025-01-01,All,0.336501
+fin_gross_margin,2025-02-01,Electronics,0.24123
+fin_gross_margin,2025-02-01,Home & Kitchen,0.384116
+fin_gross_margin,2025-02-01,Beauty,0.45701
+fin_gross_margin,2025-02-01,Fashion,0.420277
+fin_gross_margin,2025-02-01,Groceries,0.183332
+fin_gross_margin,2025-02-01,All,0.335957
+fin_gross_margin,2025-03-01,Electronics,0.240579
+fin_gross_margin,2025-03-01,Home & Kitchen,0.386088
+fin_gross_margin,2025-03-01,Beauty,0.457958
+fin_gross_margin,2025-03-01,Fashion,0.419801
+fin_gross_margin,2025-03-01,Groceries,0.184746
+fin_gross_margin,2025-03-01,All,0.337061
+fin_gross_margin,2025-04-01,Electronics,0.237269
+fin_gross_margin,2025-04-01,Home & Kitchen,0.380867
+fin_gross_margin,2025-04-01,Beauty,0.463115
+fin_gross_margin,2025-04-01,Fashion,0.420989
+fin_gross_margin,2025-04-01,Groceries,0.1813
+fin_gross_margin,2025-04-01,All,0.336542
+fin_gross_margin,2025-05-01,Electronics,0.243724
+fin_gross_margin,2025-05-01,Home & Kitchen,0.381207
+fin_gross_margin,2025-05-01,Beauty,0.460381
+fin_gross_margin,2025-05-01,Fashion,0.419858
+fin_gross_margin,2025-05-01,Groceries,0.180381
+fin_gross_margin,2025-05-01,All,0.336566
+fin_gross_margin,2025-06-01,Electronics,0.245252
+fin_gross_margin,2025-06-01,Home & Kitchen,0.383962
+fin_gross_margin,2025-06-01,Beauty,0.459448
+fin_gross_margin,2025-06-01,Fashion,0.418859
+fin_gross_margin,2025-06-01,Groceries,0.182292
+fin_gross_margin,2025-06-01,All,0.336948
+fin_gross_margin,2025-07-01,Electronics,0.240428
+fin_gross_margin,2025-07-01,Home & Kitchen,0.384455
+fin_gross_margin,2025-07-01,Beauty,0.463407
+fin_gross_margin,2025-07-01,Fashion,0.418707
+fin_gross_margin,2025-07-01,Groceries,0.18324
+fin_gross_margin,2025-07-01,All,0.336902
+fin_gross_margin,2025-08-01,Electronics,0.242284
+fin_gross_margin,2025-08-01,Home & Kitchen,0.380178
+fin_gross_margin,2025-08-01,Beauty,0.463291
+fin_gross_margin,2025-08-01,Fashion,0.425316
+fin_gross_margin,2025-08-01,Groceries,0.180592
+fin_gross_margin,2025-08-01,All,0.336792
+fin_gross_margin,2025-09-01,Electronics,0.246401
+fin_gross_margin,2025-09-01,Home & Kitchen,0.386737
+fin_gross_margin,2025-09-01,Beauty,0.464984
+fin_gross_margin,2025-09-01,Fashion,0.424845
+fin_gross_margin,2025-09-01,Groceries,0.182304
+fin_gross_margin,2025-09-01,All,0.336953
+fin_gross_margin,2025-10-01,Electronics,0.245923
+fin_gross_margin,2025-10-01,Home & Kitchen,0.377072
+fin_gross_margin,2025-10-01,Beauty,0.456921
+fin_gross_margin,2025-10-01,Fashion,0.422595
+fin_gross_margin,2025-10-01,Groceries,0.179516
+fin_gross_margin,2025-10-01,All,0.336204
+fin_gross_margin,2025-11-01,Electronics,0.205831
+fin_gross_margin,2025-11-01,Home & Kitchen,0.357137
+fin_gross_margin,2025-11-01,Beauty,0.441326
+fin_gross_margin,2025-11-01,Fashion,0.397658
+fin_gross_margin,2025-11-01,Groceries,0.158858
+fin_gross_margin,2025-11-01,All,0.311306
+fin_gross_margin,2025-12-01,Electronics,0.21128
+fin_gross_margin,2025-12-01,Home & Kitchen,0.361119
+fin_gross_margin,2025-12-01,Beauty,0.442945
+fin_gross_margin,2025-12-01,Fashion,0.397215
+fin_gross_margin,2025-12-01,Groceries,0.155296
+fin_gross_margin,2025-12-01,All,0.311335
+fin_gross_margin,2026-01-01,Electronics,0.231231
+fin_gross_margin,2026-01-01,Home & Kitchen,0.376107
+fin_gross_margin,2026-01-01,Beauty,0.455896
+fin_gross_margin,2026-01-01,Fashion,0.4135
+fin_gross_margin,2026-01-01,Groceries,0.171096
+fin_gross_margin,2026-01-01,All,0.329932
+fin_gross_margin,2026-02-01,Electronics,0.244851
+fin_gross_margin,2026-02-01,Home & Kitchen,0.377083
+fin_gross_margin,2026-02-01,Beauty,0.460074
+fin_gross_margin,2026-02-01,Fashion,0.422083
+fin_gross_margin,2026-02-01,Groceries,0.183202
+fin_gross_margin,2026-02-01,All,0.336368
+fin_gross_margin,2026-03-01,Electronics,0.243997
+fin_gross_margin,2026-03-01,Home & Kitchen,0.383077
+fin_gross_margin,2026-03-01,Beauty,0.466371
+fin_gross_margin,2026-03-01,Fashion,0.424852
+fin_gross_margin,2026-03-01,Groceries,0.179779
+fin_gross_margin,2026-03-01,All,0.336805
+fin_gross_margin,2026-04-01,Electronics,0.242179
+fin_gross_margin,2026-04-01,Home & Kitchen,0.381806
+fin_gross_margin,2026-04-01,Beauty,0.462262
+fin_gross_margin,2026-04-01,Fashion,0.424383
+fin_gross_margin,2026-04-01,Groceries,0.182779
+fin_gross_margin,2026-04-01,All,0.335879
+fin_gross_margin,2026-05-01,Electronics,0.242145
+fin_gross_margin,2026-05-01,Home & Kitchen,0.385844
+fin_gross_margin,2026-05-01,Beauty,0.465905
+fin_gross_margin,2026-05-01,Fashion,0.420954
+fin_gross_margin,2026-05-01,Groceries,0.184525
+fin_gross_margin,2026-05-01,All,0.335927
+fin_gross_margin,2026-06-01,Electronics,0.247677
+fin_gross_margin,2026-06-01,Home & Kitchen,0.381512
+fin_gross_margin,2026-06-01,Beauty,0.464374
+fin_gross_margin,2026-06-01,Fashion,0.424291
+fin_gross_margin,2026-06-01,Groceries,0.17954
+fin_gross_margin,2026-06-01,All,0.337862
+fin_gross_margin,2026-07-01,Electronics,0.247326
+fin_gross_margin,2026-07-01,Home & Kitchen,0.384953
+fin_gross_margin,2026-07-01,Beauty,0.462534
+fin_gross_margin,2026-07-01,Fashion,0.419813
+fin_gross_margin,2026-07-01,Groceries,0.182171
+fin_gross_margin,2026-07-01,All,0.337242
+fin_gross_margin,2026-08-01,Electronics,0.246572
+fin_gross_margin,2026-08-01,Home & Kitchen,0.377114
+fin_gross_margin,2026-08-01,Beauty,0.45993
+fin_gross_margin,2026-08-01,Fashion,0.422655
+fin_gross_margin,2026-08-01,Groceries,0.183912
+fin_gross_margin,2026-08-01,All,0.336783
+fin_gross_margin,2026-09-01,Electronics,0.159466
+fin_gross_margin,2026-09-01,Home & Kitchen,0.324033
+fin_gross_margin,2026-09-01,Beauty,0.405743
+fin_gross_margin,2026-09-01,Fashion,0.36556
+fin_gross_margin,2026-09-01,Groceries,0.125605
+fin_gross_margin,2026-09-01,All,0.273804
+fin_gross_margin,2026-10-01,Electronics,0.193661
+fin_gross_margin,2026-10-01,Home & Kitchen,0.348697
+fin_gross_margin,2026-10-01,Beauty,0.428598
+fin_gross_margin,2026-10-01,Fashion,0.391183
+fin_gross_margin,2026-10-01,Groceries,0.150865
+fin_gross_margin,2026-10-01,All,0.298942
+fin_opex_vs_budget,2025-01-01,Logistics & delivery,0.963034
+fin_opex_vs_budget,2025-01-01,Payroll,0.961753
+fin_opex_vs_budget,2025-01-01,Marketing,0.963582
+fin_opex_vs_budget,2025-01-01,Rent & utilities,0.978728
+fin_opex_vs_budget,2025-01-01,Tech & tools,0.983543
+fin_opex_vs_budget,2025-01-01,All,0.965036
+fin_opex_vs_budget,2025-02-01,Logistics & delivery,0.984829
+fin_opex_vs_budget,2025-02-01,Payroll,0.988718
+fin_opex_vs_budget,2025-02-01,Marketing,0.987471
+fin_opex_vs_budget,2025-02-01,Rent & utilities,0.985199
+fin_opex_vs_budget,2025-02-01,Tech & tools,0.96524
+fin_opex_vs_budget,2025-02-01,All,0.986036
+fin_opex_vs_budget,2025-03-01,Logistics & delivery,0.986669
+fin_opex_vs_budget,2025-03-01,Payroll,0.96652
+fin_opex_vs_budget,2025-03-01,Marketing,0.967674
+fin_opex_vs_budget,2025-03-01,Rent & utilities,0.963382
+fin_opex_vs_budget,2025-03-01,Tech & tools,0.983193
+fin_opex_vs_budget,2025-03-01,All,0.973125
+fin_opex_vs_budget,2025-04-01,Logistics & delivery,0.978796
+fin_opex_vs_budget,2025-04-01,Payroll,0.966062
+fin_opex_vs_budget,2025-04-01,Marketing,0.980743
+fin_opex_vs_budget,2025-04-01,Rent & utilities,0.974836
+fin_opex_vs_budget,2025-04-01,Tech & tools,0.967512
+fin_opex_vs_budget,2025-04-01,All,0.97346
+fin_opex_vs_budget,2025-05-01,Logistics & delivery,0.976871
+fin_opex_vs_budget,2025-05-01,Payroll,0.96675
+fin_opex_vs_budget,2025-05-01,Marketing,0.980834
+fin_opex_vs_budget,2025-05-01,Rent & utilities,0.982807
+fin_opex_vs_budget,2025-05-01,Tech & tools,0.965283
+fin_opex_vs_budget,2025-05-01,All,0.973869
+fin_opex_vs_budget,2025-06-01,Logistics & delivery,0.964069
+fin_opex_vs_budget,2025-06-01,Payroll,0.985777
+fin_opex_vs_budget,2025-06-01,Marketing,0.974733
+fin_opex_vs_budget,2025-06-01,Rent & utilities,0.985902
+fin_opex_vs_budget,2025-06-01,Tech & tools,0.977166
+fin_opex_vs_budget,2025-06-01,All,0.976945
+fin_opex_vs_budget,2025-07-01,Logistics & delivery,0.989277
+fin_opex_vs_budget,2025-07-01,Payroll,0.979612
+fin_opex_vs_budget,2025-07-01,Marketing,0.976246
+fin_opex_vs_budget,2025-07-01,Rent & utilities,0.972462
+fin_opex_vs_budget,2025-07-01,Tech & tools,0.965862
+fin_opex_vs_budget,2025-07-01,All,0.980641
+fin_opex_vs_budget,2025-08-01,Logistics & delivery,0.983662
+fin_opex_vs_budget,2025-08-01,Payroll,0.968956
+fin_opex_vs_budget,2025-08-01,Marketing,0.971339
+fin_opex_vs_budget,2025-08-01,Rent & utilities,0.964633
+fin_opex_vs_budget,2025-08-01,Tech & tools,0.975912
+fin_opex_vs_budget,2025-08-01,All,0.973643
+fin_opex_vs_budget,2025-09-01,Logistics & delivery,0.964463
+fin_opex_vs_budget,2025-09-01,Payroll,0.988053
+fin_opex_vs_budget,2025-09-01,Marketing,0.969278
+fin_opex_vs_budget,2025-09-01,Rent & utilities,0.974784
+fin_opex_vs_budget,2025-09-01,Tech & tools,0.963218
+fin_opex_vs_budget,2025-09-01,All,0.975276
+fin_opex_vs_budget,2025-10-01,Logistics & delivery,0.979829
+fin_opex_vs_budget,2025-10-01,Payroll,0.971323
+fin_opex_vs_budget,2025-10-01,Marketing,0.96484
+fin_opex_vs_budget,2025-10-01,Rent & utilities,0.987372
+fin_opex_vs_budget,2025-10-01,Tech & tools,0.962339
+fin_opex_vs_budget,2025-10-01,All,0.973954
+fin_opex_vs_budget,2025-11-01,Logistics & delivery,1.035278
+fin_opex_vs_budget,2025-11-01,Payroll,0.978953
+fin_opex_vs_budget,2025-11-01,Marketing,0.997076
+fin_opex_vs_budget,2025-11-01,Rent & utilities,0.969492
+fin_opex_vs_budget,2025-11-01,Tech & tools,0.979599
+fin_opex_vs_budget,2025-11-01,All,0.998192
+fin_opex_vs_budget,2025-12-01,Logistics & delivery,1.018981
+fin_opex_vs_budget,2025-12-01,Payroll,0.981648
+fin_opex_vs_budget,2025-12-01,Marketing,0.97864
+fin_opex_vs_budget,2025-12-01,Rent & utilities,0.990094
+fin_opex_vs_budget,2025-12-01,Tech & tools,0.976598
+fin_opex_vs_budget,2025-12-01,All,0.992949
+fin_opex_vs_budget,2026-01-01,Logistics & delivery,0.975762
+fin_opex_vs_budget,2026-01-01,Payroll,0.975214
+fin_opex_vs_budget,2026-01-01,Marketing,0.989284
+fin_opex_vs_budget,2026-01-01,Rent & utilities,0.976584
+fin_opex_vs_budget,2026-01-01,Tech & tools,0.971796
+fin_opex_vs_budget,2026-01-01,All,0.977911
+fin_opex_vs_budget,2026-02-01,Logistics & delivery,0.987182
+fin_opex_vs_budget,2026-02-01,Payroll,0.974743
+fin_opex_vs_budget,2026-02-01,Marketing,0.963962
+fin_opex_vs_budget,2026-02-01,Rent & utilities,0.98532
+fin_opex_vs_budget,2026-02-01,Tech & tools,0.973597
+fin_opex_vs_budget,2026-02-01,All,0.977546
+fin_opex_vs_budget,2026-03-01,Logistics & delivery,0.963207
+fin_opex_vs_budget,2026-03-01,Payroll,0.968864
+fin_opex_vs_budget,2026-03-01,Marketing,0.971611
+fin_opex_vs_budget,2026-03-01,Rent & utilities,0.978375
+fin_opex_vs_budget,2026-03-01,Tech & tools,0.967637
+fin_opex_vs_budget,2026-03-01,All,0.968563
+fin_opex_vs_budget,2026-04-01,Logistics & delivery,0.969552
+fin_opex_vs_budget,2026-04-01,Payroll,0.965441
+fin_opex_vs_budget,2026-04-01,Marketing,0.987055
+fin_opex_vs_budget,2026-04-01,Rent & utilities,0.970388
+fin_opex_vs_budget,2026-04-01,Tech & tools,0.970738
+fin_opex_vs_budget,2026-04-01,All,0.971271
+fin_opex_vs_budget,2026-05-01,Logistics & delivery,0.96578
+fin_opex_vs_budget,2026-05-01,Payroll,0.964488
+fin_opex_vs_budget,2026-05-01,Marketing,0.96984
+fin_opex_vs_budget,2026-05-01,Rent & utilities,0.96763
+fin_opex_vs_budget,2026-05-01,Tech & tools,0.968003
+fin_opex_vs_budget,2026-05-01,All,0.966294
+fin_opex_vs_budget,2026-06-01,Logistics & delivery,0.972638
+fin_opex_vs_budget,2026-06-01,Payroll,0.982782
+fin_opex_vs_budget,2026-06-01,Marketing,0.986225
+fin_opex_vs_budget,2026-06-01,Rent & utilities,0.960833
+fin_opex_vs_budget,2026-06-01,Tech & tools,0.966403
+fin_opex_vs_budget,2026-06-01,All,0.977508
+fin_opex_vs_budget,2026-07-01,Logistics & delivery,0.97498
+fin_opex_vs_budget,2026-07-01,Payroll,0.979522
+fin_opex_vs_budget,2026-07-01,Marketing,0.980407
+fin_opex_vs_budget,2026-07-01,Rent & utilities,0.967902
+fin_opex_vs_budget,2026-07-01,Tech & tools,0.984407
+fin_opex_vs_budget,2026-07-01,All,0.977352
+fin_opex_vs_budget,2026-08-01,Logistics & delivery,0.982868
+fin_opex_vs_budget,2026-08-01,Payroll,0.988305
+fin_opex_vs_budget,2026-08-01,Marketing,0.971979
+fin_opex_vs_budget,2026-08-01,Rent & utilities,0.983001
+fin_opex_vs_budget,2026-08-01,Tech & tools,0.961242
+fin_opex_vs_budget,2026-08-01,All,0.982122
+fin_opex_vs_budget,2026-09-01,Logistics & delivery,1.044099
+fin_opex_vs_budget,2026-09-01,Payroll,0.999193
+fin_opex_vs_budget,2026-09-01,Marketing,1.125932
+fin_opex_vs_budget,2026-09-01,Rent & utilities,0.983607
+fin_opex_vs_budget,2026-09-01,Tech & tools,0.979277
+fin_opex_vs_budget,2026-09-01,All,1.033123
+fin_opex_vs_budget,2026-10-01,Logistics & delivery,1.156606
+fin_opex_vs_budget,2026-10-01,Payroll,1.034697
+fin_opex_vs_budget,2026-10-01,Marketing,1.009479
+fin_opex_vs_budget,2026-10-01,Rent & utilities,0.977076
+fin_opex_vs_budget,2026-10-01,Tech & tools,0.981067
+fin_opex_vs_budget,2026-10-01,All,1.058823
+fin_cash,2025-01-01,Lagos,118517109.462891
+fin_cash,2025-01-01,Abuja,62514061.483125
+fin_cash,2025-01-01,Port Harcourt,48516182.684472
+fin_cash,2025-01-01,Ibadan,47877115.426965
+fin_cash,2025-01-01,Kano,41876482.908959
+fin_cash,2025-01-01,All,319300951.966412
+fin_cash,2025-02-01,Lagos,124796502.078656
+fin_cash,2025-02-01,Abuja,65176682.440035
+fin_cash,2025-02-01,Port Harcourt,49595720.247454
+fin_cash,2025-02-01,Ibadan,46571815.373361
+fin_cash,2025-02-01,Kano,41912441.779118
+fin_cash,2025-02-01,All,328053161.918623
+fin_cash,2025-03-01,Lagos,140502923.417333
+fin_cash,2025-03-01,Abuja,71991722.506003
+fin_cash,2025-03-01,Port Harcourt,54383059.708758
+fin_cash,2025-03-01,Ibadan,54331956.038982
+fin_cash,2025-03-01,Kano,49019378.496713
+fin_cash,2025-03-01,All,370229040.167788
+fin_cash,2025-04-01,Lagos,147107122.105278
+fin_cash,2025-04-01,Abuja,78817740.697636
+fin_cash,2025-04-01,Port Harcourt,54335758.410254
+fin_cash,2025-04-01,Ibadan,55715534.565365
+fin_cash,2025-04-01,Kano,47809185.543952
+fin_cash,2025-04-01,All,383785341.322485
+fin_cash,2025-05-01,Lagos,153387312.32214
+fin_cash,2025-05-01,Abuja,79093936.727506
+fin_cash,2025-05-01,Port Harcourt,56918295.716339
+fin_cash,2025-05-01,Ibadan,51017868.586913
+fin_cash,2025-05-01,Kano,47745018.936421
+fin_cash,2025-05-01,All,388162432.289319
+fin_cash,2025-06-01,Lagos,152204952.450917
+fin_cash,2025-06-01,Abuja,83962448.08905
+fin_cash,2025-06-01,Port Harcourt,59853718.805567
+fin_cash,2025-06-01,Ibadan,54378237.651386
+fin_cash,2025-06-01,Kano,53571217.11915
+fin_cash,2025-06-01,All,403970574.11607
+fin_cash,2025-07-01,Lagos,154206422.269037
+fin_cash,2025-07-01,Abuja,78124751.067382
+fin_cash,2025-07-01,Port Harcourt,62181522.97224
+fin_cash,2025-07-01,Ibadan,55235215.582284
+fin_cash,2025-07-01,Kano,49942503.125034
+fin_cash,2025-07-01,All,399690415.015977
+fin_cash,2025-08-01,Lagos,156342555.847634
+fin_cash,2025-08-01,Abuja,85647215.004635
+fin_cash,2025-08-01,Port Harcourt,63445507.160088
+fin_cash,2025-08-01,Ibadan,58456359.921601
+fin_cash,2025-08-01,Kano,51764219.005057
+fin_cash,2025-08-01,All,415655856.939015
+fin_cash,2025-09-01,Lagos,160510996.708383
+fin_cash,2025-09-01,Abuja,87349810.631404
+fin_cash,2025-09-01,Port Harcourt,64141810.200721
+fin_cash,2025-09-01,Ibadan,58148031.320534
+fin_cash,2025-09-01,Kano,58064652.017231
+fin_cash,2025-09-01,All,428215300.878273
+fin_cash,2025-10-01,Lagos,164248711.164071
+fin_cash,2025-10-01,Abuja,84961678.960331
+fin_cash,2025-10-01,Port Harcourt,63334103.491314
+fin_cash,2025-10-01,Ibadan,59730894.340172
+fin_cash,2025-10-01,Kano,56573403.201795
+fin_cash,2025-10-01,All,428848791.157683
+fin_cash,2025-11-01,Lagos,214539437.32743
+fin_cash,2025-11-01,Abuja,117011475.260803
+fin_cash,2025-11-01,Port Harcourt,86484964.378649
+fin_cash,2025-11-01,Ibadan,78869841.486205
+fin_cash,2025-11-01,Kano,71371011.492397
+fin_cash,2025-11-01,All,568276729.945485
+fin_cash,2025-12-01,Lagos,241699801.121401
+fin_cash,2025-12-01,Abuja,127035114.826494
+fin_cash,2025-12-01,Port Harcourt,94920079.137837
+fin_cash,2025-12-01,Ibadan,86905812.592655
+fin_cash,2025-12-01,Kano,81432022.982197
+fin_cash,2025-12-01,All,631992830.660584
+fin_cash,2026-01-01,Lagos,144549040.616483
+fin_cash,2026-01-01,Abuja,78865857.615402
+fin_cash,2026-01-01,Port Harcourt,58247225.76899
+fin_cash,2026-01-01,Ibadan,53587829.321702
+fin_cash,2026-01-01,Kano,52218054.97946
+fin_cash,2026-01-01,All,387468008.302037
+fin_cash,2026-02-01,Lagos,156342171.966432
+fin_cash,2026-02-01,Abuja,79496533.738059
+fin_cash,2026-02-01,Port Harcourt,60552992.215232
+fin_cash,2026-02-01,Ibadan,54983807.837502
+fin_cash,2026-02-01,Kano,52232900.224523
+fin_cash,2026-02-01,All,403608405.981748
+fin_cash,2026-03-01,Lagos,159715724.863282
+fin_cash,2026-03-01,Abuja,89749710.219219
+fin_cash,2026-03-01,Port Harcourt,64839415.73912
+fin_cash,2026-03-01,Ibadan,62623146.535213
+fin_cash,2026-03-01,Kano,57677933.807602
+fin_cash,2026-03-01,All,434605931.164436
+fin_cash,2026-04-01,Lagos,171540432.155167
+fin_cash,2026-04-01,Abuja,83888471.778653
+fin_cash,2026-04-01,Port Harcourt,68253337.440684
+fin_cash,2026-04-01,Ibadan,61135900.833291
+fin_cash,2026-04-01,Kano,58489388.213671
+fin_cash,2026-04-01,All,443307530.421466
+fin_cash,2026-05-01,Lagos,165063956.767532
+fin_cash,2026-05-01,Abuja,86878125.207027
+fin_cash,2026-05-01,Port Harcourt,66031989.428385
+fin_cash,2026-05-01,Ibadan,63072905.837557
+fin_cash,2026-05-01,Kano,59895230.272718
+fin_cash,2026-05-01,All,440942207.513219
+fin_cash,2026-06-01,Lagos,170479333.871829
+fin_cash,2026-06-01,Abuja,89561339.478342
+fin_cash,2026-06-01,Port Harcourt,66235223.781086
+fin_cash,2026-06-01,Ibadan,61288063.86124
+fin_cash,2026-06-01,Kano,61625028.531356
+fin_cash,2026-06-01,All,449188989.523852
+fin_cash,2026-07-01,Lagos,169739035.142678
+fin_cash,2026-07-01,Abuja,99561678.58064
+fin_cash,2026-07-01,Port Harcourt,71966638.942399
+fin_cash,2026-07-01,Ibadan,65824150.749531
+fin_cash,2026-07-01,Kano,61572050.108605
+fin_cash,2026-07-01,All,468663553.523852
+fin_cash,2026-08-01,Lagos,183625973.66462
+fin_cash,2026-08-01,Abuja,91601103.095649
+fin_cash,2026-08-01,Port Harcourt,68201889.618888
+fin_cash,2026-08-01,Ibadan,70652980.465079
+fin_cash,2026-08-01,Kano,64318167.592816
+fin_cash,2026-08-01,All,478400114.437052
+fin_cash,2026-09-01,Lagos,214082679.050664
+fin_cash,2026-09-01,Abuja,119560203.369285
+fin_cash,2026-09-01,Port Harcourt,87235461.923219
+fin_cash,2026-09-01,Ibadan,82812888.945033
+fin_cash,2026-09-01,Kano,78776213.162275
+fin_cash,2026-09-01,All,582467446.450476
+fin_cash,2026-10-01,Lagos,162413548.943497
+fin_cash,2026-10-01,Abuja,86495315.132564
+fin_cash,2026-10-01,Port Harcourt,63832846.313074
+fin_cash,2026-10-01,Ibadan,61103013.053484
+fin_cash,2026-10-01,Kano,55930455.921698
+fin_cash,2026-10-01,All,429775179.364316
+hr_headcount,2025-01-01,Operations,175
+hr_headcount,2025-01-01,Stores,91
+hr_headcount,2025-01-01,Customer Service,46
+hr_headcount,2025-01-01,Sales & Marketing,30
+hr_headcount,2025-01-01,Finance,15
+hr_headcount,2025-01-01,Tech & Data,23
+hr_headcount,2025-01-01,All,380
+hr_headcount,2025-02-01,Operations,176
+hr_headcount,2025-02-01,Stores,92
+hr_headcount,2025-02-01,Customer Service,46
+hr_headcount,2025-02-01,Sales & Marketing,31
+hr_headcount,2025-02-01,Finance,15
+hr_headcount,2025-02-01,Tech & Data,23
+hr_headcount,2025-02-01,All,383
+hr_headcount,2025-03-01,Operations,178
+hr_headcount,2025-03-01,Stores,93
+hr_headcount,2025-03-01,Customer Service,46
+hr_headcount,2025-03-01,Sales & Marketing,31
+hr_headcount,2025-03-01,Finance,15
+hr_headcount,2025-03-01,Tech & Data,23
+hr_headcount,2025-03-01,All,386
+hr_headcount,2025-04-01,Operations,179
+hr_headcount,2025-04-01,Stores,93
+hr_headcount,2025-04-01,Customer Service,47
+hr_headcount,2025-04-01,Sales & Marketing,31
+hr_headcount,2025-04-01,Finance,16
+hr_headcount,2025-04-01,Tech & Data,23
+hr_headcount,2025-04-01,All,389
+hr_headcount,2025-05-01,Operations,180
+hr_headcount,2025-05-01,Stores,94
+hr_headcount,2025-05-01,Customer Service,47
+hr_headcount,2025-05-01,Sales & Marketing,31
+hr_headcount,2025-05-01,Finance,16
+hr_headcount,2025-05-01,Tech & Data,24
+hr_headcount,2025-05-01,All,392
+hr_headcount,2025-06-01,Operations,182
+hr_headcount,2025-06-01,Stores,95
+hr_headcount,2025-06-01,Customer Service,47
+hr_headcount,2025-06-01,Sales & Marketing,32
+hr_headcount,2025-06-01,Finance,16
+hr_headcount,2025-06-01,Tech & Data,24
+hr_headcount,2025-06-01,All,396
+hr_headcount,2025-07-01,Operations,183
+hr_headcount,2025-07-01,Stores,96
+hr_headcount,2025-07-01,Customer Service,48
+hr_headcount,2025-07-01,Sales & Marketing,32
+hr_headcount,2025-07-01,Finance,16
+hr_headcount,2025-07-01,Tech & Data,24
+hr_headcount,2025-07-01,All,399
+hr_headcount,2025-08-01,Operations,185
+hr_headcount,2025-08-01,Stores,96
+hr_headcount,2025-08-01,Customer Service,48
+hr_headcount,2025-08-01,Sales & Marketing,32
+hr_headcount,2025-08-01,Finance,16
+hr_headcount,2025-08-01,Tech & Data,24
+hr_headcount,2025-08-01,All,401
+hr_headcount,2025-09-01,Operations,186
+hr_headcount,2025-09-01,Stores,97
+hr_headcount,2025-09-01,Customer Service,49
+hr_headcount,2025-09-01,Sales & Marketing,32
+hr_headcount,2025-09-01,Finance,16
+hr_headcount,2025-09-01,Tech & Data,24
+hr_headcount,2025-09-01,All,404
+hr_headcount,2025-10-01,Operations,188
+hr_headcount,2025-10-01,Stores,98
+hr_headcount,2025-10-01,Customer Service,49
+hr_headcount,2025-10-01,Sales & Marketing,33
+hr_headcount,2025-10-01,Finance,16
+hr_headcount,2025-10-01,Tech & Data,24
+hr_headcount,2025-10-01,All,408
+hr_headcount,2025-11-01,Operations,204
+hr_headcount,2025-11-01,Stores,107
+hr_headcount,2025-11-01,Customer Service,49
+hr_headcount,2025-11-01,Sales & Marketing,33
+hr_headcount,2025-11-01,Finance,16
+hr_headcount,2025-11-01,Tech & Data,25
+hr_headcount,2025-11-01,All,434
+hr_headcount,2025-12-01,Operations,206
+hr_headcount,2025-12-01,Stores,108
+hr_headcount,2025-12-01,Customer Service,50
+hr_headcount,2025-12-01,Sales & Marketing,33
+hr_headcount,2025-12-01,Finance,17
+hr_headcount,2025-12-01,Tech & Data,25
+hr_headcount,2025-12-01,All,439
+hr_headcount,2026-01-01,Operations,192
+hr_headcount,2026-01-01,Stores,100
+hr_headcount,2026-01-01,Customer Service,50
+hr_headcount,2026-01-01,Sales & Marketing,33
+hr_headcount,2026-01-01,Finance,17
+hr_headcount,2026-01-01,Tech & Data,25
+hr_headcount,2026-01-01,All,417
+hr_headcount,2026-02-01,Operations,194
+hr_headcount,2026-02-01,Stores,101
+hr_headcount,2026-02-01,Customer Service,51
+hr_headcount,2026-02-01,Sales & Marketing,34
+hr_headcount,2026-02-01,Finance,17
+hr_headcount,2026-02-01,Tech & Data,25
+hr_headcount,2026-02-01,All,422
+hr_headcount,2026-03-01,Operations,195
+hr_headcount,2026-03-01,Stores,102
+hr_headcount,2026-03-01,Customer Service,51
+hr_headcount,2026-03-01,Sales & Marketing,34
+hr_headcount,2026-03-01,Finance,17
+hr_headcount,2026-03-01,Tech & Data,25
+hr_headcount,2026-03-01,All,424
+hr_headcount,2026-04-01,Operations,197
+hr_headcount,2026-04-01,Stores,103
+hr_headcount,2026-04-01,Customer Service,51
+hr_headcount,2026-04-01,Sales & Marketing,34
+hr_headcount,2026-04-01,Finance,17
+hr_headcount,2026-04-01,Tech & Data,26
+hr_headcount,2026-04-01,All,428
+hr_headcount,2026-05-01,Operations,199
+hr_headcount,2026-05-01,Stores,104
+hr_headcount,2026-05-01,Customer Service,52
+hr_headcount,2026-05-01,Sales & Marketing,35
+hr_headcount,2026-05-01,Finance,17
+hr_headcount,2026-05-01,Tech & Data,26
+hr_headcount,2026-05-01,All,433
+hr_headcount,2026-06-01,Operations,200
+hr_headcount,2026-06-01,Stores,104
+hr_headcount,2026-06-01,Customer Service,52
+hr_headcount,2026-06-01,Sales & Marketing,35
+hr_headcount,2026-06-01,Finance,17
+hr_headcount,2026-06-01,Tech & Data,26
+hr_headcount,2026-06-01,All,434
+hr_headcount,2026-07-01,Operations,202
+hr_headcount,2026-07-01,Stores,105
+hr_headcount,2026-07-01,Customer Service,53
+hr_headcount,2026-07-01,Sales & Marketing,35
+hr_headcount,2026-07-01,Finance,18
+hr_headcount,2026-07-01,Tech & Data,26
+hr_headcount,2026-07-01,All,439
+hr_headcount,2026-08-01,Operations,203
+hr_headcount,2026-08-01,Stores,106
+hr_headcount,2026-08-01,Customer Service,53
+hr_headcount,2026-08-01,Sales & Marketing,35
+hr_headcount,2026-08-01,Finance,18
+hr_headcount,2026-08-01,Tech & Data,27
+hr_headcount,2026-08-01,All,442
+hr_headcount,2026-09-01,Operations,205
+hr_headcount,2026-09-01,Stores,107
+hr_headcount,2026-09-01,Customer Service,53
+hr_headcount,2026-09-01,Sales & Marketing,36
+hr_headcount,2026-09-01,Finance,18
+hr_headcount,2026-09-01,Tech & Data,27
+hr_headcount,2026-09-01,All,446
+hr_headcount,2026-10-01,Operations,207
+hr_headcount,2026-10-01,Stores,108
+hr_headcount,2026-10-01,Customer Service,54
+hr_headcount,2026-10-01,Sales & Marketing,36
+hr_headcount,2026-10-01,Finance,18
+hr_headcount,2026-10-01,Tech & Data,27
+hr_headcount,2026-10-01,All,450
+hr_attrition,2025-01-01,Operations,0.013564
+hr_attrition,2025-01-01,Stores,0.016778
+hr_attrition,2025-01-01,Customer Service,0.01602
+hr_attrition,2025-01-01,Sales & Marketing,0.015018
+hr_attrition,2025-01-01,Finance,0.014789
+hr_attrition,2025-01-01,Tech & Data,0.013741
+hr_attrition,2025-01-01,All,0.014805
+hr_attrition,2025-02-01,Operations,0.01392
+hr_attrition,2025-02-01,Stores,0.011528
+hr_attrition,2025-02-01,Customer Service,0.012685
+hr_attrition,2025-02-01,Sales & Marketing,0.013569
+hr_attrition,2025-02-01,Finance,0.014312
+hr_attrition,2025-02-01,Tech & Data,0.012862
+hr_attrition,2025-02-01,All,0.01312
+hr_attrition,2025-03-01,Operations,0.016151
+hr_attrition,2025-03-01,Stores,0.012065
+hr_attrition,2025-03-01,Customer Service,0.016667
+hr_attrition,2025-03-01,Sales & Marketing,0.011339
+hr_attrition,2025-03-01,Finance,0.016413
+hr_attrition,2025-03-01,Tech & Data,0.01574
+hr_attrition,2025-03-01,All,0.014827
+hr_attrition,2025-04-01,Operations,0.014874
+hr_attrition,2025-04-01,Stores,0.015512
+hr_attrition,2025-04-01,Customer Service,0.012185
+hr_attrition,2025-04-01,Sales & Marketing,0.011481
+hr_attrition,2025-04-01,Finance,0.013756
+hr_attrition,2025-04-01,Tech & Data,0.016732
+hr_attrition,2025-04-01,All,0.014495
+hr_attrition,2025-05-01,Operations,0.014601
+hr_attrition,2025-05-01,Stores,0.015788
+hr_attrition,2025-05-01,Customer Service,0.011344
+hr_attrition,2025-05-01,Sales & Marketing,0.016566
+hr_attrition,2025-05-01,Finance,0.011626
+hr_attrition,2025-05-01,Tech & Data,0.011771
+hr_attrition,2025-05-01,All,0.014356
+hr_attrition,2025-06-01,Operations,0.013829
+hr_attrition,2025-06-01,Stores,0.011488
+hr_attrition,2025-06-01,Customer Service,0.015804
+hr_attrition,2025-06-01,Sales & Marketing,0.014725
+hr_attrition,2025-06-01,Finance,0.014352
+hr_attrition,2025-06-01,Tech & Data,0.011863
+hr_attrition,2025-06-01,All,0.013476
+hr_attrition,2025-07-01,Operations,0.013226
+hr_attrition,2025-07-01,Stores,0.015456
+hr_attrition,2025-07-01,Customer Service,0.016395
+hr_attrition,2025-07-01,Sales & Marketing,0.01188
+hr_attrition,2025-07-01,Finance,0.01254
+hr_attrition,2025-07-01,Tech & Data,0.014293
+hr_attrition,2025-07-01,All,0.014072
+hr_attrition,2025-08-01,Operations,0.014369
+hr_attrition,2025-08-01,Stores,0.011642
+hr_attrition,2025-08-01,Customer Service,0.012549
+hr_attrition,2025-08-01,Sales & Marketing,0.013782
+hr_attrition,2025-08-01,Finance,0.011253
+hr_attrition,2025-08-01,Tech & Data,0.014995
+hr_attrition,2025-08-01,All,0.013365
+hr_attrition,2025-09-01,Operations,0.016169
+hr_attrition,2025-09-01,Stores,0.014955
+hr_attrition,2025-09-01,Customer Service,0.013547
+hr_attrition,2025-09-01,Sales & Marketing,0.013523
+hr_attrition,2025-09-01,Finance,0.013485
+hr_attrition,2025-09-01,Tech & Data,0.013275
+hr_attrition,2025-09-01,All,0.015072
+hr_attrition,2025-10-01,Operations,0.015858
+hr_attrition,2025-10-01,Stores,0.015337
+hr_attrition,2025-10-01,Customer Service,0.014484
+hr_attrition,2025-10-01,Sales & Marketing,0.011884
+hr_attrition,2025-10-01,Finance,0.015402
+hr_attrition,2025-10-01,Tech & Data,0.016623
+hr_attrition,2025-10-01,All,0.015274
+hr_attrition,2025-11-01,Operations,0.014134
+hr_attrition,2025-11-01,Stores,0.013101
+hr_attrition,2025-11-01,Customer Service,0.014059
+hr_attrition,2025-11-01,Sales & Marketing,0.016273
+hr_attrition,2025-11-01,Finance,0.015786
+hr_attrition,2025-11-01,Tech & Data,0.01202
+hr_attrition,2025-11-01,All,0.013973
+hr_attrition,2025-12-01,Operations,0.012469
+hr_attrition,2025-12-01,Stores,0.015929
+hr_attrition,2025-12-01,Customer Service,0.015877
+hr_attrition,2025-12-01,Sales & Marketing,0.013086
+hr_attrition,2025-12-01,Finance,0.01331
+hr_attrition,2025-12-01,Tech & Data,0.015518
+hr_attrition,2025-12-01,All,0.013961
+hr_attrition,2026-01-01,Operations,0.013833
+hr_attrition,2026-01-01,Stores,0.01262
+hr_attrition,2026-01-01,Customer Service,0.013131
+hr_attrition,2026-01-01,Sales & Marketing,0.01552
+hr_attrition,2026-01-01,Finance,0.011448
+hr_attrition,2026-01-01,Tech & Data,0.01218
+hr_attrition,2026-01-01,All,0.013395
+hr_attrition,2026-02-01,Operations,0.016233
+hr_attrition,2026-02-01,Stores,0.015019
+hr_attrition,2026-02-01,Customer Service,0.013146
+hr_attrition,2026-02-01,Sales & Marketing,0.016191
+hr_attrition,2026-02-01,Finance,0.016393
+hr_attrition,2026-02-01,Tech & Data,0.014049
+hr_attrition,2026-02-01,All,0.015443
+hr_attrition,2026-03-01,Operations,0.016046
+hr_attrition,2026-03-01,Stores,0.014435
+hr_attrition,2026-03-01,Customer Service,0.01399
+hr_attrition,2026-03-01,Sales & Marketing,0.012928
+hr_attrition,2026-03-01,Finance,0.01403
+hr_attrition,2026-03-01,Tech & Data,0.013176
+hr_attrition,2026-03-01,All,0.014911
+hr_attrition,2026-04-01,Operations,0.015523
+hr_attrition,2026-04-01,Stores,0.015083
+hr_attrition,2026-04-01,Customer Service,0.012581
+hr_attrition,2026-04-01,Sales & Marketing,0.016648
+hr_attrition,2026-04-01,Finance,0.012361
+hr_attrition,2026-04-01,Tech & Data,0.013153
+hr_attrition,2026-04-01,All,0.014886
+hr_attrition,2026-05-01,Operations,0.012519
+hr_attrition,2026-05-01,Stores,0.012891
+hr_attrition,2026-05-01,Customer Service,0.014861
+hr_attrition,2026-05-01,Sales & Marketing,0.011862
+hr_attrition,2026-05-01,Finance,0.014014
+hr_attrition,2026-05-01,Tech & Data,0.012941
+hr_attrition,2026-05-01,All,0.01292
+hr_attrition,2026-06-01,Operations,0.011765
+hr_attrition,2026-06-01,Stores,0.015138
+hr_attrition,2026-06-01,Customer Service,0.013453
+hr_attrition,2026-06-01,Sales & Marketing,0.016037
+hr_attrition,2026-06-01,Finance,0.01282
+hr_attrition,2026-06-01,Tech & Data,0.012986
+hr_attrition,2026-06-01,All,0.013235
+hr_attrition,2026-07-01,Operations,0.016612
+hr_attrition,2026-07-01,Stores,0.012142
+hr_attrition,2026-07-01,Customer Service,0.015234
+hr_attrition,2026-07-01,Sales & Marketing,0.014236
+hr_attrition,2026-07-01,Finance,0.011389
+hr_attrition,2026-07-01,Tech & Data,0.014942
+hr_attrition,2026-07-01,All,0.014874
+hr_attrition,2026-08-01,Operations,0.012731
+hr_attrition,2026-08-01,Stores,0.013193
+hr_attrition,2026-08-01,Customer Service,0.015006
+hr_attrition,2026-08-01,Sales & Marketing,0.014664
+hr_attrition,2026-08-01,Finance,0.011659
+hr_attrition,2026-08-01,Tech & Data,0.01475
+hr_attrition,2026-08-01,All,0.013347
+hr_attrition,2026-09-01,Operations,0.015628
+hr_attrition,2026-09-01,Stores,0.014207
+hr_attrition,2026-09-01,Customer Service,0.015506
+hr_attrition,2026-09-01,Sales & Marketing,0.014823
+hr_attrition,2026-09-01,Finance,0.014994
+hr_attrition,2026-09-01,Tech & Data,0.016608
+hr_attrition,2026-09-01,All,0.015241
+hr_attrition,2026-10-01,Operations,0.0313
+hr_attrition,2026-10-01,Stores,0.015565
+hr_attrition,2026-10-01,Customer Service,0.01763
+hr_attrition,2026-10-01,Sales & Marketing,0.017128
+hr_attrition,2026-10-01,Finance,0.015263
+hr_attrition,2026-10-01,Tech & Data,0.016436
+hr_attrition,2026-10-01,All,0.023216
+hr_time_to_hire,2025-01-01,Operations,20.602241
+hr_time_to_hire,2025-01-01,Stores,19.356706
+hr_time_to_hire,2025-01-01,Customer Service,24.847572
+hr_time_to_hire,2025-01-01,Sales & Marketing,32.731529
+hr_time_to_hire,2025-01-01,Finance,40.57206
+hr_time_to_hire,2025-01-01,Tech & Data,55.127096
+hr_time_to_hire,2025-01-01,All,24.653379
+hr_time_to_hire,2025-02-01,Operations,20.667495
+hr_time_to_hire,2025-02-01,Stores,19.397689
+hr_time_to_hire,2025-02-01,Customer Service,23.827232
+hr_time_to_hire,2025-02-01,Sales & Marketing,36.695099
+hr_time_to_hire,2025-02-01,Finance,38.735467
+hr_time_to_hire,2025-02-01,Tech & Data,52.65878
+hr_time_to_hire,2025-02-01,All,24.666315
+hr_time_to_hire,2025-03-01,Operations,21.405423
+hr_time_to_hire,2025-03-01,Stores,19.050064
+hr_time_to_hire,2025-03-01,Customer Service,25.464638
+hr_time_to_hire,2025-03-01,Sales & Marketing,33.087089
+hr_time_to_hire,2025-03-01,Finance,43.38826
+hr_time_to_hire,2025-03-01,Tech & Data,54.390956
+hr_time_to_hire,2025-03-01,All,25.120221
+hr_time_to_hire,2025-04-01,Operations,21.843241
+hr_time_to_hire,2025-04-01,Stores,17.784421
+hr_time_to_hire,2025-04-01,Customer Service,24.068958
+hr_time_to_hire,2025-04-01,Sales & Marketing,35.89495
+hr_time_to_hire,2025-04-01,Finance,42.09931
+hr_time_to_hire,2025-04-01,Tech & Data,55.74433
+hr_time_to_hire,2025-04-01,All,25.104655
+hr_time_to_hire,2025-05-01,Operations,19.70483
+hr_time_to_hire,2025-05-01,Stores,16.871324
+hr_time_to_hire,2025-05-01,Customer Service,24.681014
+hr_time_to_hire,2025-05-01,Sales & Marketing,35.16968
+hr_time_to_hire,2025-05-01,Finance,41.83471
+hr_time_to_hire,2025-05-01,Tech & Data,54.91444
+hr_time_to_hire,2025-05-01,All,23.856891
+hr_time_to_hire,2025-06-01,Operations,19.939462
+hr_time_to_hire,2025-06-01,Stores,17.93586
+hr_time_to_hire,2025-06-01,Customer Service,22.364476
+hr_time_to_hire,2025-06-01,Sales & Marketing,32.091635
+hr_time_to_hire,2025-06-01,Finance,44.240103
+hr_time_to_hire,2025-06-01,Tech & Data,52.884563
+hr_time_to_hire,2025-06-01,All,23.670505
+hr_time_to_hire,2025-07-01,Operations,21.421373
+hr_time_to_hire,2025-07-01,Stores,18.141753
+hr_time_to_hire,2025-07-01,Customer Service,24.76128
+hr_time_to_hire,2025-07-01,Sales & Marketing,34.592262
+hr_time_to_hire,2025-07-01,Finance,41.333504
+hr_time_to_hire,2025-07-01,Tech & Data,56.095579
+hr_time_to_hire,2025-07-01,All,24.965662
+hr_time_to_hire,2025-08-01,Operations,19.891145
+hr_time_to_hire,2025-08-01,Stores,18.344766
+hr_time_to_hire,2025-08-01,Customer Service,22.629572
+hr_time_to_hire,2025-08-01,Sales & Marketing,32.668977
+hr_time_to_hire,2025-08-01,Finance,43.631934
+hr_time_to_hire,2025-08-01,Tech & Data,51.515192
+hr_time_to_hire,2025-08-01,All,23.717926
+hr_time_to_hire,2025-09-01,Operations,20.844243
+hr_time_to_hire,2025-09-01,Stores,19.284405
+hr_time_to_hire,2025-09-01,Customer Service,22.673368
+hr_time_to_hire,2025-09-01,Sales & Marketing,33.942048
+hr_time_to_hire,2025-09-01,Finance,37.934619
+hr_time_to_hire,2025-09-01,Tech & Data,55.748619
+hr_time_to_hire,2025-09-01,All,24.515079
+hr_time_to_hire,2025-10-01,Operations,19.644456
+hr_time_to_hire,2025-10-01,Stores,18.162348
+hr_time_to_hire,2025-10-01,Customer Service,23.345841
+hr_time_to_hire,2025-10-01,Sales & Marketing,34.899452
+hr_time_to_hire,2025-10-01,Finance,42.450158
+hr_time_to_hire,2025-10-01,Tech & Data,50.765696
+hr_time_to_hire,2025-10-01,All,23.732819
+hr_time_to_hire,2025-11-01,Operations,20.362523
+hr_time_to_hire,2025-11-01,Stores,17.044222
+hr_time_to_hire,2025-11-01,Customer Service,24.038216
+hr_time_to_hire,2025-11-01,Sales & Marketing,35.236942
+hr_time_to_hire,2025-11-01,Finance,39.269924
+hr_time_to_hire,2025-11-01,Tech & Data,52.85196
+hr_time_to_hire,2025-11-01,All,23.90283
+hr_time_to_hire,2025-12-01,Operations,19.579275
+hr_time_to_hire,2025-12-01,Stores,18.780119
+hr_time_to_hire,2025-12-01,Customer Service,22.22495
+hr_time_to_hire,2025-12-01,Sales & Marketing,31.992907
+hr_time_to_hire,2025-12-01,Finance,43.173624
+hr_time_to_hire,2025-12-01,Tech & Data,49.217286
+hr_time_to_hire,2025-12-01,All,23.420104
+hr_time_to_hire,2026-01-01,Operations,22.616292
+hr_time_to_hire,2026-01-01,Stores,18.830938
+hr_time_to_hire,2026-01-01,Customer Service,24.492507
+hr_time_to_hire,2026-01-01,Sales & Marketing,33.088901
+hr_time_to_hire,2026-01-01,Finance,43.056618
+hr_time_to_hire,2026-01-01,Tech & Data,51.705663
+hr_time_to_hire,2026-01-01,All,25.333737
+hr_time_to_hire,2026-02-01,Operations,19.614977
+hr_time_to_hire,2026-02-01,Stores,17.480413
+hr_time_to_hire,2026-02-01,Customer Service,24.161938
+hr_time_to_hire,2026-02-01,Sales & Marketing,35.152242
+hr_time_to_hire,2026-02-01,Finance,42.926648
+hr_time_to_hire,2026-02-01,Tech & Data,49.512157
+hr_time_to_hire,2026-02-01,All,23.617596
+hr_time_to_hire,2026-03-01,Operations,20.420184
+hr_time_to_hire,2026-03-01,Stores,18.75779
+hr_time_to_hire,2026-03-01,Customer Service,23.995237
+hr_time_to_hire,2026-03-01,Sales & Marketing,36.422066
+hr_time_to_hire,2026-03-01,Finance,39.131347
+hr_time_to_hire,2026-03-01,Tech & Data,51.95752
+hr_time_to_hire,2026-03-01,All,24.371053
+hr_time_to_hire,2026-04-01,Operations,21.481519
+hr_time_to_hire,2026-04-01,Stores,17.113721
+hr_time_to_hire,2026-04-01,Customer Service,22.943489
+hr_time_to_hire,2026-04-01,Sales & Marketing,32.852183
+hr_time_to_hire,2026-04-01,Finance,39.799787
+hr_time_to_hire,2026-04-01,Tech & Data,54.457773
+hr_time_to_hire,2026-04-01,All,24.229643
+hr_time_to_hire,2026-05-01,Operations,22.525557
+hr_time_to_hire,2026-05-01,Stores,16.592935
+hr_time_to_hire,2026-05-01,Customer Service,22.318557
+hr_time_to_hire,2026-05-01,Sales & Marketing,33.485466
+hr_time_to_hire,2026-05-01,Finance,42.335334
+hr_time_to_hire,2026-05-01,Tech & Data,55.462205
+hr_time_to_hire,2026-05-01,All,24.72227
+hr_time_to_hire,2026-06-01,Operations,21.328557
+hr_time_to_hire,2026-06-01,Stores,18.692758
+hr_time_to_hire,2026-06-01,Customer Service,22.914314
+hr_time_to_hire,2026-06-01,Sales & Marketing,34.021193
+hr_time_to_hire,2026-06-01,Finance,42.518755
+hr_time_to_hire,2026-06-01,Tech & Data,53.435465
+hr_time_to_hire,2026-06-01,All,24.67569
+hr_time_to_hire,2026-07-01,Operations,20.968401
+hr_time_to_hire,2026-07-01,Stores,17.047485
+hr_time_to_hire,2026-07-01,Customer Service,25.600894
+hr_time_to_hire,2026-07-01,Sales & Marketing,31.599502
+hr_time_to_hire,2026-07-01,Finance,43.920434
+hr_time_to_hire,2026-07-01,Tech & Data,51.271103
+hr_time_to_hire,2026-07-01,All,24.170012
+hr_time_to_hire,2026-08-01,Operations,20.968428
+hr_time_to_hire,2026-08-01,Stores,17.803722
+hr_time_to_hire,2026-08-01,Customer Service,22.409065
+hr_time_to_hire,2026-08-01,Sales & Marketing,35.15931
+hr_time_to_hire,2026-08-01,Finance,42.388602
+hr_time_to_hire,2026-08-01,Tech & Data,50.474763
+hr_time_to_hire,2026-08-01,All,24.144233
+hr_time_to_hire,2026-09-01,Operations,22.328885
+hr_time_to_hire,2026-09-01,Stores,16.804748
+hr_time_to_hire,2026-09-01,Customer Service,23.443234
+hr_time_to_hire,2026-09-01,Sales & Marketing,36.630829
+hr_time_to_hire,2026-09-01,Finance,42.657599
+hr_time_to_hire,2026-09-01,Tech & Data,47.927757
+hr_time_to_hire,2026-09-01,All,24.63005
+hr_time_to_hire,2026-10-01,Operations,19.3522
+hr_time_to_hire,2026-10-01,Stores,19.335828
+hr_time_to_hire,2026-10-01,Customer Service,24.709235
+hr_time_to_hire,2026-10-01,Sales & Marketing,33.938525
+hr_time_to_hire,2026-10-01,Finance,42.712531
+hr_time_to_hire,2026-10-01,Tech & Data,52.312904
+hr_time_to_hire,2026-10-01,All,24.070077
+hr_absenteeism,2025-01-01,Operations,0.026468
+hr_absenteeism,2025-01-01,Stores,0.029169
+hr_absenteeism,2025-01-01,Customer Service,0.026167
+hr_absenteeism,2025-01-01,Sales & Marketing,0.029214
+hr_absenteeism,2025-01-01,Finance,0.026747
+hr_absenteeism,2025-01-01,Tech & Data,0.031632
+hr_absenteeism,2025-01-01,All,0.027619
+hr_absenteeism,2025-02-01,Operations,0.02734
+hr_absenteeism,2025-02-01,Stores,0.028298
+hr_absenteeism,2025-02-01,Customer Service,0.030648
+hr_absenteeism,2025-02-01,Sales & Marketing,0.031652
+hr_absenteeism,2025-02-01,Finance,0.030267
+hr_absenteeism,2025-02-01,Tech & Data,0.031719
+hr_absenteeism,2025-02-01,All,0.028694
+hr_absenteeism,2025-03-01,Operations,0.028457
+hr_absenteeism,2025-03-01,Stores,0.031493
+hr_absenteeism,2025-03-01,Customer Service,0.030802
+hr_absenteeism,2025-03-01,Sales & Marketing,0.030372
+hr_absenteeism,2025-03-01,Finance,0.030753
+hr_absenteeism,2025-03-01,Tech & Data,0.027647
+hr_absenteeism,2025-03-01,All,0.029663
+hr_absenteeism,2025-04-01,Operations,0.026132
+hr_absenteeism,2025-04-01,Stores,0.026718
+hr_absenteeism,2025-04-01,Customer Service,0.031656
+hr_absenteeism,2025-04-01,Sales & Marketing,0.027545
+hr_absenteeism,2025-04-01,Finance,0.030748
+hr_absenteeism,2025-04-01,Tech & Data,0.029554
+hr_absenteeism,2025-04-01,All,0.027444
+hr_absenteeism,2025-05-01,Operations,0.030438
+hr_absenteeism,2025-05-01,Stores,0.031695
+hr_absenteeism,2025-05-01,Customer Service,0.027909
+hr_absenteeism,2025-05-01,Sales & Marketing,0.028401
+hr_absenteeism,2025-05-01,Finance,0.030106
+hr_absenteeism,2025-05-01,Tech & Data,0.03058
+hr_absenteeism,2025-05-01,All,0.03027
+hr_absenteeism,2025-06-01,Operations,0.028655
+hr_absenteeism,2025-06-01,Stores,0.031558
+hr_absenteeism,2025-06-01,Customer Service,0.028424
+hr_absenteeism,2025-06-01,Sales & Marketing,0.026411
+hr_absenteeism,2025-06-01,Finance,0.027862
+hr_absenteeism,2025-06-01,Tech & Data,0.030534
+hr_absenteeism,2025-06-01,All,0.029224
+hr_absenteeism,2025-07-01,Operations,0.030487
+hr_absenteeism,2025-07-01,Stores,0.027281
+hr_absenteeism,2025-07-01,Customer Service,0.028641
+hr_absenteeism,2025-07-01,Sales & Marketing,0.031744
+hr_absenteeism,2025-07-01,Finance,0.027019
+hr_absenteeism,2025-07-01,Tech & Data,0.026641
+hr_absenteeism,2025-07-01,All,0.029224
+hr_absenteeism,2025-08-01,Operations,0.030697
+hr_absenteeism,2025-08-01,Stores,0.031151
+hr_absenteeism,2025-08-01,Customer Service,0.031394
+hr_absenteeism,2025-08-01,Sales & Marketing,0.027573
+hr_absenteeism,2025-08-01,Finance,0.030767
+hr_absenteeism,2025-08-01,Tech & Data,0.027016
+hr_absenteeism,2025-08-01,All,0.030422
+hr_absenteeism,2025-09-01,Operations,0.026887
+hr_absenteeism,2025-09-01,Stores,0.03041
+hr_absenteeism,2025-09-01,Customer Service,0.030405
+hr_absenteeism,2025-09-01,Sales & Marketing,0.026674
+hr_absenteeism,2025-09-01,Finance,0.031619
+hr_absenteeism,2025-09-01,Tech & Data,0.028672
+hr_absenteeism,2025-09-01,All,0.028436
+hr_absenteeism,2025-10-01,Operations,0.026641
+hr_absenteeism,2025-10-01,Stores,0.030808
+hr_absenteeism,2025-10-01,Customer Service,0.029357
+hr_absenteeism,2025-10-01,Sales & Marketing,0.028151
+hr_absenteeism,2025-10-01,Finance,0.031135
+hr_absenteeism,2025-10-01,Tech & Data,0.029582
+hr_absenteeism,2025-10-01,All,0.028439
+hr_absenteeism,2025-11-01,Operations,0.028395
+hr_absenteeism,2025-11-01,Stores,0.028032
+hr_absenteeism,2025-11-01,Customer Service,0.026761
+hr_absenteeism,2025-11-01,Sales & Marketing,0.028126
+hr_absenteeism,2025-11-01,Finance,0.030827
+hr_absenteeism,2025-11-01,Tech & Data,0.027244
+hr_absenteeism,2025-11-01,All,0.028124
+hr_absenteeism,2025-12-01,Operations,0.026898
+hr_absenteeism,2025-12-01,Stores,0.026687
+hr_absenteeism,2025-12-01,Customer Service,0.031225
+hr_absenteeism,2025-12-01,Sales & Marketing,0.030545
+hr_absenteeism,2025-12-01,Finance,0.027041
+hr_absenteeism,2025-12-01,Tech & Data,0.030792
+hr_absenteeism,2025-12-01,All,0.02784
+hr_absenteeism,2026-01-01,Operations,0.029787
+hr_absenteeism,2026-01-01,Stores,0.026194
+hr_absenteeism,2026-01-01,Customer Service,0.030351
+hr_absenteeism,2026-01-01,Sales & Marketing,0.030364
+hr_absenteeism,2026-01-01,Finance,0.029267
+hr_absenteeism,2026-01-01,Tech & Data,0.030619
+hr_absenteeism,2026-01-01,All,0.029067
+hr_absenteeism,2026-02-01,Operations,0.028682
+hr_absenteeism,2026-02-01,Stores,0.031004
+hr_absenteeism,2026-02-01,Customer Service,0.026477
+hr_absenteeism,2026-02-01,Sales & Marketing,0.031038
+hr_absenteeism,2026-02-01,Finance,0.029799
+hr_absenteeism,2026-02-01,Tech & Data,0.026804
+hr_absenteeism,2026-02-01,All,0.029095
+hr_absenteeism,2026-03-01,Operations,0.027026
+hr_absenteeism,2026-03-01,Stores,0.027914
+hr_absenteeism,2026-03-01,Customer Service,0.029085
+hr_absenteeism,2026-03-01,Sales & Marketing,0.026234
+hr_absenteeism,2026-03-01,Finance,0.031707
+hr_absenteeism,2026-03-01,Tech & Data,0.026393
+hr_absenteeism,2026-03-01,All,0.027574
+hr_absenteeism,2026-04-01,Operations,0.030281
+hr_absenteeism,2026-04-01,Stores,0.029638
+hr_absenteeism,2026-04-01,Customer Service,0.029337
+hr_absenteeism,2026-04-01,Sales & Marketing,0.027826
+hr_absenteeism,2026-04-01,Finance,0.030189
+hr_absenteeism,2026-04-01,Tech & Data,0.031515
+hr_absenteeism,2026-04-01,All,0.02989
+hr_absenteeism,2026-05-01,Operations,0.030472
+hr_absenteeism,2026-05-01,Stores,0.030293
+hr_absenteeism,2026-05-01,Customer Service,0.030118
+hr_absenteeism,2026-05-01,Sales & Marketing,0.027879
+hr_absenteeism,2026-05-01,Finance,0.031292
+hr_absenteeism,2026-05-01,Tech & Data,0.026781
+hr_absenteeism,2026-05-01,All,0.029987
+hr_absenteeism,2026-06-01,Operations,0.026295
+hr_absenteeism,2026-06-01,Stores,0.026382
+hr_absenteeism,2026-06-01,Customer Service,0.027459
+hr_absenteeism,2026-06-01,Sales & Marketing,0.026427
+hr_absenteeism,2026-06-01,Finance,0.030832
+hr_absenteeism,2026-06-01,Tech & Data,0.029568
+hr_absenteeism,2026-06-01,All,0.02684
+hr_absenteeism,2026-07-01,Operations,0.029822
+hr_absenteeism,2026-07-01,Stores,0.030711
+hr_absenteeism,2026-07-01,Customer Service,0.028932
+hr_absenteeism,2026-07-01,Sales & Marketing,0.029822
+hr_absenteeism,2026-07-01,Finance,0.031011
+hr_absenteeism,2026-07-01,Tech & Data,0.030533
+hr_absenteeism,2026-07-01,All,0.030018
+hr_absenteeism,2026-08-01,Operations,0.031857
+hr_absenteeism,2026-08-01,Stores,0.031559
+hr_absenteeism,2026-08-01,Customer Service,0.029932
+hr_absenteeism,2026-08-01,Sales & Marketing,0.030729
+hr_absenteeism,2026-08-01,Finance,0.026994
+hr_absenteeism,2026-08-01,Tech & Data,0.03039
+hr_absenteeism,2026-08-01,All,0.031178
+hr_absenteeism,2026-09-01,Operations,0.040185
+hr_absenteeism,2026-09-01,Stores,0.032801
+hr_absenteeism,2026-09-01,Customer Service,0.041914
+hr_absenteeism,2026-09-01,Sales & Marketing,0.029357
+hr_absenteeism,2026-09-01,Finance,0.031418
+hr_absenteeism,2026-09-01,Tech & Data,0.031597
+hr_absenteeism,2026-09-01,All,0.036871
+hr_absenteeism,2026-10-01,Operations,0.060182
+hr_absenteeism,2026-10-01,Stores,0.038828
+hr_absenteeism,2026-10-01,Customer Service,0.060971
+hr_absenteeism,2026-10-01,Sales & Marketing,0.038971
+hr_absenteeism,2026-10-01,Finance,0.034279
+hr_absenteeism,2026-10-01,Tech & Data,0.035694
+hr_absenteeism,2026-10-01,All,0.05095
