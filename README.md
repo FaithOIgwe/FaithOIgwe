@@ -1,74 +1,128 @@
-<h1 align="left">Faith Onyinye Igwe</h1>
+<div align="center">
 
-**Analytics Engineer / Data Engineer** · fintech data · payments, lending and trading
+<img src="assets/banner.svg" alt="Faith Onyinye Igwe: Analytics Engineer and Data Engineer" width="100%" />
 
-I build the layer between raw event data and the numbers a business makes decisions on: the models, tests, contracts and pipelines that make "how many customers did X" give the same answer in every dashboard.
+<a href="https://github.com/FaithOIgwe">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Incremental+models+that+catch+late-arriving+data;Reversals+as+rows%2C+never+rewritten+history;Contracts+that+fail+the+build%2C+not+the+dashboard;Payments+%C2%B7+Lending+%C2%B7+Trading+data" alt="typing" />
+</a>
 
-Most of my six years in data have been in payments and lending, where the hard part is rarely the SQL. It's the transaction that shows up twice, the reversal that lands in a different month from the original, and two teams getting different totals from the "same" table. That's the work I like.
+<br/>
 
-<p>
-  <a href="https://faithoigwe.github.io"><img src="https://img.shields.io/badge/Portfolio-faithoigwe.github.io-111111?style=flat-square" /></a>
-  <a href="https://instagram.com/project_onyi"><img src="https://img.shields.io/badge/Instagram-project__onyi-111111?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@project_onyi"><img src="https://img.shields.io/badge/TikTok-project__onyi-111111?style=flat-square&logo=tiktok&logoColor=white" /></a>
-</p>
+<a href="https://faithoigwe.github.io"><img src="https://img.shields.io/badge/Portfolio-faithoigwe.github.io-22D3EE?style=for-the-badge&labelColor=0B1020" /></a>
+<a href="https://instagram.com/project_onyi"><img src="https://img.shields.io/badge/@project__onyi-A78BFA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020" /></a>
+<a href="https://www.tiktok.com/@project_onyi"><img src="https://img.shields.io/badge/@project__onyi-34D399?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0B1020" /></a>
 
----
+</div>
 
-### Featured: [trade-ledger-analytics](https://github.com/FaithOIgwe/Trade_ledger_analytics)
+<br/>
 
-A small brokerage data platform, built end to end: batch, lakehouse and streaming paths off one trading database.
+## `> whoami`
 
-```mermaid
-flowchart LR
-    gen[Order generator] --> pg[(Postgres<br/>trading system)]
-    alp[Alpaca market data] --> pg
-    pg --> dbt[dbt<br/>staging → marts → reporting]
-    af[Airflow] -. hourly .-> dbt
-    pg --> spark[Spark] --> ice[(Iceberg on MinIO)] --> trino[Trino]
-    pg -- WAL --> dbz[Debezium] --> rp[Redpanda] --> ch[(ClickHouse)]
+I build the layer between raw event data and the numbers a business decides on: the models, tests, contracts and pipelines that make *"how many customers did X"* give the same answer in every dashboard.
+
+Six years in data, mostly **payments and lending**. The hard part there is rarely the SQL. It's the transaction that shows up twice, the reversal that lands in a different month from the original, and two teams getting different totals from the "same" table. That's the work I like.
+
+```yaml
+role:        Analytics Engineer / Data Engineer
+domain:      fintech · payments · lending · trading
+focus:       data modelling · data quality · pipelines that fail loudly
+currently:   building brokerage data platforms with dbt, Spark and CDC
 ```
 
-What's worth looking at:
+<br/>
 
-- **Incremental on arrival time, not event time.** Late fills arriving days after execution still get picked up, with a guard test against future-dated rows that would otherwise freeze every later run.
-- **Reversals as rows, not updates.** History is never rewritten; positions still net out.
-- **Duplicates counted, not silently dropped.** The dedupe step records how many repeat execution reports it removed, so feed problems surface as a metric.
-- **Enforced contracts on every mart**, an SCD Type 2 snapshot for account history, and tests that encode money rules (every trade reconciles to its cash settlement; fills never exceed order quantity).
-- **CI that builds the project twice** on every push, so the incremental path is tested, not just the full refresh.
-- **Written metric definitions**, including what each metric deliberately leaves out.
+## `> featured_project`
 
----
+### [trade-ledger-analytics](https://github.com/FaithOIgwe/Trade_ledger_analytics) &nbsp; [![dbt ci](https://github.com/FaithOIgwe/Trade_ledger_analytics/actions/workflows/dbt-ci.yml/badge.svg)](https://github.com/FaithOIgwe/Trade_ledger_analytics/actions/workflows/dbt-ci.yml)
 
-### What I work with
+A brokerage data platform built end to end: one trading database, three ways out.
 
-| | |
+<img src="assets/trade-ledger-architecture.svg" alt="trade-ledger-analytics architecture: Postgres to dbt, Spark/Iceberg/Trino and Debezium/Redpanda/ClickHouse" width="100%" />
+
+| Decision | Why it matters |
 | --- | --- |
-| **Modelling & transformation** | SQL, dbt, dimensional modelling, SCD snapshots, data contracts |
-| **Warehouses & engines** | Snowflake, Postgres, ClickHouse, Trino / Presto, Spark |
-| **Pipelines & orchestration** | Python, Airflow, Airbyte, Debezium CDC, Azure / Microsoft Fabric |
-| **Storage** | Apache Iceberg, object storage (S3 / MinIO) |
-| **Quality & delivery** | dbt tests, freshness SLAs, GitHub Actions CI, Docker |
-| **BI** | Sigma, Power BI, Tableau |
+| **Incremental on arrival time, not event time** | A fill that executed Monday but landed Wednesday still gets picked up. A guard test stops one future-dated row from freezing every later run. |
+| **Reversals are rows, not updates** | History is never rewritten, positions still net out, and you can see what was busted and when. |
+| **Duplicates are counted, not silently dropped** | The dedupe records how many repeat reports it removed, so an unstable feed shows up as a metric. |
+| **Enforced contracts on every mart** | Rename a column upstream and `dbt build` fails at the mart, not on a dashboard a week later. |
+| **Tests that encode money rules** | Every trade reconciles to its cash settlement; fills never exceed order quantity; no short positions. |
+| **CI builds the project twice** | The incremental path gets tested on every push, not just the full refresh. |
 
-### How I work
+<br/>
 
-- Start from the question, then the metric, then the grain. Most wrong numbers are grain mistakes.
-- Make failures loud. A broken build at the mart beats a wrong dashboard a week later.
-- Write down what a metric means *and* what it excludes.
-- Explain the business impact, not just what was built.
+## `> stack`
 
----
+<p>
+  <img src="https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=databricks&logoColor=67E8F9" />
+  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/dbt-0B1020?style=for-the-badge&logo=dbt&logoColor=FF694B" />
+  <img src="https://img.shields.io/badge/Snowflake-0B1020?style=for-the-badge&logo=snowflake&logoColor=29B5E8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-0B1020?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
+  <img src="https://img.shields.io/badge/Airflow-0B1020?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
+  <img src="https://img.shields.io/badge/Iceberg-0B1020?style=for-the-badge&logo=apache&logoColor=A5F3FC" />
+  <img src="https://img.shields.io/badge/Trino-0B1020?style=for-the-badge&logo=trino&logoColor=DD00A1" />
+  <img src="https://img.shields.io/badge/ClickHouse-0B1020?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" />
+  <img src="https://img.shields.io/badge/Debezium%20CDC-0B1020?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0B1020?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Azure%20%2F%20Fabric-0B1020?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Sigma-0B1020?style=for-the-badge&logo=sigma&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Power%20BI-0B1020?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Tableau-0B1020?style=for-the-badge&logo=tableau&logoColor=E97627" />
+</p>
 
-### Other work
+<br/>
 
-- [**Data_Engineering_Projects**](https://github.com/FaithOIgwe/Data_Engineering_Projects): Postgres data modelling (Sparkify), web-scraping ETL pipelines, Python for data engineering
-- [**A/B testing: marketing campaign analysis**](https://github.com/FaithOIgwe/A-B-Testing-Marketing-Campaign-Analysis-Python): experiment design and significance testing in Python
-- [**Danny's Diner, 8 Week SQL Challenge**](https://github.com/FaithOIgwe/Danny-s-Dinner-8-weeks-SQL-Challenge): window functions, CTEs, customer analytics
-- [**Mall customer segmentation**](https://github.com/FaithOIgwe/Mall-customers-Kmeans-Clustering-Analysis): K-means clustering
+## `> how_i_work`
 
-### Outside the work
+```sql
+SELECT principle
+FROM   faith.engineering_habits
+WHERE  non_negotiable = TRUE;
 
-I teach data on Instagram and TikTok as **@project_onyi** (chart explainers, how to think like an analyst, learning data in the age of AI). I also run half marathons, paint, play keyboard, and I'm learning French.
+-- 1. question → metric → grain → validate. Most wrong numbers are grain mistakes.
+-- 2. Fail loudly. A broken build at the mart beats a wrong dashboard next week.
+-- 3. Document what a metric counts AND what it deliberately leaves out.
+-- 4. Explain the business impact, not just what was built.
+```
+
+<br/>
+
+## `> more_work`
+
+| Project | What it shows |
+| --- | --- |
+| [**Data_Engineering_Projects**](https://github.com/FaithOIgwe/Data_Engineering_Projects) | Postgres data modelling (Sparkify), web-scraping ETL pipelines, Python for DE |
+| [**A/B Testing: Marketing Campaign**](https://github.com/FaithOIgwe/A-B-Testing-Marketing-Campaign-Analysis-Python) | Experiment analysis and significance testing in Python |
+| [**Danny's Diner: 8 Week SQL Challenge**](https://github.com/FaithOIgwe/Danny-s-Dinner-8-weeks-SQL-Challenge) | Window functions, CTEs, customer analytics |
+| [**Mall Customer Segmentation**](https://github.com/FaithOIgwe/Mall-customers-Kmeans-Clustering-Analysis) | K-means clustering |
+
+<br/>
+
+## `> activity`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FaithOIgwe&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaithOIgwe&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&langs_count=6" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaithOIgwe/FaithOIgwe/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaithOIgwe/FaithOIgwe/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/FaithOIgwe/FaithOIgwe/output/snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+## `> beyond_the_data`
+
+🎥 Teaching data on Instagram & TikTok as **[@project_onyi](https://instagram.com/project_onyi)**: chart explainers, thinking like an analyst, learning data in the age of AI<br/>
+🏃🏾‍♀️ Half marathons, training for a full &nbsp;·&nbsp; 🎨 painting &nbsp;·&nbsp; 🎹 keyboard &nbsp;·&nbsp; 🇫🇷 learning French
 
 <!---
 FaithOIgwe/FaithOIgwe is a special repository: its README.md appears on the GitHub profile.
