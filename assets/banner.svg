@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B18"/>
+      <stop offset="0.6" stop-color="#0C1328"/>
+      <stop offset="1" stop-color="#140F2E"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowV" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#E0F7FF"/>
+      <stop offset="1" stop-color="#A5F3FC"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#FFFFFF" fill-opacity="0.07"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#dots)"/>
+  <circle cx="930" cy="90" r="260" fill="url(#glowV)">
+    <animate attributeName="r" values="240;280;240" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1060" cy="270" r="200" fill="url(#glowC)">
+    <animate attributeName="r" values="210;170;210" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- left: identity -->
+  <g>
+    <rect x="64" y="70" width="8" height="8" rx="2" fill="#34D399">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="84" y="79" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#67E8F9">ANALYTICS ENGINEER · DATA ENGINEER</text>
+
+    <text x="62" y="152" font-size="62" font-weight="800" fill="url(#nameGrad)" letter-spacing="-1">Faith Onyinye Igwe
+      <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+    </text>
+
+    <text x="64" y="198" font-size="21" fill="#CBD5E1">I turn messy, real-world data into numbers</text>
+    <text x="64" y="228" font-size="21" fill="#CBD5E1">every team can <tspan fill="#FFFFFF" font-weight="700">trust</tspan>.</text>
+
+    <g font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">
+      <rect x="64" y="258" width="74" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#22D3EE" stroke-opacity="0.45"/>
+      <text x="101" y="277" text-anchor="middle">dbt</text>
+      <rect x="148" y="258" width="104" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#22D3EE" stroke-opacity="0.45"/>
+      <text x="200" y="277" text-anchor="middle">Snowflake</text>
+      <rect x="262" y="258" width="76" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#A78BFA" stroke-opacity="0.5"/>
+      <text x="300" y="277" text-anchor="middle">Spark</text>
+      <rect x="348" y="258" width="78" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#A78BFA" stroke-opacity="0.5"/>
+      <text x="387" y="277" text-anchor="middle">CDC</text>
+      <rect x="436" y="258" width="92" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.5"/>
+      <text x="482" y="277" text-anchor="middle">Airflow</text>
+    </g>
+  </g>
+
+  <!-- right: live pipeline -->
+  <g transform="translate(640,0)">
+    <!-- connectors -->
+    <path id="p1" d="M 92 112 C 140 112, 140 170, 188 170" fill="none" stroke="url(#line)" stroke-width="2" stroke-opacity="0.55"/>
+    <path id="p2" d="M 92 228 C 140 228, 140 170, 188 170" fill="none" stroke="url(#line)" stroke-width="2" stroke-opacity="0.55"/>
+    <path id="p3" d="M 272 170 L 330 170" fill="none" stroke="#A78BFA" stroke-width="2" stroke-opacity="0.55"/>
+    <path id="p4" d="M 414 170 C 440 170, 440 112, 466 112" fill="none" stroke="#A78BFA" stroke-width="2" stroke-opacity="0.5"/>
+    <path id="p5" d="M 414 170 C 440 170, 440 228, 466 228" fill="none" stroke="#A78BFA" stroke-width="2" stroke-opacity="0.5"/>
+
+    <!-- nodes -->
+    <g font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" text-anchor="middle">
+      <rect x="8" y="94" width="84" height="36" rx="9" fill="#0F1B33" stroke="#22D3EE" stroke-opacity="0.7"/>
+      <text x="50" y="116" fill="#A5F3FC">apps</text>
+      <rect x="8" y="210" width="84" height="36" rx="9" fill="#0F1B33" stroke="#22D3EE" stroke-opacity="0.7"/>
+      <text x="50" y="232" fill="#A5F3FC">events</text>
+
+      <rect x="188" y="146" width="84" height="48" rx="11" fill="#13183A" stroke="#A78BFA"/>
+      <text x="230" y="167" fill="#E9D5FF" font-weight="700">dbt</text>
+      <text x="230" y="183" fill="#94A3B8" font-size="10">tests passing</text>
+
+      <rect x="330" y="146" width="84" height="48" rx="11" fill="#13183A" stroke="#A78BFA"/>
+      <text x="372" y="167" fill="#E9D5FF" font-weight="700">marts</text>
+      <text x="372" y="183" fill="#94A3B8" font-size="10">contracted</text>
+
+      <rect x="466" y="94" width="70" height="36" rx="9" fill="#0E2A24" stroke="#34D399" stroke-opacity="0.7"/>
+      <text x="501" y="116" fill="#6EE7B7">BI</text>
+      <rect x="466" y="210" width="70" height="36" rx="9" fill="#0E2A24" stroke="#34D399" stroke-opacity="0.7"/>
+      <text x="501" y="232" fill="#6EE7B7">alerts</text>
+    </g>
+
+    <!-- mini live chart on right edge -->
+
+    <!-- flowing packets -->
+    <g filter="url(#soft)">
+      <circle r="5" fill="#22D3EE"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+      <circle r="5" fill="#22D3EE"><animateMotion dur="2.4s" begin="-1.2s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+      <circle r="5" fill="#A78BFA"><animateMotion dur="1.2s" begin="-0.4s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+      <circle r="5" fill="#34D399"><animateMotion dur="1.6s" begin="-0.8s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
+      <circle r="5" fill="#34D399"><animateMotion dur="1.6s" begin="-1.6s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion></circle>
+    </g>
+    <g>
+      <circle r="2.5" fill="#FFFFFF"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+      <circle r="2.5" fill="#FFFFFF"><animateMotion dur="2.4s" begin="-1.2s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+      <circle r="2.5" fill="#FFFFFF"><animateMotion dur="1.2s" begin="-0.4s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+      <circle r="2.5" fill="#FFFFFF"><animateMotion dur="1.6s" begin="-0.8s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
+      <circle r="2.5" fill="#FFFFFF"><animateMotion dur="1.6s" begin="-1.6s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion></circle>
+    </g>
+
+    <!-- dashboard bars -->
+    <g transform="translate(440,300)">
+      <rect x="0"  y="-14" width="10" height="14" rx="2" fill="#22D3EE" fill-opacity="0.8"><animate attributeName="height" values="14;30;14" dur="3s" repeatCount="indefinite"/><animate attributeName="y" values="-14;-30;-14" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="16" y="-24" width="10" height="24" rx="2" fill="#67E8F9" fill-opacity="0.8"><animate attributeName="height" values="24;12;24" dur="3s" repeatCount="indefinite"/><animate attributeName="y" values="-24;-12;-24" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="32" y="-18" width="10" height="18" rx="2" fill="#A78BFA" fill-opacity="0.8"><animate attributeName="height" values="18;34;18" dur="3s" repeatCount="indefinite"/><animate attributeName="y" values="-18;-34;-18" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="48" y="-30" width="10" height="30" rx="2" fill="#C4B5FD" fill-opacity="0.8"><animate attributeName="height" values="30;20;30" dur="3s" repeatCount="indefinite"/><animate attributeName="y" values="-30;-20;-30" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="64" y="-38" width="10" height="38" rx="2" fill="#34D399" fill-opacity="0.85"><animate attributeName="height" values="38;44;38" dur="3s" repeatCount="indefinite"/><animate attributeName="y" values="-38;-44;-38" dur="3s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>
