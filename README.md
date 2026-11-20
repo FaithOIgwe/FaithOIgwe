@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Faith Onyinye Igwe: Analytics Engineer and Data Engineer" width="100%" />
 
 <a href="https://github.com/FaithOIgwe">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Incremental+models+that+catch+late-arriving+data;Reversals+as+rows%2C+never+rewritten+history;Contracts+that+fail+the+build%2C+not+the+dashboard;Payments+%C2%B7+Lending+%C2%B7+Trading+data" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Incremental+models+that+catch+late-arriving+data;Reversals+as+rows%2C+never+rewritten+history;Contracts+that+fail+the+build%2C+not+the+dashboard;Any+industry.+Same+rule%3A+the+numbers+must+tie+out." alt="typing" />
 </a>
 
 <br/>
@@ -20,13 +20,13 @@
 
 I build the layer between raw event data and the numbers a business decides on: the models, tests, contracts and pipelines that make *"how many customers did X"* give the same answer in every dashboard.
 
-Six years in data, mostly **payments and lending**. The hard part there is rarely the SQL. It's the transaction that shows up twice, the reversal that lands in a different month from the original, and two teams getting different totals from the "same" table. That's the work I like.
+Six years in data across **finance, retail, marketing, product and operations**, as an in-house engineer and as a freelance BI consultant. The industry changes; the hard part doesn't. It's rarely the SQL. It's the record that shows up twice, the correction that lands in a different month from the original, and two teams getting different totals from the "same" table. That's the work I like.
 
 ```yaml
 role:        Analytics Engineer / Data Engineer
-domain:      fintech · payments · lending · trading
+domains:     finance · retail · marketing · product · operations
 focus:       data modelling · data quality · pipelines that fail loudly
-currently:   building brokerage data platforms with dbt, Spark and CDC
+currently:   building end-to-end platforms with dbt, Spark and CDC
 ```
 
 <br/>
