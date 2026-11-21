@@ -20,4 +20,16 @@ fin_cash,Finance,Cash collected,How much money actually came in?,Payments receiv
 hr_headcount,People,Headcount,How many people work here?,Active employees at month end,Neither,people,,Team,,19
 hr_attrition,People,Monthly attrition,How many people are leaving?,Leavers ÷ headcount,Lower,pct,0.018,Team,hr_absenteeism,20
 hr_time_to_hire,People,Time to hire,How long does it take to fill a role?,Days from job opened to offer accepted,Lower,days,30,Team,,21
-hr_absenteeism,People,Absenteeism,How often are people absent?,Absent days ÷ scheduled working days,Lower,pct,0.035,Team,ops_ontime,22
+sales_orders,Sales,Orders,How many orders did we take?,Count of orders placed in the month,Higher,count,,Region,ops_stockout,22
+sales_repeat,Sales,Repeat purchase rate,Are customers coming back?,Orders from returning customers ÷ all orders,Higher,pct,0.62,Region,cs_csat,23
+mkt_traffic,Marketing,Website and store visits,How many people are we reaching?,Site sessions plus store footfall,Higher,count,,Region,mkt_spend_vs_budget,24
+mkt_spend_vs_budget,Marketing,Marketing spend vs budget,Are we spending what we planned?,Actual marketing spend ÷ budget,Lower,pct,1.0,Channel,,25
+ops_fulfil,Operations,Order fulfilment time,How long from order to dispatch?,Average hours from order placed to dispatched,Lower,hours,24,Region,ops_stockout,26
+ops_delivery_cost,Operations,Delivery cost per order,What does each delivery cost us?,Total delivery cost ÷ orders delivered,Lower,naira,1500,Region,ops_ontime,27
+cs_tickets,Customer Service,Ticket volume,How many customers needed help?,Support tickets opened in the month,Lower,count,,Region,ops_ontime,28
+cs_escalation,Customer Service,Escalation rate,How many issues needed a manager?,Tickets escalated ÷ all tickets,Lower,pct,0.08,Region,cs_tickets,29
+fin_net_margin,Finance,Net profit margin,How much profit do we keep overall?,(Gross profit − operating expenses) ÷ revenue,Higher,pct,0.08,Category,fin_opex_vs_budget,30
+fin_refunds,Finance,Refunds issued,How much money went back to customers?,Value of refunds paid in the month,Lower,naira,,Region,ops_returns,31
+hr_overtime,People,Overtime per employee,Are teams overstretched?,Overtime hours ÷ headcount,Lower,hours,12,Team,ops_fulfil,32
+hr_open_roles,People,Open roles,How many seats are empty?,Approved roles not yet filled at month end,Lower,count,,Team,hr_attrition,33
+hr_absenteeism,People,Absenteeism,How often are people absent?,Absent days ÷ scheduled working days,Lower,pct,0.035,Team,ops_ontime,34
