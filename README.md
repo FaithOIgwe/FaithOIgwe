@@ -31,7 +31,7 @@ currently:   building end-to-end platforms with dbt, Spark and CDC
 
 <br/>
 
-## `> featured_project`
+## `> featured_projects`
 
 ### [trade-ledger-analytics](https://github.com/FaithOIgwe/Trade_ledger_analytics) &nbsp; [![dbt ci](https://github.com/FaithOIgwe/Trade_ledger_analytics/actions/workflows/dbt-ci.yml/badge.svg)](https://github.com/FaithOIgwe/Trade_ledger_analytics/actions/workflows/dbt-ci.yml)
 
@@ -49,6 +49,21 @@ A brokerage data platform built end to end: one trading database, three ways out
 | **CI builds the project twice** | The incremental path gets tested on every push, not just the full refresh. |
 
 <br/>
+
+### [sales-pipeline-analytics](https://github.com/FaithOIgwe/Data_Engineering_Projects/tree/main/sales_dbt%20project) &nbsp; [![dbt ci](https://github.com/FaithOIgwe/Data_Engineering_Projects/actions/workflows/sales-pipeline-analytics.yml/badge.svg)](https://github.com/FaithOIgwe/Data_Engineering_Projects/actions/workflows/sales-pipeline-analytics.yml)
+
+HubSpot CRM data, with the mess left in, turned into pipeline, win-rate and funnel numbers that tie out. Plus creator commerce, to see whether the creators Sales closes go on to earn.
+
+<img src="assets/sales-pipeline-overview.png" alt="New-business deals reaching each pipeline stage, and win rate by quarter" width="100%" />
+
+| Decision | Why it matters |
+| --- | --- |
+| **History from property changes, not the deals table** | The deals table only knows today. Pipeline on any past date, time in stage and owner-at-the-time come from HubSpot's change log. |
+| **A skipped stage still counts as reached** | A deal that jumped from Qualified to Proposal passed Demo. Without that, the funnel stops adding up. |
+| **Two close dates, each with a job** | Bookings and win rate use the HubSpot close date Sales reports on; sales cycle uses when the deal really closed. Every backdated deal is flagged. |
+| **Original, current and at-the-time owner** | Rep credit doesn't move when a rep leaves and their deals are bulk-reassigned. |
+| **Reconciliation tests** | The rebuilt pipeline for the last day matches today's open deals, deal by deal; creator monthly sales tie to orders to the cent. |
+| **A semantic layer tested against real questions** | "What was our win rate in 2025?" is answered through the metrics and in plain SQL, and CI fails if they disagree, so an AI tool gets it right too. |
 
 ## `> stack`
 
@@ -93,7 +108,7 @@ WHERE  non_negotiable = TRUE;
 
 | Project | What it shows |
 | --- | --- |
-| [**Data_Engineering_Projects**](https://github.com/FaithOIgwe/Data_Engineering_Projects) | Postgres data modelling (Sparkify), web-scraping ETL pipelines, Python for DE |
+| [**Data_Engineering_Projects**](https://github.com/FaithOIgwe/Data_Engineering_Projects) | The sales dbt project above, plus Postgres data modelling (Sparkify), web-scraping ETL pipelines, Python for DE |
 | [**A/B Testing: Marketing Campaign**](https://github.com/FaithOIgwe/A-B-Testing-Marketing-Campaign-Analysis-Python) | Experiment analysis and significance testing in Python |
 | [**Danny's Diner: 8 Week SQL Challenge**](https://github.com/FaithOIgwe/Danny-s-Dinner-8-weeks-SQL-Challenge) | Window functions, CTEs, customer analytics |
 | [**Mall Customer Segmentation**](https://github.com/FaithOIgwe/Mall-customers-Kmeans-Clustering-Analysis) | K-means clustering |
