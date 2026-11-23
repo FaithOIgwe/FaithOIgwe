@@ -65,6 +65,23 @@ HubSpot CRM data, with the mess left in, turned into pipeline, win-rate and funn
 | **Reconciliation tests** | The rebuilt pipeline for the last day matches today's open deals, deal by deal; creator monthly sales tie to orders to the cent. |
 | **A semantic layer tested against real questions** | "What was our win rate in 2025?" is answered through the metrics and in plain SQL, and CI fails if they disagree, so an AI tool gets it right too. |
 
+<br/>
+
+### [product-analytics-ga4](https://github.com/FaithOIgwe/Data_Engineering_Projects/tree/main/product_analytics_dbt) &nbsp; [![dbt ci](https://github.com/FaithOIgwe/Data_Engineering_Projects/actions/workflows/product-analytics.yml/badge.svg)](https://github.com/FaithOIgwe/Data_Engineering_Projects/actions/workflows/product-analytics.yml)
+
+Raw GA4 events turned into sessions, active users, activation, retention, feature adoption and an experiment readout that can't fool you.
+
+<img src="assets/product-analytics-overview.png" alt="Weekly retention by cohort, and an A/A test readout where every confidence interval crosses zero" width="100%" />
+
+| Decision | Why it matters |
+| --- | --- |
+| **Incremental on arrival time, not event time** | GA4 accepts events up to 72 hours late and files them under the day they happened. CI proves a two-step incremental build equals a full refresh. |
+| **Devices stitched into people** | Once someone logs in, their earlier anonymous browsing is credited to them, and their phone and laptop count as one person. |
+| **Active = engaged session** | Bounces don't count, and the number matches what the GA4 UI shows. |
+| **Activation chosen with data** | Five candidates scored on reach and how well they predict a purchase. Add-to-cart in 7 days catches 88% of future buyers. |
+| **Incomplete windows flagged, not zeroed** | The newest cohorts don't show a fake drop just because their week isn't over. |
+| **Experiments checked before they're read** | Users seen in both arms are excluded, the split is tested for sample-ratio mismatch, and an A/A test proves the pipeline finds no effect when there is none. |
+
 ## `> stack`
 
 <p>
@@ -108,7 +125,7 @@ WHERE  non_negotiable = TRUE;
 
 | Project | What it shows |
 | --- | --- |
-| [**Data_Engineering_Projects**](https://github.com/FaithOIgwe/Data_Engineering_Projects) | The sales dbt project above, plus Postgres data modelling (Sparkify), web-scraping ETL pipelines, Python for DE |
+| [**Data_Engineering_Projects**](https://github.com/FaithOIgwe/Data_Engineering_Projects) | The sales and product analytics dbt projects above, plus Postgres data modelling (Sparkify), web-scraping ETL pipelines, Python for DE |
 | [**A/B Testing: Marketing Campaign**](https://github.com/FaithOIgwe/A-B-Testing-Marketing-Campaign-Analysis-Python) | Experiment analysis and significance testing in Python |
 | [**Danny's Diner: 8 Week SQL Challenge**](https://github.com/FaithOIgwe/Danny-s-Dinner-8-weeks-SQL-Challenge) | Window functions, CTEs, customer analytics |
 | [**Mall Customer Segmentation**](https://github.com/FaithOIgwe/Mall-customers-Kmeans-Clustering-Analysis) | K-means clustering |
