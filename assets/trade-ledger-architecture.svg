@@ -50,7 +50,7 @@
     <text x="100" y="147" fill="#A5F3FC">generator</text>
     <text x="100" y="163" font-size="10" fill="#64748B">orders · fills</text>
     <rect x="40" y="268" width="120" height="44" rx="10" fill="#0F1B33" stroke="#22D3EE" stroke-opacity="0.75"/>
-    <text x="100" y="287" fill="#A5F3FC">Alpaca API</text>
+    <text x="100" y="287" fill="#A5F3FC">Brokerage API</text>
     <text x="100" y="303" font-size="10" fill="#64748B">market prices</text>
 
     <!-- postgres -->
